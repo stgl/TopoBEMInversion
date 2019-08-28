@@ -1,9 +1,11 @@
 % Concavity:
 theta = 0.4;
 
+save_flag=1;
+
 % weighting factors for bay and Loma Prieta points:
-log_w_bay = -7:0.1:-6;
-log_w_lp = -7:0.1:-6;
+log_w_bay = -7.7:0.1:-5.7;
+log_w_lp = -7:0.1:-5;
 
 w_bay_constr = 10^(-6.5);
 w_lp_constr = 10^(-6.5);
@@ -41,9 +43,19 @@ Ko = -4;
 x_channels=x_channels(channel_indexes); 
 y_channels=y_channels(channel_indexes);
 
-tic
+%%% Felipe's addition/mod
+chi_sq_outletsfree =NaN(size(Log_w_bay));
+v_s = NaN(size(Log_w_bay));
+v_n = NaN(size(Log_w_bay));
+k = NaN(size(Log_w_bay));
+bay_resid = NaN(size(Log_w_bay));
+lp_resid = NaN(size(Log_w_bay));
+t_tot=0;
+total_iter=length(log_w_bay)*length(log_w_lp);
+nr_iter=0;
 for i=1:length(Log_w_bay(:,1))
     for j=1:length(Log_w_bay(1,:))
+        tic
         w_bay_constr = 10.^Log_w_bay(i,j);
         w_lp_constr = 10.^Log_w_lp(i,j);
         fun = @(K)topo_linear_lsq_misfit(K, e_chan, e_outlets, ...
@@ -77,13 +89,31 @@ for i=1:length(Log_w_bay(:,1))
         end
  
         fprintf('Done with Bay: %6.2f, LP: %6.2f\n', Log_w_bay(i,j), Log_w_lp(i,j))
+        %%% Felipe's addition/mod
+        bay_resid(i,j)=bay_constr-c_bay;
+        lp_resid(i,j)=lp_constr-c_lp;
+        %%%
+        
+        %%% Felipe's addition/mod
+        nr_iter=nr_iter+1;
+        t=toc;
+        t_tot=t_tot+t;
+        %%%
+        
+        fprintf('Done with Bay: %6.2f, LP: %6.2f\n',...
+            Log_w_bay(i,j), Log_w_lp(i,j))
+        %%% Felipe's addition/mod
+        fprintf('Elapsed time: %6.3f minutes, iter: %d out of %d\n',...
+            t_tot/60, nr_iter, total_iter)
+        %%%
     end
     
 end
 
 
-t=toc;
-
+save(['WeightingResults',num2str(save_flag),'.mat'],'log_w_bay','log_w_lp',...
+    'chi_sq_outletsfree','v_s','v_n','k','bay_resid','lp_resid','t_tot');
+fprintf('Total time: %6.2f minutes\n', t_tot/60)
 
 
 
