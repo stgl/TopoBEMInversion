@@ -1,3 +1,6 @@
+% Setting the correct directories
+p=pathdef; path(p)
+
 % Concavity:
 theta = 0.4;
 
@@ -7,8 +10,8 @@ save_flag=1;
 log_w_bay = -7.7:0.1:-5.7;
 log_w_lp = -7:0.1:-5;
 
-w_bay_constr = 10^(-6.5);
-w_lp_constr = 10^(-6.5);
+% w_bay_constr = 10^(-6.5);
+% w_lp_constr = 10^(-6.5);
 
 sig_elev=16; % in m
 
@@ -85,17 +88,17 @@ for i=1:length(Log_w_bay(:,1))
             v_s(i,j) = vshear;
             v_n(i,j) = vconverge;
             k(i,j) = K(1);
-        catch
-            chi_sq_outletsfree(i,j) = nan;
-            v_s(i,j) = nan;
-            v_n(i,j) = nan;
-            k(i,j) = nan;
+            bay_resid(i,j)=bay_constr-c_bay;
+            lp_resid(i,j)=lp_constr-c_lp;
+        catch e
+            chi_sq_outletsfree(i,j) =NaN;
+            v_s(i,j) = NaN;
+            v_n(i,j) = NaN;
+            k(i,j) = NaN;
+            bay_resid(i,j)=NaN;
+            lp_resid(i,j)=NaN;
+            fprintf(1,'There was an error! %s\n',e.message);
         end
- 
-        fprintf('Done with Bay: %6.2f, LP: %6.2f\n', Log_w_bay(i,j), Log_w_lp(i,j))
-        
-        bay_resid(i,j)=bay_constr-c_bay;
-        lp_resid(i,j)=lp_constr-c_lp;
         
         nr_iter=nr_iter+1;
         t=toc;
@@ -107,7 +110,6 @@ for i=1:length(Log_w_bay(:,1))
             t_tot/60, nr_iter, total_iter)
     end
 end
-
 
 save(['WeightingResults',num2str(save_flag),'.mat'],'log_w_bay','log_w_lp',...
     'chi_sq_outletsfree','v_s','v_n','k','bay_resid','lp_resid','t_tot');
