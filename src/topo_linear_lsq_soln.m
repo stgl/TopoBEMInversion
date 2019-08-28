@@ -51,11 +51,13 @@ W(n_rows, n_rows) = 1 / w_lp_constr.^2;
 
 G = Ginv_elev*K*Gt;
 
+lastwarn('')
+
 m = (G'*W*G)\G'*W*d;
 
 [warnmsg, msgid] = lastwarn;
 if strcmp(msgid,'MATLAB:nearlySingularMatrix')
-  ME = MException('MATLAB:singularMatrix');
+  ME = MException('MATLAB:singularMatrix',msgid);
     throw(ME)
 end
 
