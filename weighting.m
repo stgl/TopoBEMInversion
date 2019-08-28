@@ -10,9 +10,6 @@ save_flag=1;
 log_w_bay = -7.7:0.1:-5.7;
 log_w_lp = -7:0.1:-5;
 
-% w_bay_constr = 10^(-6.5);
-% w_lp_constr = 10^(-6.5);
-
 sig_elev=16; % in m
 
 fission_track_uplift=0.0008;   %m/yr, @ Loma Prieta from Roland's rise 
