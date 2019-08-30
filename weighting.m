@@ -1,19 +1,21 @@
+% Setting the correct directories
+p=pathdef; path(p)
+
 % Concavity:
 theta = 0.4;
 
-% weighting factors for bay and Loma Prieta points:
-log_w_bay = -7:0.1:-6;
-log_w_lp = -7:0.1:-6;
+save_flag=1;
 
-w_bay_constr = 10^(-6.5);
-w_lp_constr = 10^(-6.5);
+% weighting factors for bay and Loma Prieta points:
+log_w_bay = -7.7:0.1:-5.7;
+log_w_lp = -7:0.1:-5;
 
 sig_elev=16; % in m
 
 fission_track_uplift=0.0008;   %m/yr, @ Loma Prieta from Roland's rise 
                                 % and fall paper
 
-
+multiple_K_flag = 0; % 0 = single K for every point, 1 = use lithology.
                                 
 % NO CHANGES BELOW HERE.
 
@@ -34,16 +36,30 @@ G_chan=G_chan./2; G_bay=G_bay./2; G_lp=G_lp./2;
 bay_constr=zeros(length(G_bay(:,1)));
 lp_constr=ones(length(G_lp(:,1)),1).*fission_track_uplift;
 
-Ko = -4;
+if(multiple_K_flag == 1)
+    Ko = -4 .* ones(1,length(geo_map(:,1)));
+else
+    Ko = -4;
+end
 
 [x_channels, y_channels]=getCoordinates;
 
 x_channels=x_channels(channel_indexes); 
 y_channels=y_channels(channel_indexes);
 
-tic
+chi_sq_outletsfree =NaN(size(Log_w_bay));
+v_s = NaN(size(Log_w_bay));
+v_n = NaN(size(Log_w_bay));
+k = NaN(size(Log_w_bay));
+bay_resid = NaN(size(Log_w_bay));
+lp_resid = NaN(size(Log_w_bay));
+t_tot=0;
+total_iter=length(log_w_bay)*length(log_w_lp);
+nr_iter=0;
+
 for i=1:length(Log_w_bay(:,1))
     for j=1:length(Log_w_bay(1,:))
+        tic
         w_bay_constr = 10.^Log_w_bay(i,j);
         w_lp_constr = 10.^Log_w_lp(i,j);
         fun = @(K)topo_linear_lsq_misfit(K, e_chan, e_outlets, ...
@@ -69,22 +85,30 @@ for i=1:length(Log_w_bay(:,1))
             v_s(i,j) = vshear;
             v_n(i,j) = vconverge;
             k(i,j) = K(1);
-        catch
-            chi_sq_outletsfree(i,j) = nan;
-            v_s(i,j) = nan;
-            v_n(i,j) = nan;
-            k(i,j) = nan;
+            bay_resid(i,j)=bay_constr-c_bay;
+            lp_resid(i,j)=lp_constr-c_lp;
+        catch e
+            chi_sq_outletsfree(i,j) =NaN;
+            v_s(i,j) = NaN;
+            v_n(i,j) = NaN;
+            k(i,j) = NaN;
+            bay_resid(i,j)=NaN;
+            lp_resid(i,j)=NaN;
+            fprintf(1,'There was an error! %s\n',e.message);
         end
- 
-        fprintf('Done with Bay: %6.2f, LP: %6.2f\n', Log_w_bay(i,j), Log_w_lp(i,j))
+        
+        nr_iter=nr_iter+1;
+        t=toc;
+        t_tot=t_tot+t;
+        
+        fprintf('Done with Bay: %6.2f, LP: %6.2f\n',...
+            Log_w_bay(i,j), Log_w_lp(i,j))
+        fprintf('Elapsed time: %6.3f minutes, iter: %d out of %d\n',...
+            t_tot/60, nr_iter, total_iter)
     end
-    
 end
 
-
-t=toc;
-
-
-
-
+save(['WeightingResults',num2str(save_flag),'.mat'],'log_w_bay','log_w_lp',...
+    'chi_sq_outletsfree','v_s','v_n','k','bay_resid','lp_resid','t_tot');
+fprintf('Total time: %6.2f minutes\n', t_tot/60)
 

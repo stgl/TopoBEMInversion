@@ -1,9 +1,12 @@
+% Setting the correct directories
+p=pathdef; path(p)
+
 % Concavity:
 theta = 0.4;
 
 % weighting factors for bay and Loma Prieta points:
 w_bay_constr = 10^(-6.5);
-w_lp_constr = 10^(-6.5);
+w_lp_constr = 10^(-6.8);
 
 sig_elev=16; % in m
 
