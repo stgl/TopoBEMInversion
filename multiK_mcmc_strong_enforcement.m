@@ -18,7 +18,7 @@ multiple_K_flag = 1; % 0 = single K for every point, 1 = use lithology.
 minLogK = -8;
 maxLogK = -2;
 
-Niter = 1e1;
+Niter = 1e4;
 
 % NO CHANGES BELOW HERE.
 [geo_map, e_outlets, Ginv_elev, channel_indexes, e_chan, n_K, ...
