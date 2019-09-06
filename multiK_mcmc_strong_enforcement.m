@@ -18,7 +18,7 @@ multiple_K_flag = 1; % 0 = single K for every point, 1 = use lithology.
 minLogK = -8;
 maxLogK = -2;
 
-Niter = 1e4;
+Niter = 1e1;
 
 % NO CHANGES BELOW HERE.
 [geo_map, e_outlets, Ginv_elev, channel_indexes, e_chan, n_K, ...
@@ -46,18 +46,18 @@ n_cols = n_Gtect_cols + n_outlets;
 
 D.d = [e_chan;e_outlets;bay_constr;lp_constr];
 
-Sig = sparse(ind_chan_misfit,ind_chan_misfit, ...
+invSig = sparse(ind_chan_misfit,ind_chan_misfit, ...
     ones(1,length(ind_chan_misfit)),n_rows,n_rows) .* sig_elev.^2;
-Sig(n_Gtect_rows+1:n_Gtect_rows+n_outlets, ...
+invSig(n_Gtect_rows+1:n_Gtect_rows+n_outlets, ...
     n_Gtect_rows+1:n_Gtect_rows+n_outlets) = ...
     speye(n_outlets, n_outlets) * sig_elev.^2;
-Sig(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) =  w_bay_constr.^2;
-Sig(n_rows, n_rows) = w_lp_constr.^2;
+invSig(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) =  w_bay_constr.^2;
+invSig(n_rows, n_rows) = w_lp_constr.^2;
 
-D.Sig = Sig;
+D.invSig = invSig;
 
 if(multiple_K_flag == 1)
-    Ko = -4 .* ones(1,length(geo_map(:,1)));
+    Ko = -4 .* ones(length(geo_map(:,1)),1);
 else
     Ko = [-4];
 end

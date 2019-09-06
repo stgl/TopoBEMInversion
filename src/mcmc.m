@@ -6,7 +6,7 @@ function [x_keep, logL_keep, logQ_keep, accrate] = mcmc(func,D,X,Niter,verbose)
 
 % Parse out data and errors
 d       = D.d;
-Sig     = D.Sig;
+invSig = D.invSig;
 
 % Parse out model initiual guess, step size, bounds and priors
 x0      = X.x0;
@@ -30,7 +30,7 @@ logQ_keep  = nan(Niter,1);
 fun = fcnchk(func);
 
 % Check if likelihood is uniform
-if isempty(Sig) | isinf(Sig)
+if isempty(invSig) | isinf(invSig)
     logLc = 0;
     logLx = 0;
     compute_likelihood = 0;
@@ -69,22 +69,22 @@ for i = 1:Niter
         % Compute predicted data
         Gc = fun(c);   % Predicted data of proposed model
         Gx = fun(x);   % Predicted data of current model
-
+        
         % Compute log likelihood
         if compute_likelihood
-            if numel(Sig) == 1
+            if numel(invSig) == 1
                 if verbose & f1==1, disp('Single (scalar) error provided.'), f1 = 0; end
                 % scalar data error
-                logLc = -0.5*(norm(d-Gc))^2/Sig^2;  % proposed model
-                logLx = -0.5*(norm(d-Gx))^2/Sig^2;  % current model
+                logLc = -0.5*(norm(d-Gc))^2.*invSig;  % proposed model
+                logLx = -0.5*(norm(d-Gx))^2/invSig;  % current model
             else
                 if verbose & f2==1, disp('Data covariance matrix provided.'), f2 = 0; end
                 % data covariance matrix
                 rc = d - Gc;               % residual from proposed model
-                logLc = -0.5*rc'*(Sig\rc);  % proposed model
+                logLc = -0.5*rc'*(invSig*rc);  % proposed model
 
                 rx = d - Gx;               % residual from current model
-                logLx = -0.5*rx'*(Sig\rx);  % proposed model
+                logLx = -0.5*rx'*(invSig*rx);  % proposed model
             end
         end
 
