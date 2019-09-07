@@ -25,7 +25,7 @@ function [x_keep, logL_keep, logQ_keep, accrate] = mcmc(func,D,X,Niter,verbose)
 %                         parameters. Initial guess must be inside the bounds.
 %               x.prior = vector of mean values of Gaussian prior probability distribution (M x 1 array)
 %               X.C     = covariance matrix for Gaussian prior probability distribution (M x M array).
-%                         Can also be a scalar for the case when C = (rho^2)*I. In this case, Sig should be
+%                         Can also be a scalar for the case when C = (rho^2)*I. In this case, C should be
 %                         the standard errror (not variance)
 %  Niter    = number of sampling iterations
 %  verbose  = 1: print info while running, 0: otherwise
