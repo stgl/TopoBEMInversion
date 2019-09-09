@@ -1,12 +1,54 @@
 function [x_keep, logL_keep, logQ_keep, accrate] = mcmc(func,D,X,Niter,verbose)
+% function [x_keep, logL_keep, logQ_keep, accrate] = mcmc(func,D,X,Niter,verbose,varargin)
+%
+% Performs Marcov Chain Monte Carlo (MCMC) sampling for Bayesian inference using uniform and/or
+% Gaussian priors. The code estimates model parameters x given data d and the model
+%     y = f(x) + e
+% where f is the model function and e are Gaussian errors, e ~ N(0,Sig) with covariance matrix
+% Sig. The function f can be either linear or nonlinear in x. In the case of Gaussian prior, we have
+%     x ~ N(x_p,C)
+% with x_p and C being the mean vector and covariance matrix for the normal distribution, respectively.
+%
+% Input:
+% -------
+%  func     = string of function that performs the forward calculation, y = f(x). Any parameters
+%             that are required for function should be added as additional arguments (varargin).
+%  D        = structure for data and data errors. Required fields:
+%               D.d     = vector of observations (N x 1 array)
+%               D.invSig= data covariance matrix (N x N array). Can also be scalar for the case where
+%                         invSig = (1/sig^2)*I. In this case, invSig should be the inverse standard errror (not variance)
+%  X        = structure for unknown model paramters. Required fields
+%               X.x0    = vector of initial guess in model parameters (M x 1 array)
+%               x.xstep = vector of step sizes in each model parameters (M x 1 array) to be
+%                         used when drawing candidate states from the proposal distribution
+%               x.xbnds = (M x 2) array with lower (1st column) and upper (2nd column) bounds in model
+%                         parameters. Initial guess must be inside the bounds.
+%               x.prior = vector of mean values of Gaussian prior probability distribution (M x 1 array)
+%               X.C     = covariance matrix for Gaussian prior probability distribution (M x M array).
+%                         Can also be a scalar for the case when C = (rho^2)*I. In this case, C should be
+%                         the standard errror (not variance)
+%  Niter    = number of sampling iterations
+%  verbose  = 1: print info while running, 0: otherwise
+%  varargin = additional input arguments for the function defined by func.
+%
+% Output:
+% -------
+%  x_keep     = (Niter x 1) cell array containing the kept (accepted) model parameter vectors.
+%  logL_keep  = (Niter x 1) array containing the log likelihood of the accepted states.
+%  logQ_keep  = (Niter x 1) array containing the log posterior of the accepted states.
+%  accrate    = acceptance rate (number of accepted states / total number of iterations)
+%
+% Usage:
+% ------
+%  * For uniform likelihood, set D.Sig = [] or Inf
+%  * For uniform prior,      set X.xprior = [] or X.C = [] or Inf
 
 % TODO:
-%  * Help description
 %  * Option for computing prediction at each iteration?
 
 % Parse out data and errors
 d       = D.d;
-invSig = D.invSig;
+invSig  = D.invSig;
 
 % Parse out model initiual guess, step size, bounds and priors
 x0      = X.x0;
@@ -69,14 +111,14 @@ for i = 1:Niter
         % Compute predicted data
         Gc = fun(c);   % Predicted data of proposed model
         Gx = fun(x);   % Predicted data of current model
-        
+
         % Compute log likelihood
         if compute_likelihood
             if numel(invSig) == 1
                 if verbose & f1==1, disp('Single (scalar) error provided.'), f1 = 0; end
                 % scalar data error
-                logLc = -0.5*(norm(d-Gc))^2.*invSig;  % proposed model
-                logLx = -0.5*(norm(d-Gx))^2/invSig;  % current model
+                logLc = -0.5*(norm(d-Gc))^2.*(invSig^2);  % proposed model
+                logLx = -0.5*(norm(d-Gx))^2.*(invSig^2);  % current model
             else
                 if verbose & f2==1, disp('Data covariance matrix provided.'), f2 = 0; end
                 % data covariance matrix
