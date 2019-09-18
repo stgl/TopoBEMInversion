@@ -18,7 +18,13 @@ multiple_K_flag = 1; % 0 = single K for every point, 1 = use lithology.
 minLogK = -8;
 maxLogK = -2;
 
-Niter = 1e4;
+Niter = 1E5;
+xstep = 1E-2;
+
+% set Ko equal to fminsearch solution for best fit (this will be adjusted to make sure that all values are within prior bounda
+
+Ko = [-4.8494   -4.5998   -4.7279    0.7075   -4.5056   -5.0411   -5.1443 -4.5885   -4.7222   -4.4796   -4.5087   -2.8392   -4.8032   -4.6731 -4.4013   -4.6969   -5.0556   -4.5692   -5.0758   -1.4962   -4.4038 -4.5888   -4.1285   -4.1497   -2.1194   -4.6673   -4.7326   -1.5071 -1.9293];
+
 
 % NO CHANGES BELOW HERE.
 [geo_map, e_outlets, Ginv_elev, channel_indexes, e_chan, n_K, ...
@@ -56,16 +62,14 @@ invSig(n_rows, n_rows) = w_lp_constr.^2;
 
 D.invSig = invSig;
 
-if(multiple_K_flag == 1)
-    Ko = -4 .* ones(length(geo_map(:,1)),1);
-else
-    Ko = [-4];
-end
-
 % Set X for MCMC:
 
+Ko = (Ko > maxLogK).*(maxLogK - xstep) + (Ko < minLogK).*(minLogK + xstep) + ( (Ko <= maxLogK) & (Ko >= minLogK) ).*Ko;
+
+Ko = Ko';
+
 X.x0     = Ko;
-X.xstep  = [1e-3*ones(length(Ko),1)];
+X.xstep  = [xstep*ones(length(Ko),1)];
 X.xbnds  = [minLogK*ones(length(Ko),1) maxLogK*ones(length(Ko),1)];
 X.xprior = [];
 X.C = Inf; % TODO: This needs to be checked by Andreas!!!
