@@ -69,5 +69,5 @@ m = (G'*W*G)\G'*W*d;
 
 cov_m = (G'*G)\G'*cov_d*((G'*G)\G')';
 
-v = m(1:2)
+v = m(1:2);
 cov_v = cov_m(1:2,1:2);
