@@ -50,11 +50,11 @@ fun = @(K)topo_linear_lsq_model_cov(K, e_chan, e_outlets, ...
 
 v = zeros(length(subsamples), 5);
 for i = 1:length(subsamples)
-  [thisv, thiscov_v] = fun(subsamples{i})
+  [thisv, thiscov_v] = fun(subsamples{i});
   v(i,1:2) = thisv;
-  v(i,3) = thiscov_v(1,1)
-  v(i,4) = thiscov_v(2,2)
-  v(i,5) = thiscov_v(1,2)
+  v(i,3) = thiscov_v(1,1);
+  v(i,4) = thiscov_v(2,2);
+  v(i,5) = thiscov_v(1,2);
 end
 
 save multiK_mcmc_strong_enforcement_v_with_cov v
