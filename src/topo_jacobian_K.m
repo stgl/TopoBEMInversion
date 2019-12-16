@@ -20,6 +20,6 @@ for(i=1:length(K))
   [~, this_dpred, W] = topo_linear_lsq_soln(d, K, sig_elev, ind_chan_misfit, ...
       G_chan, Ginv_elev, w_bay_constr, G_bay, w_lp_constr, G_lp, geo_map);
   z_this = this_dpred(1:length(e_chan));
-  dKdz = ones(1,length(thisK))* log_dK ./ (z_this - z_center);
+  dKdz = ones(length(z_this),1)* log_dK ./ (z_this - z_center);
   J(i,:) = dKdz';
 end
