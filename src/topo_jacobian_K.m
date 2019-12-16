@@ -2,24 +2,26 @@ function J = topo_jacobian_K(K, e_chan, e_outlets, ...
     sig_elev, ind_chan_misfit, G_chan, Ginv_elev, bay_constr, ...
     w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map)
 
-dE = 1E-6;
-J = zeros(length(K),length(e_chan));
+log_dK = 1E-6;
+inv_J = zeros(length(K),length(e_chan));
 
-base_fun = @(Ki, e_chan)topo_linear_lsq_misfit(Ki, e_chan, e_outlets, ...
-    sig_elev, ind_chan_misfit, G_chan, Ginv_elev, bay_constr, ...
-    w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map);
+% Calculate base d:
 
-Ko = K;
+d = [e_chan;e_outlets;bay_constr;lp_constr];
 
-for(i=1:length(e_chan))
+[~, dpred_center, W] = topo_linear_lsq_soln(d, K, sig_elev, ind_chan_misfit, ...
+    G_chan, Ginv_elev, w_bay_constr, G_bay, w_lp_constr, G_lp, geo_map);
 
-  fprintf('%i/%i',i,len(e_chan));
-  this_e_chan = e_chan;
-  this_e_chan(i) = this_e_chan(i) + dE;
-  this_fun = @(Kt)base_fun(Kt, this_e_chan);
-  [this_K, fval] = fminsearch(fun, Ko, opts);
+z_center = dpred_center(1:length(e_chan));
 
-  dKdz = (this_K - Ko) / dE;
-  J(i,:) = dKdz;
-
+for(i=1:length(K))
+  thisK = K;
+  thisK(i) = thisK(i) + log_dK;
+  [~, this_dpred, W] = topo_linear_lsq_soln(d, K, sig_elev, ind_chan_misfit, ...
+      G_chan, Ginv_elev, w_bay_constr, G_bay, w_lp_constr, G_lp, geo_map);
+  z_this = this_dpred(1:length(e_chan));
+  dz_thisdK = (z_this - z_center) ./ log_dK;
+  inv_J(i,:) = dz_thisdK';
 end
+
+J = inv(inv_J);
