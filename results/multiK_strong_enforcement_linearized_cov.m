@@ -13,4 +13,4 @@ J = topo_jacobian_K(K, e_chan, e_outlets, ...
 
 varE = ones(length(K),1) * sig_elev.^2;
 
-sigK = J*varE*J';
+sigK = J'*varE*J;
