@@ -13,7 +13,7 @@ Ko = K;
 
 for(i=1:length(e_chan))
 
-  fprintf('%i/%i',i,length(e_chan));
+  fprintf('%i/%i',i,len(e_chan));
   this_e_chan = e_chan;
   this_e_chan(i) = this_e_chan(i) + dE;
   this_fun = @(Kt)base_fun(Kt, this_e_chan);
