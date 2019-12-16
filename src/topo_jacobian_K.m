@@ -17,7 +17,7 @@ for(i=1:length(e_chan))
   this_e_chan = e_chan;
   this_e_chan(i) = this_e_chan(i) + dE;
   this_fun = @(Kt)base_fun(Kt, this_e_chan);
-  [this_K, fval] = fminsearch(fun, Ko, opts);
+  [this_K, fval] = fminsearch(this_fun, Ko, opts);
 
   dKdz = (this_K - Ko) / dE;
   J(i,:) = dKdz;
