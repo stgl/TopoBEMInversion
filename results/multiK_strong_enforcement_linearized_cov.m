@@ -3,7 +3,7 @@ scenario = 'strong';
 % Setting the correct directories
 p=pathdef; path(p)
 
-load(strcat('multiK_', scenario, '_enforcement'));
+load(strcat('results/multiK_', scenario, '_enforcement'));
 
 % Calcualte Jacobian:
 

@@ -12,7 +12,7 @@ d = [e_chan;e_outlets;bay_constr;lp_constr];
 [~, dpred_center, W] = topo_linear_lsq_soln(d, K, sig_elev, ind_chan_misfit, ...
     G_chan, Ginv_elev, w_bay_constr, G_bay, w_lp_constr, G_lp, geo_map);
 
-z_center = d_pred_center(1:length(e_chan));
+z_center = dpred_center(1:length(e_chan));
 
 for(i=1:length(K))
   thisK = K;
