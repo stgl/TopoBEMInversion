@@ -3,7 +3,7 @@ function J = topo_jacobian_K(K, e_chan, e_outlets, ...
     w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map)
 
 log_dK = 1E-6;
-inv_J = zeros(length(K),length(e_chan));
+J = zeros(length(K),length(e_chan));
 
 % Calculate base d:
 
@@ -20,8 +20,6 @@ for(i=1:length(K))
   [~, this_dpred, W] = topo_linear_lsq_soln(d, K, sig_elev, ind_chan_misfit, ...
       G_chan, Ginv_elev, w_bay_constr, G_bay, w_lp_constr, G_lp, geo_map);
   z_this = this_dpred(1:length(e_chan));
-  dz_thisdK = (z_this - z_center) ./ log_dK;
-  inv_J(i,:) = dz_thisdK';
+  dKdz = ones(1,length(thisK))* log_dK ./ (z_this - z_center);
+  J(i,:) = dKdz';
 end
-
-J = inv(inv_J);
