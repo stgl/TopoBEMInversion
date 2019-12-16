@@ -24,6 +24,4 @@ for(i=1:length(K))
   inv_J(i,:) = dzdK';
 end
 
-size(inv_J*inv_J')
-
 J = inv(inv_J*inv_J');
