@@ -10,6 +10,7 @@ base_fun = @(Ki, e_chan)topo_linear_lsq_misfit(Ki, e_chan, e_outlets, ...
     w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map);
 
 Ko = K;
+opts = optimset('MaxIter', 1E6, 'MaxFunEvals', 1E6);
 
 for(i=1:length(e_chan))
 
