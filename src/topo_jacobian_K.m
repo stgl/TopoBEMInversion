@@ -26,4 +26,4 @@ end
 
 size(inv_J*inv_J')
 
-J = inv(inv_J'*inv_J);
+J = inv(inv_J*inv_J');
