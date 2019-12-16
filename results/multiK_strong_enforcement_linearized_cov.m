@@ -29,4 +29,4 @@ for i = 1:length(samples(:,1))
   v(i,5) = thiscov_v(1,2);
 end
 
-save multiK_mcmc_weak_enforcement_v_with_cov_linearized v
+save strcat('results/multiK_', scenario, '_enforcement_v_with_cov_linearized') v
