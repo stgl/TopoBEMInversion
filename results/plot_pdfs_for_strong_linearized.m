@@ -15,15 +15,15 @@ fprintf('Mean vn (mm/yr): %6.2f', vn_mean);
 fprintf('Std vs (mm/yr): %6.2f', vs_std);
 fprintf('Std vn (mm/yr): %6.2f', vn_std);
 
-x_s = vs_mean-3*vs_std:0.01:vs_mean+3*vs_std;
-x_n = vn_mean-3*vn_std:0.01:vn_mean+3*vn_std;
+x_s = vs_mean-3*vs_std:(6*vs_std)/200:vs_mean+3*vs_std;
+x_n = vn_mean-3*vn_std:(6*vs_std)/200:vn_mean+3*vn_std;
 
 [X_S, X_N] = meshgrid(x_s, x_n);
 
-pdf_s = pdf(v(:,1)*1000, x_s);
-pdf_n = pdf(v(:,2)*1000, x_n);
+pdf_s = ksdensity(v(:,1)*1000, x_s);
+pdf_n = ksdensity(v(:,2)*1000, x_n);
 
-pdf_sn = pdf([v(:,1:2)*1000], [X_S, X_N]);
+pdf_sn = reshape(ksdensity([v(:,1:2)*1000], [X_S(:) X_N(:)]),length(x_n),length(x_s));
 
 figure(1)
 plot(x_s, pdf_s, 'k-');
@@ -36,7 +36,9 @@ xlabel('Normal Velocity (mm/yr)');
 ylabel('Density (yr/mm)');
 
 figure(3)
-imagesc(X_S, X_N, pdf_sn);
-xlabel('Shear Velocity (mm/yr)');
-ylabel('Normal Velocity (mm/yr)');
+imagesc(x_n,x_s,pdf_sn')
+set(gca,'ydir','normal');
+axis equal;axis image;colormap jet
 colorbar;
+ylabel('Shear Velocity (mm/yr)');
+xlabel('Normal Velocity (mm/yr)');
