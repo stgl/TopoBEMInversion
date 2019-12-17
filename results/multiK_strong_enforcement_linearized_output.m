@@ -14,5 +14,5 @@ J = topo_jacobian_K(K, e_chan, e_outlets, ...
 covK = J * sig_elev.^2;
 
 for(i=1:length(K))
-  fprintf('K %i (in order): %6.2f ± %6.2f\n', i, K(i), sqrt(covK(i,i)));
+  fprintf('K %i (in order): %6.2f ± %6.4f\n', i, K(i), sqrt(covK(i,i)));
 end
