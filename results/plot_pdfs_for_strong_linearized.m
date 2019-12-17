@@ -42,3 +42,14 @@ axis equal;axis image;colormap jet
 colorbar;
 ylabel('Shear Velocity (mm/yr)');
 xlabel('Normal Velocity (mm/yr)');
+
+base_filename = strcat('results/multiK_', scenario, '_linearized_');
+
+figure(1)
+saveas(gcf,strcat(base_filename, '_vs.eps'),'epsc');
+
+figure(2)
+saveas(gcf,strcat(base_filename, '_vn.eps'),'epsc');
+
+figure(3)
+saveas(gcf,strcat(base_filename, '_vsvn.eps'),'epsc');
