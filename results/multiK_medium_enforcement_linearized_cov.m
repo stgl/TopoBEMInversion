@@ -29,7 +29,7 @@ fun = @(K)topo_linear_lsq_model_cov(K, e_chan, e_outlets, ...
     sig_elev, ind_chan_misfit, G_chan, Ginv_elev, bay_constr, ...
     w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map);
 v = zeros(length(samples), 5);
-for i = 1:length(samples(:,1))
+parfor i = 1:length(samples(:,1))
   [thisv, thiscov_v] = fun(samples(i,:));
   v(i,1:2) = thisv;
   v(i,3) = thiscov_v(1,1);
@@ -40,4 +40,5 @@ for i = 1:length(samples(:,1))
   end
 end
 
-save strcat('results/multiK_', scenario, '_enforcement_v_with_cov_linearized') v
+filename = strcat('results/multiK_', scenario, '_enforcement_v_with_cov_linearized');
+save(filename, 'v');
