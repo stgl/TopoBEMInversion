@@ -31,8 +31,10 @@ fun = @(K)topo_linear_lsq_model_cov(K, e_chan, e_outlets, ...
 v = zeros(length(samples), 5);
 parfor i = 1:length(samples(:,1))
   [thisv, thiscov_v] = fun(samples(i,:));
-  this_v = [thisv(1), thisv(2), thiscov_v(1,1), thiscov_v(2,2), thiscov_v(1,2)]
-%  v(i,:) = this_v;
+  this_v = [thisv(1), thisv(2), thiscov_v(1,1), thiscov_v(2,2), thiscov_v(1,2)];
+  for j = 1:5
+    v(i,j) = this_v(j);
+  end
   if(mod(i,100))
     fprintf('%i...', i);
   end
