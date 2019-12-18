@@ -12,8 +12,8 @@ vn_std = std(v(:,2))*1000;
 
 fprintf('Mean vs (mm/yr): %6.2f\n', vs_mean);
 fprintf('Mean vn (mm/yr): %6.2f\n', vn_mean);
-fprintf('Std vs (mm/yr): %6.2f\n', vs_std);
-fprintf('Std vn (mm/yr): %6.2f\n', vn_std);
+fprintf('Std vs (mm/yr): %6.4f\n', vs_std);
+fprintf('Std vn (mm/yr): %6.4f\n', vn_std);
 
 x_s = vs_mean-3*vs_std:(6*vs_std)/200:vs_mean+3*vs_std;
 x_n = vn_mean-3*vn_std:(6*vs_std)/200:vn_mean+3*vn_std;
