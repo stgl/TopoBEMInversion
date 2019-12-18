@@ -91,6 +91,9 @@ try
     fprintf('Uplift rate at Bay constraint (mm/yr): %6.2f\n', c_bay*1000);
     fprintf('Uplift rate at LP (mm/yr): %6.2f\n', c_lp*1000);
     fprintf('Log10 K value (log m/yr): %6.2f\n', K);
+
+    save singleK_medium_enforcement
+
 catch
     K = nan;
     fval = nan;
