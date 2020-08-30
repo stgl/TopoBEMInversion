@@ -1,11 +1,13 @@
 scenario = 'strong';
-n = 5000;
+num_samples = 5000;
 max_range = 5;
+
+n = 1.0;
 
 % Setting the correct directories
 p=pathdef; path(p)
 
-load(strcat('results/multiK_', scenario, '_enforcement'));
+load(strcat('results/multiK_', scenario, '_enforcement_n',num2str(n)));
 
 % Calcualte Jacobian:
 
@@ -13,12 +15,12 @@ J = topo_jacobian_K(K, e_chan, e_outlets, ...
     sig_elev, ind_chan_misfit, G_chan, Ginv_elev, bay_constr, ...
     w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map);
 
-covK = J * sig_elev.^2;
+covK = (J * sig_elev.^2);
 
 % Draw random samples:
-samples = mvnrnd(K,covK,n);
-max_samples = repmat(K,n,1) + max_range / 2;
-min_samples = repmat(K,n,1) - max_range / 2;
+samples = mvnrnd(K,covK,num_samples);
+max_samples = repmat(K,nnum_samples,1) + max_range / 2;
+min_samples = repmat(K,num_samples,1) - max_range / 2;
 
 i = find(samples > max_samples);
 samples(i) = max_samples(i);
@@ -40,5 +42,5 @@ parfor i = 1:length(samples(:,1))
   end
 end
 
-filename = strcat('results/multiK_', scenario, '_enforcement_v_with_cov_linearized');
+filename = strcat('results/multiK_', scenario, '_enforcement_v_with_cov_linearized_n',num2str(n));
 save(filename, 'v');

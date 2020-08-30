@@ -1,3 +1,5 @@
+n = 1.0;
+
 % Setting the correct directories
 p=pathdef; path(p)
 
@@ -10,11 +12,11 @@ w_lp_constr = 10^(-6.8);
 
 sig_elev=16; % in m
 
-fission_track_uplift=0.0008;   %m/yr, @ Loma Prieta from Roland's rise 
+fission_track_uplift=0.0008;   %m/yr, @ Loma Prieta from Roland's rise
                                 % and fall paper
 
 multiple_K_flag = 1; % 0 = single K for every point, 1 = use lithology.
-                                
+
 % NO CHANGES BELOW HERE.
 [geo_map, e_outlets, Ginv_elev, channel_indexes, e_chan, n_K, ...
     ind_chan_misfit, litho_chan, outlet_indexes] = ...
@@ -42,20 +44,20 @@ tic
 
 fun = @(K)topo_linear_lsq_misfit(K, e_chan, e_outlets, ...
     sig_elev, ind_chan_misfit, G_chan, Ginv_elev, bay_constr, ...
-    w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map);
+    w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map, n);
 [K, fval] = fminsearch(fun,Ko, opts);
 
 t=toc;
 
 [x_channels, y_channels]=getCoordinates;
 
-x_channels=x_channels(channel_indexes); 
+x_channels=x_channels(channel_indexes);
 y_channels=y_channels(channel_indexes);
 
 [log10_wrss_elev_outlets,elev_pred_outletsfree, outlets_pred, vshear, ...
     vconverge, c_bay, c_lp] = topo_linear_lsq_stats(K, e_chan, ...
     e_outlets, sig_elev, ind_chan_misfit, G_chan, Ginv_elev, ...
-    bay_constr, w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map);
+    bay_constr, w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map, n);
 
 outlets_resid = e_outlets - outlets_pred;
 
@@ -75,7 +77,6 @@ fprintf('Uplift rate at Bay constraint (mm/yr): %6.2f\n', c_bay*1000);
 fprintf('Uplift rate at LP (mm/yr): %6.2f\n', c_lp*1000);
 fprintf('Log10 K value (log m/yr): %6.2f\n', K);
 
-save multiK_strong_enforcement
+save(strcat('multiK_strong_enforcement_n',num2str(n)))
+
 quit
-
-

@@ -1,15 +1,16 @@
 scenario = 'strong';
+n = 1.0;
 
 % Setting the correct directories
 p=pathdef; path(p)
 
-load(strcat('results/multiK_', scenario, '_enforcement'));
+load(strcat('results/multiK_', scenario, '_enforcement_n', num2str(n)));
 
 % Calcualte Jacobian:
 
 J = topo_jacobian_K(K, e_chan, e_outlets, ...
     sig_elev, ind_chan_misfit, G_chan, Ginv_elev, bay_constr, ...
-    w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map);
+    w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map, n);
 
 covK = J * sig_elev.^2;
 

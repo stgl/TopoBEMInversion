@@ -1,8 +1,16 @@
 function [v, cov_v] = topo_linear_lsq_model_cov(K, e_chan, ...
 e_outlets, sig_elev, ind_chan_misfit, G_chan, Ginv_elev, ...
-bay_constr, w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map)
+bay_constr, w_bay_constr, G_bay, lp_constr, w_lp_constr, G_lp, geo_map, varargin)
 
-d = [e_chan;e_outlets;bay_constr;lp_constr];
+if(length(varargin) == 0)
+  n = 1.0;
+elseif(length(varargin) == 1)
+  n = varargin{1};
+else
+  error('Improper number of arguments to topo_linear_lsq_soln.m');
+end
+
+d = [e_chan;e_outlets;bay_constr.^(1./n);lp_constr.^(1./n)];
 
 logKcon = K;
 
@@ -41,6 +49,8 @@ K(n_Gtect_rows+1:n_Gtect_rows+n_outlets, ...
 K(n_Gtect_rows+n_outlets+1:n_rows, ...
     n_Gtect_rows+n_outlets+1:n_rows) = speye(n_constraints);
 
+K = K^(1./n);
+
 % Create Weighting Matrix:
 
 W = sparse(ind_chan_misfit,ind_chan_misfit, ...
@@ -48,8 +58,8 @@ W = sparse(ind_chan_misfit,ind_chan_misfit, ...
 W(n_Gtect_rows+1:n_Gtect_rows+n_outlets, ...
     n_Gtect_rows+1:n_Gtect_rows+n_outlets) = ...
     speye(n_outlets, n_outlets) / sig_elev.^2;
-W(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) = 1 / w_bay_constr.^2;
-W(n_rows, n_rows) = 1 / w_lp_constr.^2;
+W(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) = 1 / w_bay_constr.^(2./n);
+W(n_rows, n_rows) = 1 / w_lp_constr.^(2./n);
 
 % Create Data Covariance Matrix:
 
@@ -58,8 +68,8 @@ cov_d = sparse(ind_chan_misfit,ind_chan_misfit, ...
 cov_d(n_Gtect_rows+1:n_Gtect_rows+n_outlets, ...
     n_Gtect_rows+1:n_Gtect_rows+n_outlets) = ...
     speye(n_outlets, n_outlets) * sig_elev.^2;
-cov_d(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) = w_bay_constr.^2;
-cov_d(n_rows, n_rows) = w_lp_constr.^2;
+cov_d(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) = w_bay_constr.^(2./n);
+cov_d(n_rows, n_rows) = w_lp_constr.^(2./n);
 
 G = Ginv_elev*K*Gt;
 
@@ -69,5 +79,5 @@ m = (G'*W*G)\G'*W*d;
 
 cov_m = (G'*G)\G'*cov_d*((G'*G)\G')';
 
-v = m(1:2);
-cov_v = cov_m(1:2,1:2);
+v = m(1:2).^n;
+cov_v = cov_m(1:2,1:2).^n;
