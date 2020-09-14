@@ -1,4 +1,5 @@
-n = 1.0;
+n = 0.666667;
+scenario = 'weak';
 
 % Setting the correct directories
 p=pathdef; path(p)
@@ -7,8 +8,8 @@ p=pathdef; path(p)
 theta = 0.4;
 
 % weighting factors for bay and Loma Prieta points:
-w_bay_constr = 10^(-6.5);
-w_lp_constr = 10^(-6.8);
+w_bay_constr = 10^(-6.3);
+w_lp_constr = 10^(-6.1);
 
 sig_elev=16; % in m
 
@@ -77,6 +78,8 @@ fprintf('Uplift rate at Bay constraint (mm/yr): %6.2f\n', c_bay*1000);
 fprintf('Uplift rate at LP (mm/yr): %6.2f\n', c_lp*1000);
 fprintf('Log10 K value (log m/yr): %6.2f\n', K);
 
-save(strcat('multiK_strong_enforcement_n',num2str(n)))
+filename = strcat('multiK_', scenario, '_enforcement_n',num2str(n));
+
+save(filename)
 
 quit
