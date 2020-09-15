@@ -60,8 +60,8 @@ W = sparse(ind_chan_misfit,ind_chan_misfit, ...
 W(n_Gtect_rows+1:n_Gtect_rows+n_outlets, ...
     n_Gtect_rows+1:n_Gtect_rows+n_outlets) = ...
     speye(n_outlets, n_outlets) / sig_elev.^2;
-W(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) = 1 / w_bay_constr.^(2./n);
-W(n_rows, n_rows) = 1 / w_lp_constr.^(2./n);
+W(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) = 1 / w_bay_constr.^2;
+W(n_rows, n_rows) = 1 / w_lp_constr.^2;
 
 % Create Data Covariance Matrix:
 
@@ -70,8 +70,8 @@ cov_d = sparse(ind_chan_misfit,ind_chan_misfit, ...
 cov_d(n_Gtect_rows+1:n_Gtect_rows+n_outlets, ...
     n_Gtect_rows+1:n_Gtect_rows+n_outlets) = ...
     speye(n_outlets, n_outlets) * sig_elev.^2;
-cov_d(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) = w_bay_constr.^(2./n);
-cov_d(n_rows, n_rows) = w_lp_constr.^(2./n);
+cov_d(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) = w_bay_constr.^2;
+cov_d(n_rows, n_rows) = w_lp_constr.^2;
 
 G = Ginv_elev*K*Gt;
 
