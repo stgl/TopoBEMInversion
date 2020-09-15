@@ -24,11 +24,13 @@ n_rows = n_Gtect_rows + n_outlets + n_constraints;
 n_cols = n_Gtect_cols + n_outlets;
 
 Gt = sparse(n_rows,n_cols);
-Gt(1:n_Gtect_rows,1:n_Gtect_cols) = G_chan;
+Gt(1:n_Gtect_rows,1:n_Gtect_cols) = G_chan.^(1./n);
 Gt(n_Gtect_rows+1:n_Gtect_rows+n_outlets, ...
     n_Gtect_cols+1:n_Gtect_cols+n_outlets) = speye(n_outlets,n_outlets);
 Gt(n_Gtect_rows+n_outlets+1:n_Gtect_rows+n_outlets+n_constraints, ...
     1:n_Gtect_cols) = [G_bay;G_lp];
+
+
 
 % Greate K matrix to account for steepness:
 

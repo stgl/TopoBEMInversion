@@ -11,7 +11,7 @@ else
   error('Improper number of arguments to topo_linear_lsq_soln.m');
 end
 
-d = [e_chan;e_outlets;bay_constr.^(1./n);lp_constr.^(1./n)];
+d = [e_chan;e_outlets;bay_constr;lp_constr];
 
 [m, dpred, W] = topo_linear_lsq_soln(d, K, sig_elev, ind_chan_misfit, ...
     G_chan, Ginv_elev, w_bay_constr, G_bay, w_lp_constr, G_lp, geo_map, n);
@@ -27,7 +27,7 @@ Wmod(n_Gtect_rows+n_outlets+1:n_rows,n_Gtect_rows+n_outlets+1:n_rows) = 0.0;
 log_wrss_elev=log10(sum(Wmod*(d-dpred).^2));
 elev_pred = dpred(1:n_Gtect_rows);
 outlet_pred = dpred(n_Gtect_rows+1:n_Gtect_rows+n_outlets);
-vshear = m(1).^n;
-vconverge = m(2).^n;
-bay_constraint = dpred(end-1).^n;
-lp_constraint = dpred(end).^n;
+vshear = m(1);
+vconverge = m(2);
+bay_constraint = dpred(end-1);
+lp_constraint = dpred(end);

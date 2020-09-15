@@ -19,7 +19,7 @@ covK = (J * sig_elev.^2);
 
 % Draw random samples:
 samples = mvnrnd(K,covK,num_samples);
-max_samples = repmat(K,nnum_samples,1) + max_range / 2;
+max_samples = repmat(K,num_samples,1) + max_range / 2;
 min_samples = repmat(K,num_samples,1) - max_range / 2;
 
 i = find(samples > max_samples);
