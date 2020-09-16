@@ -42,5 +42,5 @@ parfor i = 1:length(samples(:,1))
   end
 end
 
-filename = strcat('results/singleK_', scenario, '_enforcement_v_with_cov_linearized_n',num2str(n));
+filename = strcat('results/singleK_', scenario, '_enforcement_v_with_cov_linearized_n',strrep(num2str(n),'.','_'));
 save(filename, 'v');

@@ -1,4 +1,4 @@
-n = 0.666667;
+n = 0.66667;
 scenario = 'strong';
 
 % Setting the correct directories
@@ -78,7 +78,7 @@ fprintf('Uplift rate at Bay constraint (mm/yr): %6.2f\n', c_bay*1000);
 fprintf('Uplift rate at LP (mm/yr): %6.2f\n', c_lp*1000);
 fprintf('Log10 K value (log m/yr): %6.2f\n', K);
 
-filename = strcat('results/singleK_', scenario, '_enforcement_n',num2str(n));
+filename = strcat('results/singleK_', scenario, '_enforcement_n',strrep(num2str(n),'.','_'));
 
 save(filename)
 

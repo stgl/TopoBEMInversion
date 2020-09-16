@@ -4,7 +4,7 @@ n = 2.5;
 % Setting the correct directories
 p=pathdef; path(p)
 
-load(strcat('results/singleK_', scenario, '_enforcement_n', num2str(n)));
+load(strcat('results/singleK_', scenario, '_enforcement_n', strrep(num2str(n),'.','_')));
 
 % Calcualte Jacobian:
 

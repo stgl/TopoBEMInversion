@@ -7,7 +7,7 @@ n = 1.0;
 % Setting the correct directories
 p=pathdef; path(p)
 
-load(strcat('results/multiK_', scenario, '_enforcement_n',num2str(n)));
+load(strcat('results/multiK_', scenario, '_enforcement_n',,strrep(num2str(n),'.','_')));
 
 % Calcualte Jacobian:
 
@@ -42,5 +42,5 @@ parfor i = 1:length(samples(:,1))
   end
 end
 
-filename = strcat('results/multiK_', scenario, '_enforcement_v_with_cov_linearized_n',num2str(n));
+filename = strcat('results/multiK_', scenario, '_enforcement_v_with_cov_linearized_n',,strrep(num2str(n),'.','_'));
 save(filename, 'v');
