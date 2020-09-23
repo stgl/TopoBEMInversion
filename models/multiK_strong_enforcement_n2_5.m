@@ -34,9 +34,9 @@ bay_constr=zeros(length(G_bay(:,1)));
 lp_constr=ones(length(G_lp(:,1)),1).*fission_track_uplift;
 
 if(multiple_K_flag == 1)
-    Ko = -4 .* ones(1,length(geo_map(:,1)));
+    Ko = -9.61 .* ones(1,length(geo_map(:,1)));
 else
-    Ko = -4;
+    Ko = -9.61;
 end
 
 opts = optimset('MaxIter', 1E6, 'MaxFunEvals', 1E6);
