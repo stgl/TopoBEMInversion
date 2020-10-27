@@ -1,0 +1,54 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: maxNumCompThreads will be removed in a future release. Please remove
+any instances of this function from your code.] 
+[> In maxNumCompThreads (line 26)
+  In matlabrc (line 206)] 
+Setting CVX paths...done.
+    ----------------------------------------------------
+	Your MATLAB license will expire in 14 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+
+	Academic License
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> K 1 (in order):  -4.89 ± 0.0015
+K 2 (in order):  -4.69 ± 0.0013
+K 3 (in order):  -4.85 ± 0.0014
+K 4 (in order):   0.54 ± 214.5819
+K 5 (in order):  -4.49 ± 0.0130
+K 6 (in order):  -4.99 ± 0.0030
+K 7 (in order):  -5.15 ± 0.0016
+K 8 (in order):  -3.59 ± 0.3544
+K 9 (in order):  -4.72 ± 0.0086
+K 10 (in order):  -4.55 ± 0.0014
+K 11 (in order):  -2.36 ± 0.3666
+K 12 (in order):  -4.70 ± 0.0037
+K 13 (in order):  -4.85 ± 0.0019
+K 14 (in order):  -4.76 ± 0.0012
+K 15 (in order):  -4.53 ± 0.0027
+K 16 (in order):  -4.87 ± 0.0120
+K 17 (in order):  -4.98 ± 0.0020
+K 18 (in order):  -4.65 ± 0.0017
+K 19 (in order):  -5.02 ± 0.0045
+K 20 (in order):  -5.35 ± 0.0423
+K 21 (in order):  -1.47 ± 11.0126
+K 22 (in order):  -4.30 ± 0.5788
+K 23 (in order):  -2.00 ± 181.7511
+K 24 (in order):  -4.04 ± 0.0187
+K 25 (in order):  -0.81 ± 137.0573
+K 26 (in order):  -4.69 ± 0.0014
+K 27 (in order):  -4.83 ± 0.0014
+K 28 (in order):  -4.99 ± 0.0020
+K 29 (in order):  -0.81 ± 36.3452
+>> 

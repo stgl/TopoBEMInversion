@@ -1,0 +1,26 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: maxNumCompThreads will be removed in a future release. Please remove
+any instances of this function from your code.] 
+[> In maxNumCompThreads (line 26)
+  In matlabrc (line 206)] 
+Setting CVX paths...done.
+
+	Academic License
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> Chi-2 misfit:  11.30
+>> Shear displacement rate (mm/yr):  17.07
+>> Convergent displacement rate (mm/yr):  -0.75
+>> Uplift rate at Bay constraint (mm/yr):   0.13
+>> Uplift rate at LP (mm/yr):   0.78
+>> Log10 K value (log m/yr):  -7.98
+>> >> >> >> >> >> 
