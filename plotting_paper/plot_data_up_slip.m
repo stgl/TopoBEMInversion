@@ -1,6 +1,6 @@
 %% Input inversion results
 
-scenario = 'weak'; % 'weak', 'medium', 'strong'
+scenario = 'strong'; % 'weak', 'medium', 'strong'
 
 if strcmp(scenario,'strong')
     title_analysis='"Strong" Weighting Model';
@@ -17,13 +17,14 @@ simple_model=0;
 % p=pathdef; path(p)
 
 
-addpath(genpath('/Users/felipearon/Documents/Codes/colorpalettes'))
-addpath(genpath('/Users/felipearon/Documents/Codes/utils'))
-addpath(genpath('/Users/felipearon/Documents/GitHub/TopoBEMInversion'))
+addpath(genpath('/Users/felipearon/Dropbox/Documents/Codes/colorpalettes'))
+addpath(genpath('/Users/felipearon/Dropbox/Documents/Codes/utils'))
+addpath(genpath('/Users/felipearon/Dropbox/Documents/GitHub/TopoBEMInversion'))
 
 % addpath('/Users/felipearon/Documents/POSTDOC/BEM Santa Cruz Mnts/tribemx_tries')
-addpath(genpath('/Users/felipearon/Documents/POSTDOC/Codes/BEM/Jacks_tribemx/tribem2018'))
-addpath('/Users/felipearon/Documents/POSTDOC/BEM Santa Cruz Mnts/tribemx_tries/Gmsh')
+% addpath(genpath('/Users/felipearon/Dropbox/Documents/POSTDOC/Codes/BEM/Jacks_tribemx/tribem2018'))
+addpath(genpath('/Users/felipearon/Dropbox/Documents/POSTDOC/Codes/BEM/Jacks_tribemx/tribem'))
+addpath('/Users/felipearon/Dropbox/Documents/POSTDOC/BEM Santa Cruz Mnts/tribemx_tries/Gmsh')
 
 %Check
 % addpath('/Users/felipearon/Documents/POSTDOC/Codes/MCMC/MCMC_postprocess')
@@ -47,6 +48,9 @@ xyz=[xyz_chi;xyz_grid];
 
 load('study_area_paper_utm.txt');
 study_area_paper_utm=study_area_paper_utm.*1e-3;
+
+% python idx, E and N UTM coordinates of channels and outlets
+load('G_channels_map.txt');
 
 % Fault traces
 load('BE_trace.txt');
@@ -82,11 +86,16 @@ else
     nr_nounits=8;
     
     K_nr=NaN(n_K,1);
+    
+    K_chan=NaN(length(e_chan),1);
+    
     for i=1:n_K
         if i==1
             K_nr(i,1)=geo_map(i,3);
+            K_chan(geo_map(i,2):geo_map(i,3),1)=K(i);
         else
             K_nr(i,1)=geo_map(i,3)-geo_map(i-1,3);
+            K_chan(geo_map(i,2):geo_map(i,3),1)=K(i);
         end
         
         
