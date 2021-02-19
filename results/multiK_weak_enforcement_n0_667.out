@@ -1,0 +1,64 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: maxNumCompThreads will be removed in a future release. Please remove
+any instances of this function from your code.] 
+[> In maxNumCompThreads (line 26)
+  In matlabrc (line 206)] 
+Setting CVX paths...done.
+    ----------------------------------------------------
+	Your MATLAB license will expire in 07 days.
+	Please contact your system administrator or
+	MathWorks to renew this license.
+    ----------------------------------------------------
+
+	Academic License
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >>  
+Exiting: Maximum number of function evaluations has been exceeded
+         - increase MaxFunEvals option.
+         Current function value: 5.744473 
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> Chi-2 misfit:   8.89
+>> Shear displacement rate (mm/yr):  10.98
+>> Convergent displacement rate (mm/yr):   2.17
+>> Uplift rate at Bay constraint (mm/yr):   0.19
+>> Uplift rate at LP (mm/yr):   0.66
+>> Log10 K value (log m/yr):  -3.71
+Log10 K value (log m/yr):  -3.56
+Log10 K value (log m/yr):  -3.67
+Log10 K value (log m/yr):  -3.50
+Log10 K value (log m/yr):  -3.34
+Log10 K value (log m/yr):  -3.85
+Log10 K value (log m/yr):  -3.94
+Log10 K value (log m/yr):  -1.73
+Log10 K value (log m/yr):  -3.59
+Log10 K value (log m/yr):  -3.43
+Log10 K value (log m/yr):  -3.44
+Log10 K value (log m/yr):  -3.54
+Log10 K value (log m/yr):  -3.66
+Log10 K value (log m/yr):  -3.58
+Log10 K value (log m/yr):  -3.42
+Log10 K value (log m/yr):  -3.35
+Log10 K value (log m/yr):  -3.77
+Log10 K value (log m/yr):  -3.52
+Log10 K value (log m/yr):  -3.81
+Log10 K value (log m/yr):  -3.97
+Log10 K value (log m/yr):  -1.77
+Log10 K value (log m/yr):  -4.19
+Log10 K value (log m/yr):  -1.28
+Log10 K value (log m/yr):  -1.65
+Log10 K value (log m/yr):   0.56
+Log10 K value (log m/yr):  -3.56
+Log10 K value (log m/yr):  -3.61
+Log10 K value (log m/yr):  -3.74
+Log10 K value (log m/yr):  -3.89
+>> >> >> >> >> >> 
