@@ -74,3 +74,5 @@ if strcmp(msgid,'MATLAB:nearlySingularMatrix')
 end
 
 dpred = G*m;
+
+m(1:2) = m(1:2)^(1./n)
