@@ -28,7 +28,7 @@ Gt(1:n_Gtect_rows,1:n_Gtect_cols) = G_chan.^(1./n);
 Gt(n_Gtect_rows+1:n_Gtect_rows+n_outlets, ...
     n_Gtect_cols+1:n_Gtect_cols+n_outlets) = speye(n_outlets,n_outlets);
 Gt(n_Gtect_rows+n_outlets+1:n_Gtect_rows+n_outlets+n_constraints, ...
-    1:n_Gtect_cols) = [G_bay;G_lp];
+    1:n_Gtect_cols) = [G_bay.^(1/n);G_lp.^(1./n)];
 
 % Greate K matrix to account for steepness:
 
@@ -58,8 +58,8 @@ W = sparse(ind_chan_misfit,ind_chan_misfit, ...
 W(n_Gtect_rows+1:n_Gtect_rows+n_outlets, ...
     n_Gtect_rows+1:n_Gtect_rows+n_outlets) = ...
     speye(n_outlets, n_outlets) / sig_elev.^2;
-W(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) = 1 / w_bay_constr.^2;
-W(n_rows, n_rows) = 1 / w_lp_constr.^2;
+W(n_Gtect_rows+n_outlets+1,n_Gtect_rows+n_outlets+1) = 1 / w_bay_constr.^(2*n);
+W(n_rows, n_rows) = 1 / w_lp_constr.^(2*n);
 
 G = Ginv_elev*K*Gt;
 

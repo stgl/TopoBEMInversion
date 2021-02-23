@@ -10,7 +10,7 @@ else
   error('Improper number of arguments to topo_linear_lsq_soln.m');
 end
 
-d = [e_chan;e_outlets;bay_constr;lp_constr];
+d = [e_chan;e_outlets;bay_constr.^(1./n);lp_constr.^(1./n)];
 
 [~, dpred, ~] = topo_linear_lsq_soln(d, K, sig_elev, ind_chan_misfit, ...
     G_chan, Ginv_elev, w_bay_constr, G_bay, w_lp_constr, G_lp, geo_map, n);
