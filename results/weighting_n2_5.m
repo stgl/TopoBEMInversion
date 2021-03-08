@@ -4,7 +4,7 @@ addpath('/data/cees/hilley/SCM/TopoBEMInversion/src','/data/cees/hilley/SCM/Topo
 % Concavity:
 theta = 0.4;
 
-n=0.66667;
+n=2.5;
 
 save_flag=1;
 
