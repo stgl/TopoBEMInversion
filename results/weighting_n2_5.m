@@ -1,6 +1,6 @@
 % Setting the correct directories
 p=pathdef; path(p)
-
+addpath('/data/cees/hilley/SCM/TopoBEMInversion/src','/data/cees/hilley/SCM/TopoBEMInversion/results','/data/cees/hilley/SCM/TopoBEMInversion/utils')
 % Concavity:
 theta = 0.4;
 
