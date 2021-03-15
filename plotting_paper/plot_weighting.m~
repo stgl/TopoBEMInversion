@@ -3,8 +3,8 @@ addpath(genpath('/Users/felipearon/Dropbox/Documents/Codes/utils'))
 addpath(genpath('/Users/felipearon/Dropbox/Documents/GitHub/TopoBEMInversion'))
 
 % filename_weight='WeightingResults1.mat';
-% filename_weight='WeightingResults_n0_66667.mat';
-filename_weight='WeightingResults_n2_5.mat';
+filename_weight='WeightingResults_n0_66667.mat';
+% filename_weight='WeightingResults_n2_5.mat';
 load(filename_weight);
 
 bay_resid=real(bay_resid);
