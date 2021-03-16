@@ -1,6 +1,10 @@
 % Setting the correct directories
 p=pathdef; path(p)
-addpath('/data/cees/hilley/SCM/TopoBEMInversion/src','/data/cees/hilley/SCM/TopoBEMInversion/results','/data/cees/hilley/SCM/TopoBEMInversion/utils')
+% addpath('/data/cees/hilley/SCM/TopoBEMInversion/src','/data/cees/hilley/SCM/TopoBEMInversion/results','/data/cees/hilley/SCM/TopoBEMInversion/utils')
+addpath('C:\Users\faron\Documents\GitHub\TopoBEMInversion\src',...
+    'C:\Users\faron\Documents\GitHub\TopoBEMInversion\results',...
+    'C:\Users\faron\Documents\GitHub\TopoBEMInversion\utils',...
+    'C:\Users\faron\Documents\GitHub\TopoBEMInversion\input')
 
 % Concavity:
 theta = 0.4;
@@ -10,8 +14,10 @@ n=0.66667;
 save_flag=1;
 
 % weighting factors for bay and Loma Prieta points:
-log_w_bay = -7.7:0.1:-5.7;
-log_w_lp = -7:0.1:-5;
+% log_w_bay = -7.7:0.1:-5.7;
+% log_w_lp = -7:0.1:-5;
+log_w_bay = -10:0.25:-.25;
+log_w_lp = -10:0.25:-.25;
 
 sig_elev=16; % in m
 
