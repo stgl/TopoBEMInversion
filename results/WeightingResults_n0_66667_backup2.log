@@ -1,0 +1,1815 @@
+n=0.66667 logSig Bay and LP -6.5:0.1:-4.5
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.096878e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -6.50
+Elapsed time:  0.031 minutes, iter: 1 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.100676e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -6.50
+Elapsed time:  0.063 minutes, iter: 2 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.102590e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -6.50
+Elapsed time:  0.093 minutes, iter: 3 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.103551e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -6.50
+Elapsed time:  0.123 minutes, iter: 4 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104034e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -6.50
+Elapsed time:  0.154 minutes, iter: 5 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104276e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -6.50
+Elapsed time:  0.188 minutes, iter: 6 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104397e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -6.50
+Elapsed time:  0.219 minutes, iter: 7 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104458e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -6.50
+Elapsed time:  0.253 minutes, iter: 8 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104488e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -6.50
+Elapsed time:  0.284 minutes, iter: 9 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104504e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -6.50
+Elapsed time:  0.319 minutes, iter: 10 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104511e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -6.50
+Elapsed time:  0.350 minutes, iter: 11 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104515e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -6.50
+Elapsed time:  0.380 minutes, iter: 12 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104517e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -6.50
+Elapsed time:  0.411 minutes, iter: 13 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104518e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -6.50
+Elapsed time:  0.441 minutes, iter: 14 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104519e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.10, LP:  -6.50
+Elapsed time:  0.473 minutes, iter: 15 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104519e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.00, LP:  -6.50
+Elapsed time:  0.504 minutes, iter: 16 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104519e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.90, LP:  -6.50
+Elapsed time:  0.536 minutes, iter: 17 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104519e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.80, LP:  -6.50
+Elapsed time:  0.567 minutes, iter: 18 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104519e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.70, LP:  -6.50
+Elapsed time:  0.597 minutes, iter: 19 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104519e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.60, LP:  -6.50
+Elapsed time:  0.629 minutes, iter: 20 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.104519e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.50, LP:  -6.50
+Elapsed time:  0.659 minutes, iter: 21 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.584310e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -6.40
+Elapsed time:  0.768 minutes, iter: 22 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+5.365591e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -6.40
+Elapsed time:  0.876 minutes, iter: 23 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+5.866696e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -6.40
+Elapsed time:  0.984 minutes, iter: 24 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.154784e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -6.40
+Elapsed time:  1.090 minutes, iter: 25 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.310083e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -6.40
+Elapsed time:  1.190 minutes, iter: 26 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.390904e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -6.40
+Elapsed time:  1.288 minutes, iter: 27 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.432194e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -6.40
+Elapsed time:  1.394 minutes, iter: 28 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.453089e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -6.40
+Elapsed time:  1.491 minutes, iter: 29 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.463613e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -6.40
+Elapsed time:  1.589 minutes, iter: 30 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.468900e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -6.40
+Elapsed time:  1.689 minutes, iter: 31 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.471553e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -6.40
+Elapsed time:  1.788 minutes, iter: 32 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.472884e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -6.40
+Elapsed time:  1.884 minutes, iter: 33 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.473551e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -6.40
+Elapsed time:  1.980 minutes, iter: 34 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.473885e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -6.40
+Elapsed time:  2.076 minutes, iter: 35 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.474053e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.10, LP:  -6.40
+Elapsed time:  2.172 minutes, iter: 36 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.474137e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.00, LP:  -6.40
+Elapsed time:  2.269 minutes, iter: 37 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.474179e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.90, LP:  -6.40
+Elapsed time:  2.365 minutes, iter: 38 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.474200e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.80, LP:  -6.40
+Elapsed time:  2.458 minutes, iter: 39 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.474211e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.70, LP:  -6.40
+Elapsed time:  2.552 minutes, iter: 40 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.474216e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.60, LP:  -6.40
+Elapsed time:  2.647 minutes, iter: 41 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.474219e-19. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.50, LP:  -6.40
+Elapsed time:  2.744 minutes, iter: 42 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.452950e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -6.30
+Elapsed time:  2.774 minutes, iter: 43 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.336168e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -6.30
+Elapsed time:  2.806 minutes, iter: 44 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.366018e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -6.30
+Elapsed time:  2.836 minutes, iter: 45 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.381134e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -6.30
+Elapsed time:  2.870 minutes, iter: 46 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.388749e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -6.30
+Elapsed time:  2.900 minutes, iter: 47 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.392576e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -6.30
+Elapsed time:  2.931 minutes, iter: 48 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.394496e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -6.30
+Elapsed time:  2.962 minutes, iter: 49 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.395459e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -6.30
+Elapsed time:  2.998 minutes, iter: 50 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.395942e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -6.30
+Elapsed time:  3.029 minutes, iter: 51 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396184e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -6.30
+Elapsed time:  3.059 minutes, iter: 52 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396305e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -6.30
+Elapsed time:  3.090 minutes, iter: 53 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396366e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -6.30
+Elapsed time:  3.125 minutes, iter: 54 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396397e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -6.30
+Elapsed time:  3.155 minutes, iter: 55 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396412e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -6.30
+Elapsed time:  3.185 minutes, iter: 56 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396420e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.10, LP:  -6.30
+Elapsed time:  3.217 minutes, iter: 57 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396423e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.00, LP:  -6.30
+Elapsed time:  3.246 minutes, iter: 58 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396425e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.90, LP:  -6.30
+Elapsed time:  3.278 minutes, iter: 59 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396426e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.80, LP:  -6.30
+Elapsed time:  3.309 minutes, iter: 60 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396427e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.70, LP:  -6.30
+Elapsed time:  3.340 minutes, iter: 61 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396427e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.60, LP:  -6.30
+Elapsed time:  3.372 minutes, iter: 62 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.396427e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.50, LP:  -6.30
+Elapsed time:  3.405 minutes, iter: 63 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.518816e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -6.20
+Elapsed time:  3.435 minutes, iter: 64 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.893293e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -6.20
+Elapsed time:  3.466 minutes, iter: 65 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.649926e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -6.20
+Elapsed time:  3.496 minutes, iter: 66 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.709459e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -6.20
+Elapsed time:  3.532 minutes, iter: 67 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.739606e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -6.20
+Elapsed time:  3.563 minutes, iter: 68 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.754794e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -6.20
+Elapsed time:  3.594 minutes, iter: 69 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.762426e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -6.20
+Elapsed time:  3.624 minutes, iter: 70 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.766256e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -6.20
+Elapsed time:  3.661 minutes, iter: 71 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.768177e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -6.20
+Elapsed time:  3.690 minutes, iter: 72 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.769140e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -6.20
+Elapsed time:  3.722 minutes, iter: 73 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.769623e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -6.20
+Elapsed time:  3.751 minutes, iter: 74 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.769865e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -6.20
+Elapsed time:  3.784 minutes, iter: 75 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.769986e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -6.20
+Elapsed time:  3.815 minutes, iter: 76 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.770047e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -6.20
+Elapsed time:  3.845 minutes, iter: 77 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.770077e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.10, LP:  -6.20
+Elapsed time:  3.877 minutes, iter: 78 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.770092e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.00, LP:  -6.20
+Elapsed time:  3.910 minutes, iter: 79 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.770100e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.90, LP:  -6.20
+Elapsed time:  3.942 minutes, iter: 80 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.770104e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.80, LP:  -6.20
+Elapsed time:  3.974 minutes, iter: 81 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.770106e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.70, LP:  -6.20
+Elapsed time:  4.006 minutes, iter: 82 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.770107e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.60, LP:  -6.20
+Elapsed time:  4.037 minutes, iter: 83 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.770107e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.50, LP:  -6.20
+Elapsed time:  4.070 minutes, iter: 84 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.650154e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -6.10
+Elapsed time:  4.101 minutes, iter: 85 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+5.024657e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -6.10
+Elapsed time:  4.131 minutes, iter: 86 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.759512e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -6.10
+Elapsed time:  4.162 minutes, iter: 87 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.725151e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -6.10
+Elapsed time:  4.198 minutes, iter: 88 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.737019e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -6.10
+Elapsed time:  4.229 minutes, iter: 89 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.743029e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -6.10
+Elapsed time:  4.261 minutes, iter: 90 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.746057e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -6.10
+Elapsed time:  4.291 minutes, iter: 91 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.747578e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -6.10
+Elapsed time:  4.331 minutes, iter: 92 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.748342e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -6.10
+Elapsed time:  4.360 minutes, iter: 93 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.748725e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -6.10
+Elapsed time:  4.390 minutes, iter: 94 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.748917e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -6.10
+Elapsed time:  4.420 minutes, iter: 95 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.749013e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -6.10
+Elapsed time:  4.455 minutes, iter: 96 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.749061e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -6.10
+Elapsed time:  4.487 minutes, iter: 97 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.749085e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -6.10
+Elapsed time:  4.517 minutes, iter: 98 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.749097e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.10, LP:  -6.10
+Elapsed time:  4.548 minutes, iter: 99 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.749103e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.00, LP:  -6.10
+Elapsed time:  4.584 minutes, iter: 100 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.749106e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.90, LP:  -6.10
+Elapsed time:  4.615 minutes, iter: 101 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.749108e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.80, LP:  -6.10
+Elapsed time:  4.646 minutes, iter: 102 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.749109e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.70, LP:  -6.10
+Elapsed time:  4.676 minutes, iter: 103 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.749109e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.60, LP:  -6.10
+Elapsed time:  4.707 minutes, iter: 104 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.749109e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.50, LP:  -6.10
+Elapsed time:  4.737 minutes, iter: 105 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.911889e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -6.00
+Elapsed time:  4.768 minutes, iter: 106 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+5.286441e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -6.00
+Elapsed time:  4.799 minutes, iter: 107 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.002140e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -6.00
+Elapsed time:  4.829 minutes, iter: 108 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.945738e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -6.00
+Elapsed time:  4.863 minutes, iter: 109 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.439211e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -6.00
+Elapsed time:  4.893 minutes, iter: 110 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.462851e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -6.00
+Elapsed time:  4.924 minutes, iter: 111 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.474822e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -6.00
+Elapsed time:  4.957 minutes, iter: 112 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.480853e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -6.00
+Elapsed time:  4.991 minutes, iter: 113 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.483884e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -6.00
+Elapsed time:  5.021 minutes, iter: 114 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.485405e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -6.00
+Elapsed time:  5.052 minutes, iter: 115 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.486167e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -6.00
+Elapsed time:  5.081 minutes, iter: 116 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.486550e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -6.00
+Elapsed time:  5.113 minutes, iter: 117 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.486742e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -6.00
+Elapsed time:  5.144 minutes, iter: 118 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.486838e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -6.00
+Elapsed time:  5.175 minutes, iter: 119 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.486886e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.10, LP:  -6.00
+Elapsed time:  5.210 minutes, iter: 120 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.486910e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.00, LP:  -6.00
+Elapsed time:  5.245 minutes, iter: 121 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.486922e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.90, LP:  -6.00
+Elapsed time:  5.282 minutes, iter: 122 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.486928e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.80, LP:  -6.00
+Elapsed time:  5.316 minutes, iter: 123 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.486931e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.70, LP:  -6.00
+Elapsed time:  5.349 minutes, iter: 124 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.486933e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.60, LP:  -6.00
+Elapsed time:  5.384 minutes, iter: 125 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.486933e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.50, LP:  -6.00
+Elapsed time:  5.418 minutes, iter: 126 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.432847e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -5.90
+Elapsed time:  5.447 minutes, iter: 127 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+5.807500e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -5.90
+Elapsed time:  5.477 minutes, iter: 128 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.054266e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -5.90
+Elapsed time:  5.512 minutes, iter: 129 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.997904e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -5.90
+Elapsed time:  5.548 minutes, iter: 130 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.876152e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -5.90
+Elapsed time:  5.580 minutes, iter: 131 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.850570e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -5.90
+Elapsed time:  5.613 minutes, iter: 132 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.897579e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -5.90
+Elapsed time:  5.646 minutes, iter: 133 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.921384e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -5.90
+Elapsed time:  5.677 minutes, iter: 134 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.933376e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -5.90
+Elapsed time:  5.707 minutes, iter: 135 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.939402e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -5.90
+Elapsed time:  5.738 minutes, iter: 136 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.942426e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -5.90
+Elapsed time:  5.771 minutes, iter: 137 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.943943e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -5.90
+Elapsed time:  5.804 minutes, iter: 138 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.944703e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -5.90
+Elapsed time:  5.834 minutes, iter: 139 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.945084e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -5.90
+Elapsed time:  5.863 minutes, iter: 140 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.945275e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.10, LP:  -5.90
+Elapsed time:  5.897 minutes, iter: 141 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.945371e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.00, LP:  -5.90
+Elapsed time:  5.932 minutes, iter: 142 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.945419e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.90, LP:  -5.90
+Elapsed time:  5.963 minutes, iter: 143 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.945443e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.80, LP:  -5.90
+Elapsed time:  5.997 minutes, iter: 144 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.945455e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.70, LP:  -5.90
+Elapsed time:  6.032 minutes, iter: 145 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.945461e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.60, LP:  -5.90
+Elapsed time:  6.065 minutes, iter: 146 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.945464e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.50, LP:  -5.90
+Elapsed time:  6.095 minutes, iter: 147 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.467273e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -5.80
+Elapsed time:  6.126 minutes, iter: 148 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.842124e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -5.80
+Elapsed time:  6.156 minutes, iter: 149 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.157768e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -5.80
+Elapsed time:  6.193 minutes, iter: 150 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.101485e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -5.80
+Elapsed time:  6.226 minutes, iter: 151 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.979891e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -5.80
+Elapsed time:  6.260 minutes, iter: 152 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+7.709776e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -5.80
+Elapsed time:  6.291 minutes, iter: 153 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.362295e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -5.80
+Elapsed time:  6.328 minutes, iter: 154 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.371611e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -5.80
+Elapsed time:  6.358 minutes, iter: 155 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.376329e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -5.80
+Elapsed time:  6.389 minutes, iter: 156 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.378706e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -5.80
+Elapsed time:  6.419 minutes, iter: 157 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.379900e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -5.80
+Elapsed time:  6.453 minutes, iter: 158 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.380499e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -5.80
+Elapsed time:  6.483 minutes, iter: 159 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.380800e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -5.80
+Elapsed time:  6.513 minutes, iter: 160 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.380950e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -5.80
+Elapsed time:  6.547 minutes, iter: 161 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.381026e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.10, LP:  -5.80
+Elapsed time:  6.579 minutes, iter: 162 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.381064e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.00, LP:  -5.80
+Elapsed time:  6.613 minutes, iter: 163 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.381083e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.90, LP:  -5.80
+Elapsed time:  6.646 minutes, iter: 164 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.381092e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.80, LP:  -5.80
+Elapsed time:  6.678 minutes, iter: 165 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.381097e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.70, LP:  -5.80
+Elapsed time:  6.709 minutes, iter: 166 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.381099e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.60, LP:  -5.80
+Elapsed time:  6.741 minutes, iter: 167 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.381101e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.50, LP:  -5.80
+Elapsed time:  6.775 minutes, iter: 168 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.511453e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -5.70
+Elapsed time:  6.805 minutes, iter: 169 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.886698e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -5.70
+Elapsed time:  6.835 minutes, iter: 170 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.362303e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -5.70
+Elapsed time:  6.869 minutes, iter: 171 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.306177e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -5.70
+Elapsed time:  6.899 minutes, iter: 172 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.184894e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -5.70
+Elapsed time:  6.928 minutes, iter: 173 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+7.915398e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -5.70
+Elapsed time:  6.961 minutes, iter: 174 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.528778e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -5.70
+Elapsed time:  6.997 minutes, iter: 175 out of 441
+Done with Bay:  -5.80, LP:  -5.70
+Elapsed time:  7.805 minutes, iter: 176 out of 441
+Done with Bay:  -5.70, LP:  -5.70
+Elapsed time:  8.596 minutes, iter: 177 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+7.192995e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -5.70
+Elapsed time:  8.767 minutes, iter: 178 out of 441
+Done with Bay:  -5.50, LP:  -5.70
+Elapsed time:  9.552 minutes, iter: 179 out of 441
+Done with Bay:  -5.40, LP:  -5.70
+Elapsed time: 10.339 minutes, iter: 180 out of 441
+Done with Bay:  -5.30, LP:  -5.70
+Elapsed time: 11.127 minutes, iter: 181 out of 441
+Done with Bay:  -5.20, LP:  -5.70
+Elapsed time: 11.917 minutes, iter: 182 out of 441
+Done with Bay:  -5.10, LP:  -5.70
+Elapsed time: 12.692 minutes, iter: 183 out of 441
+Done with Bay:  -5.00, LP:  -5.70
+Elapsed time: 13.499 minutes, iter: 184 out of 441
+Done with Bay:  -4.90, LP:  -5.70
+Elapsed time: 14.293 minutes, iter: 185 out of 441
+Done with Bay:  -4.80, LP:  -5.70
+Elapsed time: 15.085 minutes, iter: 186 out of 441
+Done with Bay:  -4.70, LP:  -5.70
+Elapsed time: 15.938 minutes, iter: 187 out of 441
+Done with Bay:  -4.60, LP:  -5.70
+Elapsed time: 16.804 minutes, iter: 188 out of 441
+Done with Bay:  -4.50, LP:  -5.70
+Elapsed time: 17.685 minutes, iter: 189 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.051317e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -5.60
+Elapsed time: 17.715 minutes, iter: 190 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.288919e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -5.60
+Elapsed time: 17.747 minutes, iter: 191 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.762706e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -5.60
+Elapsed time: 17.778 minutes, iter: 192 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.706885e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -5.60
+Elapsed time: 17.809 minutes, iter: 193 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.091557e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -5.60
+Elapsed time: 17.927 minutes, iter: 194 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.317927e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -5.60
+Elapsed time: 17.957 minutes, iter: 195 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.569271e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -5.60
+Elapsed time: 17.988 minutes, iter: 196 out of 441
+Done with Bay:  -5.80, LP:  -5.60
+Elapsed time: 18.760 minutes, iter: 197 out of 441
+Done with Bay:  -5.70, LP:  -5.60
+Elapsed time: 19.520 minutes, iter: 198 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.889387e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -5.60
+Elapsed time: 20.087 minutes, iter: 199 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.695787e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -5.60
+Elapsed time: 20.434 minutes, iter: 200 out of 441
+Done with Bay:  -5.40, LP:  -5.60
+Elapsed time: 21.190 minutes, iter: 201 out of 441
+Done with Bay:  -5.30, LP:  -5.60
+Elapsed time: 21.956 minutes, iter: 202 out of 441
+Done with Bay:  -5.20, LP:  -5.60
+Elapsed time: 22.741 minutes, iter: 203 out of 441
+Done with Bay:  -5.10, LP:  -5.60
+Elapsed time: 23.522 minutes, iter: 204 out of 441
+Done with Bay:  -5.00, LP:  -5.60
+Elapsed time: 24.287 minutes, iter: 205 out of 441
+Done with Bay:  -4.90, LP:  -5.60
+Elapsed time: 25.047 minutes, iter: 206 out of 441
+Done with Bay:  -4.80, LP:  -5.60
+Elapsed time: 25.817 minutes, iter: 207 out of 441
+Done with Bay:  -4.70, LP:  -5.60
+Elapsed time: 26.666 minutes, iter: 208 out of 441
+Done with Bay:  -4.60, LP:  -5.60
+Elapsed time: 27.518 minutes, iter: 209 out of 441
+Done with Bay:  -4.50, LP:  -5.60
+Elapsed time: 28.348 minutes, iter: 210 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.820445e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -5.50
+Elapsed time: 28.377 minutes, iter: 211 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.058194e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -5.50
+Elapsed time: 28.409 minutes, iter: 212 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.532276e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -5.50
+Elapsed time: 28.438 minutes, iter: 213 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.477044e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -5.50
+Elapsed time: 28.470 minutes, iter: 214 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.234792e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -5.50
+Elapsed time: 28.584 minutes, iter: 215 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.091586e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -5.50
+Elapsed time: 28.612 minutes, iter: 216 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.647098e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -5.50
+Elapsed time: 28.644 minutes, iter: 217 out of 441
+Done with Bay:  -5.80, LP:  -5.50
+Elapsed time: 29.433 minutes, iter: 218 out of 441
+Done with Bay:  -5.70, LP:  -5.50
+Elapsed time: 30.216 minutes, iter: 219 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.389453e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -5.50
+Elapsed time: 30.671 minutes, iter: 220 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.437386e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -5.50
+Elapsed time: 31.097 minutes, iter: 221 out of 441
+Done with Bay:  -5.40, LP:  -5.50
+Elapsed time: 31.897 minutes, iter: 222 out of 441
+Done with Bay:  -5.30, LP:  -5.50
+Elapsed time: 32.672 minutes, iter: 223 out of 441
+Done with Bay:  -5.20, LP:  -5.50
+Elapsed time: 33.461 minutes, iter: 224 out of 441
+Done with Bay:  -5.10, LP:  -5.50
+Elapsed time: 34.233 minutes, iter: 225 out of 441
+Done with Bay:  -5.00, LP:  -5.50
+Elapsed time: 35.025 minutes, iter: 226 out of 441
+Done with Bay:  -4.90, LP:  -5.50
+Elapsed time: 35.809 minutes, iter: 227 out of 441
+Done with Bay:  -4.80, LP:  -5.50
+Elapsed time: 36.568 minutes, iter: 228 out of 441
+Done with Bay:  -4.70, LP:  -5.50
+Elapsed time: 37.322 minutes, iter: 229 out of 441
+Done with Bay:  -4.60, LP:  -5.50
+Elapsed time: 38.085 minutes, iter: 230 out of 441
+Done with Bay:  -4.50, LP:  -5.50
+Elapsed time: 38.922 minutes, iter: 231 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.247852e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -5.40
+Elapsed time: 38.952 minutes, iter: 232 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.485876e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -5.40
+Elapsed time: 38.986 minutes, iter: 233 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+3.960506e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -5.40
+Elapsed time: 39.018 minutes, iter: 234 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+4.906366e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -5.40
+Elapsed time: 39.048 minutes, iter: 235 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.314222e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -5.40
+Elapsed time: 39.159 minutes, iter: 236 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.052741e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -5.40
+Elapsed time: 39.191 minutes, iter: 237 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.791536e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -5.40
+Elapsed time: 39.224 minutes, iter: 238 out of 441
+Done with Bay:  -5.80, LP:  -5.40
+Elapsed time: 40.001 minutes, iter: 239 out of 441
+Done with Bay:  -5.70, LP:  -5.40
+Elapsed time: 40.770 minutes, iter: 240 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.728047e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -5.40
+Elapsed time: 40.982 minutes, iter: 241 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.955696e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -5.40
+Elapsed time: 41.755 minutes, iter: 242 out of 441
+Done with Bay:  -5.40, LP:  -5.40
+Elapsed time: 42.542 minutes, iter: 243 out of 441
+Done with Bay:  -5.30, LP:  -5.40
+Elapsed time: 43.344 minutes, iter: 244 out of 441
+Done with Bay:  -5.20, LP:  -5.40
+Elapsed time: 44.139 minutes, iter: 245 out of 441
+Done with Bay:  -5.10, LP:  -5.40
+Elapsed time: 44.918 minutes, iter: 246 out of 441
+Done with Bay:  -5.00, LP:  -5.40
+Elapsed time: 45.691 minutes, iter: 247 out of 441
+Done with Bay:  -4.90, LP:  -5.40
+Elapsed time: 46.459 minutes, iter: 248 out of 441
+Done with Bay:  -4.80, LP:  -5.40
+Elapsed time: 47.239 minutes, iter: 249 out of 441
+Done with Bay:  -4.70, LP:  -5.40
+Elapsed time: 48.021 minutes, iter: 250 out of 441
+Done with Bay:  -4.60, LP:  -5.40
+Elapsed time: 48.801 minutes, iter: 251 out of 441
+Done with Bay:  -4.50, LP:  -5.40
+Elapsed time: 49.599 minutes, iter: 252 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+5.732666e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -5.30
+Elapsed time: 49.628 minutes, iter: 253 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+5.971169e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -5.30
+Elapsed time: 49.660 minutes, iter: 254 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+6.446753e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -5.30
+Elapsed time: 49.690 minutes, iter: 255 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+7.394515e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -5.30
+Elapsed time: 49.722 minutes, iter: 256 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.356194e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -5.30
+Elapsed time: 49.830 minutes, iter: 257 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.302688e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -5.30
+Elapsed time: 49.861 minutes, iter: 258 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.042975e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -5.30
+Elapsed time: 49.892 minutes, iter: 259 out of 441
+Done with Bay:  -5.80, LP:  -5.30
+Elapsed time: 50.685 minutes, iter: 260 out of 441
+Done with Bay:  -5.70, LP:  -5.30
+Elapsed time: 51.470 minutes, iter: 261 out of 441
+Done with Bay:  -5.60, LP:  -5.30
+Elapsed time: 52.353 minutes, iter: 262 out of 441
+Done with Bay:  -5.50, LP:  -5.30
+Elapsed time: 53.234 minutes, iter: 263 out of 441
+Done with Bay:  -5.40, LP:  -5.30
+Elapsed time: 54.006 minutes, iter: 264 out of 441
+Done with Bay:  -5.30, LP:  -5.30
+Elapsed time: 54.787 minutes, iter: 265 out of 441
+Done with Bay:  -5.20, LP:  -5.30
+Elapsed time: 55.582 minutes, iter: 266 out of 441
+Done with Bay:  -5.10, LP:  -5.30
+Elapsed time: 56.390 minutes, iter: 267 out of 441
+Done with Bay:  -5.00, LP:  -5.30
+Elapsed time: 57.197 minutes, iter: 268 out of 441
+Done with Bay:  -4.90, LP:  -5.30
+Elapsed time: 58.010 minutes, iter: 269 out of 441
+Done with Bay:  -4.80, LP:  -5.30
+Elapsed time: 58.825 minutes, iter: 270 out of 441
+Done with Bay:  -4.70, LP:  -5.30
+Elapsed time: 59.626 minutes, iter: 271 out of 441
+Done with Bay:  -4.60, LP:  -5.30
+Elapsed time: 60.414 minutes, iter: 272 out of 441
+Done with Bay:  -4.50, LP:  -5.30
+Elapsed time: 61.195 minutes, iter: 273 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.611759e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -5.20
+Elapsed time: 61.229 minutes, iter: 274 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.851010e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -5.20
+Elapsed time: 61.262 minutes, iter: 275 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.032809e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -5.20
+Elapsed time: 61.297 minutes, iter: 276 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.127882e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -5.20
+Elapsed time: 61.331 minutes, iter: 277 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.377808e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -5.20
+Elapsed time: 61.437 minutes, iter: 278 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.692888e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -5.20
+Elapsed time: 61.466 minutes, iter: 279 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.958398e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -5.20
+Elapsed time: 61.530 minutes, iter: 280 out of 441
+Done with Bay:  -5.80, LP:  -5.20
+Elapsed time: 62.321 minutes, iter: 281 out of 441
+Done with Bay:  -5.70, LP:  -5.20
+Elapsed time: 63.116 minutes, iter: 282 out of 441
+Done with Bay:  -5.60, LP:  -5.20
+Elapsed time: 63.916 minutes, iter: 283 out of 441
+Done with Bay:  -5.50, LP:  -5.20
+Elapsed time: 64.721 minutes, iter: 284 out of 441
+Done with Bay:  -5.40, LP:  -5.20
+Elapsed time: 65.525 minutes, iter: 285 out of 441
+Done with Bay:  -5.30, LP:  -5.20
+Elapsed time: 66.318 minutes, iter: 286 out of 441
+Done with Bay:  -5.20, LP:  -5.20
+Elapsed time: 67.122 minutes, iter: 287 out of 441
+Done with Bay:  -5.10, LP:  -5.20
+Elapsed time: 67.897 minutes, iter: 288 out of 441
+Done with Bay:  -5.00, LP:  -5.20
+Elapsed time: 68.691 minutes, iter: 289 out of 441
+Done with Bay:  -4.90, LP:  -5.20
+Elapsed time: 69.500 minutes, iter: 290 out of 441
+Done with Bay:  -4.80, LP:  -5.20
+Elapsed time: 70.293 minutes, iter: 291 out of 441
+Done with Bay:  -4.70, LP:  -5.20
+Elapsed time: 71.077 minutes, iter: 292 out of 441
+Done with Bay:  -4.60, LP:  -5.20
+Elapsed time: 71.865 minutes, iter: 293 out of 441
+Done with Bay:  -4.50, LP:  -5.20
+Elapsed time: 72.671 minutes, iter: 294 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.474517e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -5.10
+Elapsed time: 72.701 minutes, iter: 295 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.498541e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -5.10
+Elapsed time: 72.732 minutes, iter: 296 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.546447e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -5.10
+Elapsed time: 72.767 minutes, iter: 297 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.641915e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -5.10
+Elapsed time: 72.796 minutes, iter: 298 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.388791e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -5.10
+Elapsed time: 72.902 minutes, iter: 299 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.209266e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -5.10
+Elapsed time: 72.934 minutes, iter: 300 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.081436e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -5.10
+Elapsed time: 72.999 minutes, iter: 301 out of 441
+Done with Bay:  -5.80, LP:  -5.10
+Elapsed time: 73.778 minutes, iter: 302 out of 441
+Done with Bay:  -5.70, LP:  -5.10
+Elapsed time: 74.586 minutes, iter: 303 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.031287e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -5.10
+Elapsed time: 75.308 minutes, iter: 304 out of 441
+Done with Bay:  -5.50, LP:  -5.10
+Elapsed time: 76.211 minutes, iter: 305 out of 441
+Done with Bay:  -5.40, LP:  -5.10
+Elapsed time: 76.998 minutes, iter: 306 out of 441
+Done with Bay:  -5.30, LP:  -5.10
+Elapsed time: 77.795 minutes, iter: 307 out of 441
+Done with Bay:  -5.20, LP:  -5.10
+Elapsed time: 78.569 minutes, iter: 308 out of 441
+Done with Bay:  -5.10, LP:  -5.10
+Elapsed time: 79.384 minutes, iter: 309 out of 441
+Done with Bay:  -5.00, LP:  -5.10
+Elapsed time: 80.179 minutes, iter: 310 out of 441
+Done with Bay:  -4.90, LP:  -5.10
+Elapsed time: 80.969 minutes, iter: 311 out of 441
+Done with Bay:  -4.80, LP:  -5.10
+Elapsed time: 81.760 minutes, iter: 312 out of 441
+Done with Bay:  -4.70, LP:  -5.10
+Elapsed time: 82.556 minutes, iter: 313 out of 441
+Done with Bay:  -4.60, LP:  -5.10
+Elapsed time: 83.332 minutes, iter: 314 out of 441
+Done with Bay:  -4.50, LP:  -5.10
+Elapsed time: 84.127 minutes, iter: 315 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.566227e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -5.00
+Elapsed time: 84.157 minutes, iter: 316 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.047485e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -5.00
+Elapsed time: 84.188 minutes, iter: 317 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.095602e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -5.00
+Elapsed time: 84.218 minutes, iter: 318 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.191493e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -5.00
+Elapsed time: 84.248 minutes, iter: 319 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.394333e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -5.00
+Elapsed time: 84.349 minutes, iter: 320 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.454790e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -5.00
+Elapsed time: 84.410 minutes, iter: 321 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.167647e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -5.00
+Elapsed time: 84.469 minutes, iter: 322 out of 441
+Done with Bay:  -5.80, LP:  -5.00
+Elapsed time: 85.277 minutes, iter: 323 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.509182e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -5.00
+Elapsed time: 85.408 minutes, iter: 324 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.704795e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -5.00
+Elapsed time: 85.536 minutes, iter: 325 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.823995e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -5.00
+Elapsed time: 85.665 minutes, iter: 326 out of 441
+Done with Bay:  -5.40, LP:  -5.00
+Elapsed time: 86.461 minutes, iter: 327 out of 441
+Done with Bay:  -5.30, LP:  -5.00
+Elapsed time: 87.268 minutes, iter: 328 out of 441
+Done with Bay:  -5.20, LP:  -5.00
+Elapsed time: 88.070 minutes, iter: 329 out of 441
+Done with Bay:  -5.10, LP:  -5.00
+Elapsed time: 88.897 minutes, iter: 330 out of 441
+Done with Bay:  -5.00, LP:  -5.00
+Elapsed time: 89.700 minutes, iter: 331 out of 441
+Done with Bay:  -4.90, LP:  -5.00
+Elapsed time: 90.490 minutes, iter: 332 out of 441
+Done with Bay:  -4.80, LP:  -5.00
+Elapsed time: 91.272 minutes, iter: 333 out of 441
+Done with Bay:  -4.70, LP:  -5.00
+Elapsed time: 92.079 minutes, iter: 334 out of 441
+Done with Bay:  -4.60, LP:  -5.00
+Elapsed time: 92.858 minutes, iter: 335 out of 441
+Done with Bay:  -4.50, LP:  -5.00
+Elapsed time: 93.646 minutes, iter: 336 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.569738e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -4.90
+Elapsed time: 93.675 minutes, iter: 337 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.007634e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -4.90
+Elapsed time: 93.739 minutes, iter: 338 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.490911e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -4.90
+Elapsed time: 93.809 minutes, iter: 339 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.450565e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -4.90
+Elapsed time: 93.871 minutes, iter: 340 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.397121e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -4.90
+Elapsed time: 93.972 minutes, iter: 341 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.506074e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -4.90
+Elapsed time: 94.033 minutes, iter: 342 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.220089e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -4.90
+Elapsed time: 94.095 minutes, iter: 343 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.231148e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -4.90
+Elapsed time: 94.223 minutes, iter: 344 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.509639e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -4.90
+Elapsed time: 94.358 minutes, iter: 345 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.705286e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -4.90
+Elapsed time: 94.483 minutes, iter: 346 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.824507e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -4.90
+Elapsed time: 94.607 minutes, iter: 347 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.890965e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -4.90
+Elapsed time: 94.727 minutes, iter: 348 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.926183e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -4.90
+Elapsed time: 94.851 minutes, iter: 349 out of 441
+Done with Bay:  -5.20, LP:  -4.90
+Elapsed time: 95.646 minutes, iter: 350 out of 441
+Done with Bay:  -5.10, LP:  -4.90
+Elapsed time: 96.431 minutes, iter: 351 out of 441
+Done with Bay:  -5.00, LP:  -4.90
+Elapsed time: 97.225 minutes, iter: 352 out of 441
+Done with Bay:  -4.90, LP:  -4.90
+Elapsed time: 98.017 minutes, iter: 353 out of 441
+Done with Bay:  -4.80, LP:  -4.90
+Elapsed time: 98.803 minutes, iter: 354 out of 441
+Done with Bay:  -4.70, LP:  -4.90
+Elapsed time: 99.600 minutes, iter: 355 out of 441
+Done with Bay:  -4.60, LP:  -4.90
+Elapsed time: 100.427 minutes, iter: 356 out of 441
+Done with Bay:  -4.50, LP:  -4.90
+Elapsed time: 101.234 minutes, iter: 357 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.571504e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -4.80
+Elapsed time: 101.266 minutes, iter: 358 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.286905e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -4.80
+Elapsed time: 101.327 minutes, iter: 359 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.770613e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -4.80
+Elapsed time: 101.393 minutes, iter: 360 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.731120e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -4.80
+Elapsed time: 101.455 minutes, iter: 361 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.398520e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -4.80
+Elapsed time: 101.554 minutes, iter: 362 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.534631e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -4.80
+Elapsed time: 101.615 minutes, iter: 363 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.486114e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -4.80
+Elapsed time: 101.716 minutes, iter: 364 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.231356e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -4.80
+Elapsed time: 101.851 minutes, iter: 365 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.509870e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -4.80
+Elapsed time: 101.984 minutes, iter: 366 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.705534e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -4.80
+Elapsed time: 102.113 minutes, iter: 367 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.824765e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -4.80
+Elapsed time: 102.236 minutes, iter: 368 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.891229e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -4.80
+Elapsed time: 102.362 minutes, iter: 369 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.926450e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -4.80
+Elapsed time: 102.492 minutes, iter: 370 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.944614e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -4.80
+Elapsed time: 102.626 minutes, iter: 371 out of 441
+Done with Bay:  -5.10, LP:  -4.80
+Elapsed time: 103.446 minutes, iter: 372 out of 441
+Done with Bay:  -5.00, LP:  -4.80
+Elapsed time: 104.251 minutes, iter: 373 out of 441
+Done with Bay:  -4.90, LP:  -4.80
+Elapsed time: 105.016 minutes, iter: 374 out of 441
+Done with Bay:  -4.80, LP:  -4.80
+Elapsed time: 105.795 minutes, iter: 375 out of 441
+Done with Bay:  -4.70, LP:  -4.80
+Elapsed time: 106.649 minutes, iter: 376 out of 441
+Done with Bay:  -4.60, LP:  -4.80
+Elapsed time: 107.414 minutes, iter: 377 out of 441
+Done with Bay:  -4.50, LP:  -4.80
+Elapsed time: 108.239 minutes, iter: 378 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.572390e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -4.70
+Elapsed time: 108.267 minutes, iter: 379 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.434811e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -4.70
+Elapsed time: 108.329 minutes, iter: 380 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.918746e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -4.70
+Elapsed time: 108.387 minutes, iter: 381 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.879707e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -4.70
+Elapsed time: 108.446 minutes, iter: 382 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.399222e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -4.70
+Elapsed time: 108.544 minutes, iter: 383 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.549756e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -4.70
+Elapsed time: 108.604 minutes, iter: 384 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.487251e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -4.70
+Elapsed time: 108.691 minutes, iter: 385 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.231460e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -4.70
+Elapsed time: 108.811 minutes, iter: 386 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.509986e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -4.70
+Elapsed time: 108.935 minutes, iter: 387 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.705658e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -4.70
+Elapsed time: 109.055 minutes, iter: 388 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.824895e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -4.70
+Elapsed time: 109.179 minutes, iter: 389 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.891362e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -4.70
+Elapsed time: 109.297 minutes, iter: 390 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.926585e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -4.70
+Elapsed time: 109.424 minutes, iter: 391 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.944750e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -4.70
+Elapsed time: 109.545 minutes, iter: 392 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.953987e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.10, LP:  -4.70
+Elapsed time: 109.663 minutes, iter: 393 out of 441
+Done with Bay:  -5.00, LP:  -4.70
+Elapsed time: 110.408 minutes, iter: 394 out of 441
+Done with Bay:  -4.90, LP:  -4.70
+Elapsed time: 111.166 minutes, iter: 395 out of 441
+Done with Bay:  -4.80, LP:  -4.70
+Elapsed time: 111.913 minutes, iter: 396 out of 441
+Done with Bay:  -4.70, LP:  -4.70
+Elapsed time: 112.658 minutes, iter: 397 out of 441
+Done with Bay:  -4.60, LP:  -4.70
+Elapsed time: 113.416 minutes, iter: 398 out of 441
+Done with Bay:  -4.50, LP:  -4.70
+Elapsed time: 114.170 minutes, iter: 399 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.572835e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -4.60
+Elapsed time: 114.202 minutes, iter: 400 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.511067e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -4.60
+Elapsed time: 114.259 minutes, iter: 401 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.995120e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -4.60
+Elapsed time: 114.324 minutes, iter: 402 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.956314e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -4.60
+Elapsed time: 114.381 minutes, iter: 403 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.399574e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -4.60
+Elapsed time: 114.480 minutes, iter: 404 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.557554e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -4.60
+Elapsed time: 114.538 minutes, iter: 405 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.487825e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -4.60
+Elapsed time: 114.627 minutes, iter: 406 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.231513e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -4.60
+Elapsed time: 114.749 minutes, iter: 407 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.510044e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -4.60
+Elapsed time: 114.868 minutes, iter: 408 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.705721e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -4.60
+Elapsed time: 114.993 minutes, iter: 409 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.824960e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -4.60
+Elapsed time: 115.125 minutes, iter: 410 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.891429e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -4.60
+Elapsed time: 115.248 minutes, iter: 411 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.926652e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -4.60
+Elapsed time: 115.364 minutes, iter: 412 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.944818e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -4.60
+Elapsed time: 115.484 minutes, iter: 413 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.954055e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.10, LP:  -4.60
+Elapsed time: 115.604 minutes, iter: 414 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.958719e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.00, LP:  -4.60
+Elapsed time: 115.723 minutes, iter: 415 out of 441
+Done with Bay:  -4.90, LP:  -4.60
+Elapsed time: 116.478 minutes, iter: 416 out of 441
+Done with Bay:  -4.80, LP:  -4.60
+Elapsed time: 117.233 minutes, iter: 417 out of 441
+Done with Bay:  -4.70, LP:  -4.60
+Elapsed time: 118.001 minutes, iter: 418 out of 441
+Done with Bay:  -4.60, LP:  -4.60
+Elapsed time: 118.762 minutes, iter: 419 out of 441
+Done with Bay:  -4.50, LP:  -4.60
+Elapsed time: 119.519 minutes, iter: 420 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.573058e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.50, LP:  -4.50
+Elapsed time: 119.549 minutes, iter: 421 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+8.549838e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.40, LP:  -4.50
+Elapsed time: 119.606 minutes, iter: 422 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.033950e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.30, LP:  -4.50
+Elapsed time: 119.667 minutes, iter: 423 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+9.995263e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.20, LP:  -4.50
+Elapsed time: 119.724 minutes, iter: 424 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.399751e-17. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.10, LP:  -4.50
+Elapsed time: 119.821 minutes, iter: 425 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.561519e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -6.00, LP:  -4.50
+Elapsed time: 119.884 minutes, iter: 426 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.488114e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.90, LP:  -4.50
+Elapsed time: 119.977 minutes, iter: 427 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.231539e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.80, LP:  -4.50
+Elapsed time: 120.098 minutes, iter: 428 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.510074e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.70, LP:  -4.50
+Elapsed time: 120.222 minutes, iter: 429 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.705752e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.60, LP:  -4.50
+Elapsed time: 120.341 minutes, iter: 430 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.824993e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.50, LP:  -4.50
+Elapsed time: 120.461 minutes, iter: 431 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.891463e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.40, LP:  -4.50
+Elapsed time: 120.578 minutes, iter: 432 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.926686e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.30, LP:  -4.50
+Elapsed time: 120.694 minutes, iter: 433 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.944852e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.20, LP:  -4.50
+Elapsed time: 120.815 minutes, iter: 434 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.954090e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.10, LP:  -4.50
+Elapsed time: 120.939 minutes, iter: 435 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.958753e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -5.00, LP:  -4.50
+Elapsed time: 121.058 minutes, iter: 436 out of 441
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.961099e-16. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -4.90, LP:  -4.50
+Elapsed time: 121.182 minutes, iter: 437 out of 441
+Done with Bay:  -4.80, LP:  -4.50
+Elapsed time: 121.935 minutes, iter: 438 out of 441
+Done with Bay:  -4.70, LP:  -4.50
+Elapsed time: 122.696 minutes, iter: 439 out of 441
+Done with Bay:  -4.60, LP:  -4.50
+Elapsed time: 123.457 minutes, iter: 440 out of 441
+Done with Bay:  -4.50, LP:  -4.50
+Elapsed time: 124.217 minutes, iter: 441 out of 441
+Total time: 124.22 minutes
+>> 

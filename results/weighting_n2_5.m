@@ -16,8 +16,8 @@ save_flag=1;
 % weighting factors for bay and Loma Prieta points:
 % log_w_bay = -7.7:0.1:-5.7;
 % log_w_lp = -7:0.1:-5;
-log_w_bay = -10:0.25:-.25;
-log_w_lp = -10:0.25:-.25;
+log_w_bay = -16.75:0.25:-6.75;
+log_w_lp = -16.75:0.25:-6.75;
 
 sig_elev=16; % in m
 
