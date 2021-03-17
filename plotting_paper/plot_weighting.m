@@ -2,9 +2,13 @@ addpath(genpath('/Users/felipearon/Dropbox/Documents/Codes/colorpalettes'))
 addpath(genpath('/Users/felipearon/Dropbox/Documents/Codes/utils'))
 addpath(genpath('/Users/felipearon/Dropbox/Documents/GitHub/TopoBEMInversion'))
 
-% filename_weight='WeightingResults1.mat';
-filename_weight='WeightingResults_n0_66667_backup2.mat';
+filename_weight='WeightingResults1.mat';
+sig_bay_weights=[-6.3 -6.4 -6.5]; sig_loma_weights=[-6.1 -6.4 -6.8];
+% filename_weight='WeightingResults_n0_66667_backup2.mat';
+% sig_bay_weights=[-5.2 -5.3 -5.4]; sig_loma_weights=[-5.0 -5.3 -5.7];
 % filename_weight='WeightingResults_n2_5.mat';
+% sig_bay_weights=[-6.3 -6.4 -6.5]; sig_loma_weights=[-6.1 -6.4 -6.8];
+
 load(filename_weight);
 
 bay_resid=real(bay_resid);
@@ -13,15 +17,16 @@ chi_sq_outletsfree=real(chi_sq_outletsfree);
 v_s=real(v_s);
 v_n=real(v_n);
 
-sig_bay_weights=[-6.3 -6.4 -6.5];
-sig_loma_weights=[-6.1 -6.4 -6.8];
+% sig_bay_weights=[-6.3 -6.4 -6.5];
+% sig_loma_weights=[-6.1 -6.4 -6.8];
 
 
 bay_resid_weights=interp2(log_w_bay,log_w_lp,bay_resid,sig_bay_weights,sig_loma_weights,'nearest');
 lp_resid_weights=interp2(log_w_bay,log_w_lp,lp_resid,sig_bay_weights,sig_loma_weights,'nearest');
 chi_sq_outletsfree_weights=interp2(log_w_bay,log_w_lp,chi_sq_outletsfree,sig_bay_weights,sig_loma_weights,'nearest');
-v_s_weights=interp2(log_w_bay,log_w_lp,v_s,sig_bay_weights,sig_loma_weights,'nearest');
-v_n_weights=interp2(log_w_bay,log_w_lp,v_n,sig_bay_weights,sig_loma_weights,'nearest');
+v_s_weights=interp2(log_w_bay,log_w_lp,v_s.*1e3,sig_bay_weights,sig_loma_weights,'nearest');
+v_n_weights=interp2(log_w_bay,log_w_lp,v_n.*-1e3,sig_bay_weights,sig_loma_weights,'nearest');
+log_k_weights=interp2(log_w_bay,log_w_lp,k,sig_bay_weights,sig_loma_weights,'nearest');
 
 
 %%
