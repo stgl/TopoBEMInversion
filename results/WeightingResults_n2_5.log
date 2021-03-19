@@ -1,0 +1,4079 @@
+n=2.5 logSig Bay and LP -16.75:0.25:-6.75
+Done with Bay: -16.75, LP: -16.75
+Elapsed time:  1.220 minutes, iter: 1 out of 1681
+Done with Bay: -16.50, LP: -16.75
+Elapsed time:  2.979 minutes, iter: 2 out of 1681
+Done with Bay: -16.25, LP: -16.75
+Elapsed time:  4.180 minutes, iter: 3 out of 1681
+Done with Bay: -16.00, LP: -16.75
+Elapsed time:  5.393 minutes, iter: 4 out of 1681
+Done with Bay: -15.75, LP: -16.75
+Elapsed time:  6.599 minutes, iter: 5 out of 1681
+Done with Bay: -15.50, LP: -16.75
+Elapsed time:  7.794 minutes, iter: 6 out of 1681
+Done with Bay: -15.25, LP: -16.75
+Elapsed time:  9.196 minutes, iter: 7 out of 1681
+Done with Bay: -15.00, LP: -16.75
+Elapsed time: 10.575 minutes, iter: 8 out of 1681
+Done with Bay: -14.75, LP: -16.75
+Elapsed time: 11.854 minutes, iter: 9 out of 1681
+Done with Bay: -14.50, LP: -16.75
+Elapsed time: 13.040 minutes, iter: 10 out of 1681
+Done with Bay: -14.25, LP: -16.75
+Elapsed time: 14.394 minutes, iter: 11 out of 1681
+Done with Bay: -14.00, LP: -16.75
+Elapsed time: 15.591 minutes, iter: 12 out of 1681
+Done with Bay: -13.75, LP: -16.75
+Elapsed time: 16.947 minutes, iter: 13 out of 1681
+Done with Bay: -13.50, LP: -16.75
+Elapsed time: 18.249 minutes, iter: 14 out of 1681
+Done with Bay: -13.25, LP: -16.75
+Elapsed time: 19.470 minutes, iter: 15 out of 1681
+Done with Bay: -13.00, LP: -16.75
+Elapsed time: 20.753 minutes, iter: 16 out of 1681
+Done with Bay: -12.75, LP: -16.75
+Elapsed time: 21.887 minutes, iter: 17 out of 1681
+Done with Bay: -12.50, LP: -16.75
+Elapsed time: 23.111 minutes, iter: 18 out of 1681
+Done with Bay: -12.25, LP: -16.75
+Elapsed time: 24.331 minutes, iter: 19 out of 1681
+Done with Bay: -12.00, LP: -16.75
+Elapsed time: 25.490 minutes, iter: 20 out of 1681
+Done with Bay: -11.75, LP: -16.75
+Elapsed time: 26.737 minutes, iter: 21 out of 1681
+Done with Bay: -11.50, LP: -16.75
+Elapsed time: 27.831 minutes, iter: 22 out of 1681
+Done with Bay: -11.25, LP: -16.75
+Elapsed time: 28.959 minutes, iter: 23 out of 1681
+Done with Bay: -11.00, LP: -16.75
+Elapsed time: 30.065 minutes, iter: 24 out of 1681
+Done with Bay: -10.75, LP: -16.75
+Elapsed time: 31.168 minutes, iter: 25 out of 1681
+Done with Bay: -10.50, LP: -16.75
+Elapsed time: 32.242 minutes, iter: 26 out of 1681
+Done with Bay: -10.25, LP: -16.75
+Elapsed time: 33.320 minutes, iter: 27 out of 1681
+Done with Bay: -10.00, LP: -16.75
+Elapsed time: 34.396 minutes, iter: 28 out of 1681
+Done with Bay:  -9.75, LP: -16.75
+Elapsed time: 35.478 minutes, iter: 29 out of 1681
+Done with Bay:  -9.50, LP: -16.75
+Elapsed time: 36.560 minutes, iter: 30 out of 1681
+Done with Bay:  -9.25, LP: -16.75
+Elapsed time: 37.655 minutes, iter: 31 out of 1681
+Done with Bay:  -9.00, LP: -16.75
+Elapsed time: 38.724 minutes, iter: 32 out of 1681
+Done with Bay:  -8.75, LP: -16.75
+Elapsed time: 39.794 minutes, iter: 33 out of 1681
+Done with Bay:  -8.50, LP: -16.75
+Elapsed time: 40.874 minutes, iter: 34 out of 1681
+Done with Bay:  -8.25, LP: -16.75
+Elapsed time: 41.949 minutes, iter: 35 out of 1681
+Done with Bay:  -8.00, LP: -16.75
+Elapsed time: 43.022 minutes, iter: 36 out of 1681
+Done with Bay:  -7.75, LP: -16.75
+Elapsed time: 44.088 minutes, iter: 37 out of 1681
+Done with Bay:  -7.50, LP: -16.75
+Elapsed time: 45.156 minutes, iter: 38 out of 1681
+Done with Bay:  -7.25, LP: -16.75
+Elapsed time: 46.226 minutes, iter: 39 out of 1681
+Done with Bay:  -7.00, LP: -16.75
+Elapsed time: 47.290 minutes, iter: 40 out of 1681
+Done with Bay:  -6.75, LP: -16.75
+Elapsed time: 48.356 minutes, iter: 41 out of 1681
+Done with Bay: -16.75, LP: -16.50
+Elapsed time: 51.170 minutes, iter: 42 out of 1681
+Done with Bay: -16.50, LP: -16.50
+Elapsed time: 54.883 minutes, iter: 43 out of 1681
+Done with Bay: -16.25, LP: -16.50
+Elapsed time: 58.892 minutes, iter: 44 out of 1681
+Done with Bay: -16.00, LP: -16.50
+Elapsed time: 62.872 minutes, iter: 45 out of 1681
+Done with Bay: -15.75, LP: -16.50
+Elapsed time: 67.082 minutes, iter: 46 out of 1681
+Done with Bay: -15.50, LP: -16.50
+Elapsed time: 71.354 minutes, iter: 47 out of 1681
+Done with Bay: -15.25, LP: -16.50
+Elapsed time: 75.608 minutes, iter: 48 out of 1681
+Done with Bay: -15.00, LP: -16.50
+Elapsed time: 80.223 minutes, iter: 49 out of 1681
+Done with Bay: -14.75, LP: -16.50
+Elapsed time: 84.377 minutes, iter: 50 out of 1681
+Done with Bay: -14.50, LP: -16.50
+Elapsed time: 88.411 minutes, iter: 51 out of 1681
+Done with Bay: -14.25, LP: -16.50
+Elapsed time: 92.935 minutes, iter: 52 out of 1681
+Done with Bay: -14.00, LP: -16.50
+Elapsed time: 96.873 minutes, iter: 53 out of 1681
+Done with Bay: -13.75, LP: -16.50
+Elapsed time: 101.449 minutes, iter: 54 out of 1681
+Done with Bay: -13.50, LP: -16.50
+Elapsed time: 105.765 minutes, iter: 55 out of 1681
+Done with Bay: -13.25, LP: -16.50
+Elapsed time: 109.768 minutes, iter: 56 out of 1681
+Done with Bay: -13.00, LP: -16.50
+Elapsed time: 113.939 minutes, iter: 57 out of 1681
+Done with Bay: -12.75, LP: -16.50
+Elapsed time: 117.634 minutes, iter: 58 out of 1681
+Done with Bay: -12.50, LP: -16.50
+Elapsed time: 121.649 minutes, iter: 59 out of 1681
+Done with Bay: -12.25, LP: -16.50
+Elapsed time: 125.656 minutes, iter: 60 out of 1681
+Done with Bay: -12.00, LP: -16.50
+Elapsed time: 129.468 minutes, iter: 61 out of 1681
+Done with Bay: -11.75, LP: -16.50
+Elapsed time: 133.558 minutes, iter: 62 out of 1681
+Done with Bay: -11.50, LP: -16.50
+Elapsed time: 137.212 minutes, iter: 63 out of 1681
+Done with Bay: -11.25, LP: -16.50
+Elapsed time: 140.931 minutes, iter: 64 out of 1681
+Done with Bay: -11.00, LP: -16.50
+Elapsed time: 144.523 minutes, iter: 65 out of 1681
+Done with Bay: -10.75, LP: -16.50
+Elapsed time: 148.121 minutes, iter: 66 out of 1681
+Done with Bay: -10.50, LP: -16.50
+Elapsed time: 151.652 minutes, iter: 67 out of 1681
+Done with Bay: -10.25, LP: -16.50
+Elapsed time: 155.212 minutes, iter: 68 out of 1681
+Done with Bay: -10.00, LP: -16.50
+Elapsed time: 158.784 minutes, iter: 69 out of 1681
+Done with Bay:  -9.75, LP: -16.50
+Elapsed time: 162.324 minutes, iter: 70 out of 1681
+Done with Bay:  -9.50, LP: -16.50
+Elapsed time: 165.821 minutes, iter: 71 out of 1681
+Done with Bay:  -9.25, LP: -16.50
+Elapsed time: 169.380 minutes, iter: 72 out of 1681
+Done with Bay:  -9.00, LP: -16.50
+Elapsed time: 172.977 minutes, iter: 73 out of 1681
+Done with Bay:  -8.75, LP: -16.50
+Elapsed time: 176.555 minutes, iter: 74 out of 1681
+Done with Bay:  -8.50, LP: -16.50
+Elapsed time: 180.163 minutes, iter: 75 out of 1681
+Done with Bay:  -8.25, LP: -16.50
+Elapsed time: 183.742 minutes, iter: 76 out of 1681
+Done with Bay:  -8.00, LP: -16.50
+Elapsed time: 187.344 minutes, iter: 77 out of 1681
+Done with Bay:  -7.75, LP: -16.50
+Elapsed time: 190.884 minutes, iter: 78 out of 1681
+Done with Bay:  -7.50, LP: -16.50
+Elapsed time: 194.457 minutes, iter: 79 out of 1681
+Done with Bay:  -7.25, LP: -16.50
+Elapsed time: 198.048 minutes, iter: 80 out of 1681
+Done with Bay:  -7.00, LP: -16.50
+Elapsed time: 201.640 minutes, iter: 81 out of 1681
+Done with Bay:  -6.75, LP: -16.50
+Elapsed time: 205.185 minutes, iter: 82 out of 1681
+Done with Bay: -16.75, LP: -16.25
+Elapsed time: 206.386 minutes, iter: 83 out of 1681
+Done with Bay: -16.50, LP: -16.25
+Elapsed time: 209.403 minutes, iter: 84 out of 1681
+Done with Bay: -16.25, LP: -16.25
+Elapsed time: 210.605 minutes, iter: 85 out of 1681
+Done with Bay: -16.00, LP: -16.25
+Elapsed time: 211.804 minutes, iter: 86 out of 1681
+Done with Bay: -15.75, LP: -16.25
+Elapsed time: 213.005 minutes, iter: 87 out of 1681
+Done with Bay: -15.50, LP: -16.25
+Elapsed time: 214.215 minutes, iter: 88 out of 1681
+Done with Bay: -15.25, LP: -16.25
+Elapsed time: 215.531 minutes, iter: 89 out of 1681
+Done with Bay: -15.00, LP: -16.25
+Elapsed time: 216.910 minutes, iter: 90 out of 1681
+Done with Bay: -14.75, LP: -16.25
+Elapsed time: 218.330 minutes, iter: 91 out of 1681
+Done with Bay: -14.50, LP: -16.25
+Elapsed time: 219.550 minutes, iter: 92 out of 1681
+Done with Bay: -14.25, LP: -16.25
+Elapsed time: 220.934 minutes, iter: 93 out of 1681
+Done with Bay: -14.00, LP: -16.25
+Elapsed time: 222.151 minutes, iter: 94 out of 1681
+Done with Bay: -13.75, LP: -16.25
+Elapsed time: 223.529 minutes, iter: 95 out of 1681
+Done with Bay: -13.50, LP: -16.25
+Elapsed time: 224.842 minutes, iter: 96 out of 1681
+Done with Bay: -13.25, LP: -16.25
+Elapsed time: 226.072 minutes, iter: 97 out of 1681
+Done with Bay: -13.00, LP: -16.25
+Elapsed time: 227.367 minutes, iter: 98 out of 1681
+Done with Bay: -12.75, LP: -16.25
+Elapsed time: 228.523 minutes, iter: 99 out of 1681
+Done with Bay: -12.50, LP: -16.25
+Elapsed time: 229.761 minutes, iter: 100 out of 1681
+Done with Bay: -12.25, LP: -16.25
+Elapsed time: 230.996 minutes, iter: 101 out of 1681
+Done with Bay: -12.00, LP: -16.25
+Elapsed time: 232.164 minutes, iter: 102 out of 1681
+Done with Bay: -11.75, LP: -16.25
+Elapsed time: 233.425 minutes, iter: 103 out of 1681
+Done with Bay: -11.50, LP: -16.25
+Elapsed time: 234.536 minutes, iter: 104 out of 1681
+Done with Bay: -11.25, LP: -16.25
+Elapsed time: 235.688 minutes, iter: 105 out of 1681
+Done with Bay: -11.00, LP: -16.25
+Elapsed time: 236.865 minutes, iter: 106 out of 1681
+Done with Bay: -10.75, LP: -16.25
+Elapsed time: 237.986 minutes, iter: 107 out of 1681
+Done with Bay: -10.50, LP: -16.25
+Elapsed time: 239.065 minutes, iter: 108 out of 1681
+Done with Bay: -10.25, LP: -16.25
+Elapsed time: 240.157 minutes, iter: 109 out of 1681
+Done with Bay: -10.00, LP: -16.25
+Elapsed time: 241.238 minutes, iter: 110 out of 1681
+Done with Bay:  -9.75, LP: -16.25
+Elapsed time: 242.329 minutes, iter: 111 out of 1681
+Done with Bay:  -9.50, LP: -16.25
+Elapsed time: 243.418 minutes, iter: 112 out of 1681
+Done with Bay:  -9.25, LP: -16.25
+Elapsed time: 244.499 minutes, iter: 113 out of 1681
+Done with Bay:  -9.00, LP: -16.25
+Elapsed time: 245.577 minutes, iter: 114 out of 1681
+Done with Bay:  -8.75, LP: -16.25
+Elapsed time: 246.664 minutes, iter: 115 out of 1681
+Done with Bay:  -8.50, LP: -16.25
+Elapsed time: 247.735 minutes, iter: 116 out of 1681
+Done with Bay:  -8.25, LP: -16.25
+Elapsed time: 248.824 minutes, iter: 117 out of 1681
+Done with Bay:  -8.00, LP: -16.25
+Elapsed time: 249.902 minutes, iter: 118 out of 1681
+Done with Bay:  -7.75, LP: -16.25
+Elapsed time: 250.988 minutes, iter: 119 out of 1681
+Done with Bay:  -7.50, LP: -16.25
+Elapsed time: 252.075 minutes, iter: 120 out of 1681
+Done with Bay:  -7.25, LP: -16.25
+Elapsed time: 253.171 minutes, iter: 121 out of 1681
+Done with Bay:  -7.00, LP: -16.25
+Elapsed time: 254.260 minutes, iter: 122 out of 1681
+Done with Bay:  -6.75, LP: -16.25
+Elapsed time: 255.353 minutes, iter: 123 out of 1681
+Done with Bay: -16.75, LP: -16.00
+Elapsed time: 256.553 minutes, iter: 124 out of 1681
+Done with Bay: -16.50, LP: -16.00
+Elapsed time: 259.142 minutes, iter: 125 out of 1681
+Done with Bay: -16.25, LP: -16.00
+Elapsed time: 260.340 minutes, iter: 126 out of 1681
+Done with Bay: -16.00, LP: -16.00
+Elapsed time: 261.541 minutes, iter: 127 out of 1681
+Done with Bay: -15.75, LP: -16.00
+Elapsed time: 262.744 minutes, iter: 128 out of 1681
+Done with Bay: -15.50, LP: -16.00
+Elapsed time: 263.959 minutes, iter: 129 out of 1681
+Done with Bay: -15.25, LP: -16.00
+Elapsed time: 265.276 minutes, iter: 130 out of 1681
+Done with Bay: -15.00, LP: -16.00
+Elapsed time: 266.653 minutes, iter: 131 out of 1681
+Done with Bay: -14.75, LP: -16.00
+Elapsed time: 268.080 minutes, iter: 132 out of 1681
+Done with Bay: -14.50, LP: -16.00
+Elapsed time: 269.301 minutes, iter: 133 out of 1681
+Done with Bay: -14.25, LP: -16.00
+Elapsed time: 270.708 minutes, iter: 134 out of 1681
+Done with Bay: -14.00, LP: -16.00
+Elapsed time: 271.919 minutes, iter: 135 out of 1681
+Done with Bay: -13.75, LP: -16.00
+Elapsed time: 273.299 minutes, iter: 136 out of 1681
+Done with Bay: -13.50, LP: -16.00
+Elapsed time: 274.611 minutes, iter: 137 out of 1681
+Done with Bay: -13.25, LP: -16.00
+Elapsed time: 275.846 minutes, iter: 138 out of 1681
+Done with Bay: -13.00, LP: -16.00
+Elapsed time: 277.144 minutes, iter: 139 out of 1681
+Done with Bay: -12.75, LP: -16.00
+Elapsed time: 278.299 minutes, iter: 140 out of 1681
+Done with Bay: -12.50, LP: -16.00
+Elapsed time: 279.538 minutes, iter: 141 out of 1681
+Done with Bay: -12.25, LP: -16.00
+Elapsed time: 280.766 minutes, iter: 142 out of 1681
+Done with Bay: -12.00, LP: -16.00
+Elapsed time: 281.945 minutes, iter: 143 out of 1681
+Done with Bay: -11.75, LP: -16.00
+Elapsed time: 283.221 minutes, iter: 144 out of 1681
+Done with Bay: -11.50, LP: -16.00
+Elapsed time: 284.346 minutes, iter: 145 out of 1681
+Done with Bay: -11.25, LP: -16.00
+Elapsed time: 285.499 minutes, iter: 146 out of 1681
+Done with Bay: -11.00, LP: -16.00
+Elapsed time: 286.680 minutes, iter: 147 out of 1681
+Done with Bay: -10.75, LP: -16.00
+Elapsed time: 287.792 minutes, iter: 148 out of 1681
+Done with Bay: -10.50, LP: -16.00
+Elapsed time: 288.879 minutes, iter: 149 out of 1681
+Done with Bay: -10.25, LP: -16.00
+Elapsed time: 289.989 minutes, iter: 150 out of 1681
+Done with Bay: -10.00, LP: -16.00
+Elapsed time: 291.086 minutes, iter: 151 out of 1681
+Done with Bay:  -9.75, LP: -16.00
+Elapsed time: 292.182 minutes, iter: 152 out of 1681
+Done with Bay:  -9.50, LP: -16.00
+Elapsed time: 293.272 minutes, iter: 153 out of 1681
+Done with Bay:  -9.25, LP: -16.00
+Elapsed time: 294.361 minutes, iter: 154 out of 1681
+Done with Bay:  -9.00, LP: -16.00
+Elapsed time: 295.444 minutes, iter: 155 out of 1681
+Done with Bay:  -8.75, LP: -16.00
+Elapsed time: 296.535 minutes, iter: 156 out of 1681
+Done with Bay:  -8.50, LP: -16.00
+Elapsed time: 297.626 minutes, iter: 157 out of 1681
+Done with Bay:  -8.25, LP: -16.00
+Elapsed time: 298.714 minutes, iter: 158 out of 1681
+Done with Bay:  -8.00, LP: -16.00
+Elapsed time: 299.804 minutes, iter: 159 out of 1681
+Done with Bay:  -7.75, LP: -16.00
+Elapsed time: 300.889 minutes, iter: 160 out of 1681
+Done with Bay:  -7.50, LP: -16.00
+Elapsed time: 301.990 minutes, iter: 161 out of 1681
+Done with Bay:  -7.25, LP: -16.00
+Elapsed time: 303.084 minutes, iter: 162 out of 1681
+Done with Bay:  -7.00, LP: -16.00
+Elapsed time: 304.185 minutes, iter: 163 out of 1681
+Done with Bay:  -6.75, LP: -16.00
+Elapsed time: 305.279 minutes, iter: 164 out of 1681
+Done with Bay: -16.75, LP: -15.75
+Elapsed time: 306.489 minutes, iter: 165 out of 1681
+Done with Bay: -16.50, LP: -15.75
+Elapsed time: 309.202 minutes, iter: 166 out of 1681
+Done with Bay: -16.25, LP: -15.75
+Elapsed time: 310.419 minutes, iter: 167 out of 1681
+Done with Bay: -16.00, LP: -15.75
+Elapsed time: 311.616 minutes, iter: 168 out of 1681
+Done with Bay: -15.75, LP: -15.75
+Elapsed time: 312.830 minutes, iter: 169 out of 1681
+Done with Bay: -15.50, LP: -15.75
+Elapsed time: 314.041 minutes, iter: 170 out of 1681
+Done with Bay: -15.25, LP: -15.75
+Elapsed time: 315.816 minutes, iter: 171 out of 1681
+Done with Bay: -15.00, LP: -15.75
+Elapsed time: 317.209 minutes, iter: 172 out of 1681
+Done with Bay: -14.75, LP: -15.75
+Elapsed time: 318.660 minutes, iter: 173 out of 1681
+Done with Bay: -14.50, LP: -15.75
+Elapsed time: 319.871 minutes, iter: 174 out of 1681
+Done with Bay: -14.25, LP: -15.75
+Elapsed time: 321.263 minutes, iter: 175 out of 1681
+Done with Bay: -14.00, LP: -15.75
+Elapsed time: 322.476 minutes, iter: 176 out of 1681
+Done with Bay: -13.75, LP: -15.75
+Elapsed time: 324.212 minutes, iter: 177 out of 1681
+Done with Bay: -13.50, LP: -15.75
+Elapsed time: 325.541 minutes, iter: 178 out of 1681
+Done with Bay: -13.25, LP: -15.75
+Elapsed time: 326.763 minutes, iter: 179 out of 1681
+Done with Bay: -13.00, LP: -15.75
+Elapsed time: 328.052 minutes, iter: 180 out of 1681
+Done with Bay: -12.75, LP: -15.75
+Elapsed time: 329.187 minutes, iter: 181 out of 1681
+Done with Bay: -12.50, LP: -15.75
+Elapsed time: 330.431 minutes, iter: 182 out of 1681
+Done with Bay: -12.25, LP: -15.75
+Elapsed time: 331.670 minutes, iter: 183 out of 1681
+Done with Bay: -12.00, LP: -15.75
+Elapsed time: 332.849 minutes, iter: 184 out of 1681
+Done with Bay: -11.75, LP: -15.75
+Elapsed time: 334.124 minutes, iter: 185 out of 1681
+Done with Bay: -11.50, LP: -15.75
+Elapsed time: 335.281 minutes, iter: 186 out of 1681
+Done with Bay: -11.25, LP: -15.75
+Elapsed time: 336.430 minutes, iter: 187 out of 1681
+Done with Bay: -11.00, LP: -15.75
+Elapsed time: 337.607 minutes, iter: 188 out of 1681
+Done with Bay: -10.75, LP: -15.75
+Elapsed time: 338.701 minutes, iter: 189 out of 1681
+Done with Bay: -10.50, LP: -15.75
+Elapsed time: 339.799 minutes, iter: 190 out of 1681
+Done with Bay: -10.25, LP: -15.75
+Elapsed time: 340.878 minutes, iter: 191 out of 1681
+Done with Bay: -10.00, LP: -15.75
+Elapsed time: 341.966 minutes, iter: 192 out of 1681
+Done with Bay:  -9.75, LP: -15.75
+Elapsed time: 343.039 minutes, iter: 193 out of 1681
+Done with Bay:  -9.50, LP: -15.75
+Elapsed time: 344.134 minutes, iter: 194 out of 1681
+Done with Bay:  -9.25, LP: -15.75
+Elapsed time: 345.221 minutes, iter: 195 out of 1681
+Done with Bay:  -9.00, LP: -15.75
+Elapsed time: 346.314 minutes, iter: 196 out of 1681
+Done with Bay:  -8.75, LP: -15.75
+Elapsed time: 347.390 minutes, iter: 197 out of 1681
+Done with Bay:  -8.50, LP: -15.75
+Elapsed time: 348.477 minutes, iter: 198 out of 1681
+Done with Bay:  -8.25, LP: -15.75
+Elapsed time: 349.572 minutes, iter: 199 out of 1681
+Done with Bay:  -8.00, LP: -15.75
+Elapsed time: 350.654 minutes, iter: 200 out of 1681
+Done with Bay:  -7.75, LP: -15.75
+Elapsed time: 351.753 minutes, iter: 201 out of 1681
+Done with Bay:  -7.50, LP: -15.75
+Elapsed time: 352.846 minutes, iter: 202 out of 1681
+Done with Bay:  -7.25, LP: -15.75
+Elapsed time: 353.944 minutes, iter: 203 out of 1681
+Done with Bay:  -7.00, LP: -15.75
+Elapsed time: 355.038 minutes, iter: 204 out of 1681
+Done with Bay:  -6.75, LP: -15.75
+Elapsed time: 356.127 minutes, iter: 205 out of 1681
+Done with Bay: -16.75, LP: -15.50
+Elapsed time: 357.324 minutes, iter: 206 out of 1681
+Done with Bay: -16.50, LP: -15.50
+Elapsed time: 361.547 minutes, iter: 207 out of 1681
+Done with Bay: -16.25, LP: -15.50
+Elapsed time: 362.762 minutes, iter: 208 out of 1681
+Done with Bay: -16.00, LP: -15.50
+Elapsed time: 363.972 minutes, iter: 209 out of 1681
+Done with Bay: -15.75, LP: -15.50
+Elapsed time: 365.177 minutes, iter: 210 out of 1681
+Done with Bay: -15.50, LP: -15.50
+Elapsed time: 366.379 minutes, iter: 211 out of 1681
+Done with Bay: -15.25, LP: -15.50
+Elapsed time: 368.024 minutes, iter: 212 out of 1681
+Done with Bay: -15.00, LP: -15.50
+Elapsed time: 369.415 minutes, iter: 213 out of 1681
+Done with Bay: -14.75, LP: -15.50
+Elapsed time: 371.396 minutes, iter: 214 out of 1681
+Done with Bay: -14.50, LP: -15.50
+Elapsed time: 372.619 minutes, iter: 215 out of 1681
+Done with Bay: -14.25, LP: -15.50
+Elapsed time: 374.029 minutes, iter: 216 out of 1681
+Done with Bay: -14.00, LP: -15.50
+Elapsed time: 375.244 minutes, iter: 217 out of 1681
+Done with Bay: -13.75, LP: -15.50
+Elapsed time: 376.639 minutes, iter: 218 out of 1681
+Done with Bay: -13.50, LP: -15.50
+Elapsed time: 377.966 minutes, iter: 219 out of 1681
+Done with Bay: -13.25, LP: -15.50
+Elapsed time: 379.197 minutes, iter: 220 out of 1681
+Done with Bay: -13.00, LP: -15.50
+Elapsed time: 380.497 minutes, iter: 221 out of 1681
+Done with Bay: -12.75, LP: -15.50
+Elapsed time: 381.664 minutes, iter: 222 out of 1681
+Done with Bay: -12.50, LP: -15.50
+Elapsed time: 382.906 minutes, iter: 223 out of 1681
+Done with Bay: -12.25, LP: -15.50
+Elapsed time: 384.144 minutes, iter: 224 out of 1681
+Done with Bay: -12.00, LP: -15.50
+Elapsed time: 385.335 minutes, iter: 225 out of 1681
+Done with Bay: -11.75, LP: -15.50
+Elapsed time: 386.697 minutes, iter: 226 out of 1681
+Done with Bay: -11.50, LP: -15.50
+Elapsed time: 387.855 minutes, iter: 227 out of 1681
+Done with Bay: -11.25, LP: -15.50
+Elapsed time: 389.067 minutes, iter: 228 out of 1681
+Done with Bay: -11.00, LP: -15.50
+Elapsed time: 390.261 minutes, iter: 229 out of 1681
+Done with Bay: -10.75, LP: -15.50
+Elapsed time: 391.349 minutes, iter: 230 out of 1681
+Done with Bay: -10.50, LP: -15.50
+Elapsed time: 392.442 minutes, iter: 231 out of 1681
+Done with Bay: -10.25, LP: -15.50
+Elapsed time: 393.528 minutes, iter: 232 out of 1681
+Done with Bay: -10.00, LP: -15.50
+Elapsed time: 394.612 minutes, iter: 233 out of 1681
+Done with Bay:  -9.75, LP: -15.50
+Elapsed time: 395.697 minutes, iter: 234 out of 1681
+Done with Bay:  -9.50, LP: -15.50
+Elapsed time: 396.781 minutes, iter: 235 out of 1681
+Done with Bay:  -9.25, LP: -15.50
+Elapsed time: 397.867 minutes, iter: 236 out of 1681
+Done with Bay:  -9.00, LP: -15.50
+Elapsed time: 398.949 minutes, iter: 237 out of 1681
+Done with Bay:  -8.75, LP: -15.50
+Elapsed time: 400.033 minutes, iter: 238 out of 1681
+Done with Bay:  -8.50, LP: -15.50
+Elapsed time: 401.122 minutes, iter: 239 out of 1681
+Done with Bay:  -8.25, LP: -15.50
+Elapsed time: 402.224 minutes, iter: 240 out of 1681
+Done with Bay:  -8.00, LP: -15.50
+Elapsed time: 403.311 minutes, iter: 241 out of 1681
+Done with Bay:  -7.75, LP: -15.50
+Elapsed time: 404.398 minutes, iter: 242 out of 1681
+Done with Bay:  -7.50, LP: -15.50
+Elapsed time: 405.490 minutes, iter: 243 out of 1681
+Done with Bay:  -7.25, LP: -15.50
+Elapsed time: 406.576 minutes, iter: 244 out of 1681
+Done with Bay:  -7.00, LP: -15.50
+Elapsed time: 407.660 minutes, iter: 245 out of 1681
+Done with Bay:  -6.75, LP: -15.50
+Elapsed time: 408.756 minutes, iter: 246 out of 1681
+Done with Bay: -16.75, LP: -15.25
+Elapsed time: 409.961 minutes, iter: 247 out of 1681
+Done with Bay: -16.50, LP: -15.25
+Elapsed time: 414.128 minutes, iter: 248 out of 1681
+Done with Bay: -16.25, LP: -15.25
+Elapsed time: 415.327 minutes, iter: 249 out of 1681
+Done with Bay: -16.00, LP: -15.25
+Elapsed time: 416.525 minutes, iter: 250 out of 1681
+Done with Bay: -15.75, LP: -15.25
+Elapsed time: 417.742 minutes, iter: 251 out of 1681
+Done with Bay: -15.50, LP: -15.25
+Elapsed time: 418.952 minutes, iter: 252 out of 1681
+Done with Bay: -15.25, LP: -15.25
+Elapsed time: 421.053 minutes, iter: 253 out of 1681
+Done with Bay: -15.00, LP: -15.25
+Elapsed time: 422.427 minutes, iter: 254 out of 1681
+Done with Bay: -14.75, LP: -15.25
+Elapsed time: 424.042 minutes, iter: 255 out of 1681
+Done with Bay: -14.50, LP: -15.25
+Elapsed time: 425.258 minutes, iter: 256 out of 1681
+Done with Bay: -14.25, LP: -15.25
+Elapsed time: 426.639 minutes, iter: 257 out of 1681
+Done with Bay: -14.00, LP: -15.25
+Elapsed time: 427.861 minutes, iter: 258 out of 1681
+Done with Bay: -13.75, LP: -15.25
+Elapsed time: 429.305 minutes, iter: 259 out of 1681
+Done with Bay: -13.50, LP: -15.25
+Elapsed time: 430.631 minutes, iter: 260 out of 1681
+Done with Bay: -13.25, LP: -15.25
+Elapsed time: 431.864 minutes, iter: 261 out of 1681
+Done with Bay: -13.00, LP: -15.25
+Elapsed time: 433.160 minutes, iter: 262 out of 1681
+Done with Bay: -12.75, LP: -15.25
+Elapsed time: 434.307 minutes, iter: 263 out of 1681
+Done with Bay: -12.50, LP: -15.25
+Elapsed time: 435.556 minutes, iter: 264 out of 1681
+Done with Bay: -12.25, LP: -15.25
+Elapsed time: 436.788 minutes, iter: 265 out of 1681
+Done with Bay: -12.00, LP: -15.25
+Elapsed time: 437.965 minutes, iter: 266 out of 1681
+Done with Bay: -11.75, LP: -15.25
+Elapsed time: 439.319 minutes, iter: 267 out of 1681
+Done with Bay: -11.50, LP: -15.25
+Elapsed time: 440.462 minutes, iter: 268 out of 1681
+Done with Bay: -11.25, LP: -15.25
+Elapsed time: 441.669 minutes, iter: 269 out of 1681
+Done with Bay: -11.00, LP: -15.25
+Elapsed time: 442.870 minutes, iter: 270 out of 1681
+Done with Bay: -10.75, LP: -15.25
+Elapsed time: 443.958 minutes, iter: 271 out of 1681
+Done with Bay: -10.50, LP: -15.25
+Elapsed time: 445.046 minutes, iter: 272 out of 1681
+Done with Bay: -10.25, LP: -15.25
+Elapsed time: 446.136 minutes, iter: 273 out of 1681
+Done with Bay: -10.00, LP: -15.25
+Elapsed time: 447.229 minutes, iter: 274 out of 1681
+Done with Bay:  -9.75, LP: -15.25
+Elapsed time: 448.327 minutes, iter: 275 out of 1681
+Done with Bay:  -9.50, LP: -15.25
+Elapsed time: 449.413 minutes, iter: 276 out of 1681
+Done with Bay:  -9.25, LP: -15.25
+Elapsed time: 450.505 minutes, iter: 277 out of 1681
+Done with Bay:  -9.00, LP: -15.25
+Elapsed time: 451.600 minutes, iter: 278 out of 1681
+Done with Bay:  -8.75, LP: -15.25
+Elapsed time: 452.682 minutes, iter: 279 out of 1681
+Done with Bay:  -8.50, LP: -15.25
+Elapsed time: 453.765 minutes, iter: 280 out of 1681
+Done with Bay:  -8.25, LP: -15.25
+Elapsed time: 454.852 minutes, iter: 281 out of 1681
+Done with Bay:  -8.00, LP: -15.25
+Elapsed time: 455.944 minutes, iter: 282 out of 1681
+Done with Bay:  -7.75, LP: -15.25
+Elapsed time: 457.040 minutes, iter: 283 out of 1681
+Done with Bay:  -7.50, LP: -15.25
+Elapsed time: 458.136 minutes, iter: 284 out of 1681
+Done with Bay:  -7.25, LP: -15.25
+Elapsed time: 459.231 minutes, iter: 285 out of 1681
+Done with Bay:  -7.00, LP: -15.25
+Elapsed time: 460.311 minutes, iter: 286 out of 1681
+Done with Bay:  -6.75, LP: -15.25
+Elapsed time: 461.414 minutes, iter: 287 out of 1681
+Done with Bay: -16.75, LP: -15.00
+Elapsed time: 462.630 minutes, iter: 288 out of 1681
+Done with Bay: -16.50, LP: -15.00
+Elapsed time: 466.706 minutes, iter: 289 out of 1681
+Done with Bay: -16.25, LP: -15.00
+Elapsed time: 467.917 minutes, iter: 290 out of 1681
+Done with Bay: -16.00, LP: -15.00
+Elapsed time: 469.129 minutes, iter: 291 out of 1681
+Done with Bay: -15.75, LP: -15.00
+Elapsed time: 470.336 minutes, iter: 292 out of 1681
+Done with Bay: -15.50, LP: -15.00
+Elapsed time: 471.536 minutes, iter: 293 out of 1681
+Done with Bay: -15.25, LP: -15.00
+Elapsed time: 473.795 minutes, iter: 294 out of 1681
+Done with Bay: -15.00, LP: -15.00
+Elapsed time: 475.187 minutes, iter: 295 out of 1681
+Done with Bay: -14.75, LP: -15.00
+Elapsed time: 477.677 minutes, iter: 296 out of 1681
+Done with Bay: -14.50, LP: -15.00
+Elapsed time: 478.892 minutes, iter: 297 out of 1681
+Done with Bay: -14.25, LP: -15.00
+Elapsed time: 480.280 minutes, iter: 298 out of 1681
+Done with Bay: -14.00, LP: -15.00
+Elapsed time: 481.485 minutes, iter: 299 out of 1681
+Done with Bay: -13.75, LP: -15.00
+Elapsed time: 483.016 minutes, iter: 300 out of 1681
+Done with Bay: -13.50, LP: -15.00
+Elapsed time: 484.350 minutes, iter: 301 out of 1681
+Done with Bay: -13.25, LP: -15.00
+Elapsed time: 485.590 minutes, iter: 302 out of 1681
+Done with Bay: -13.00, LP: -15.00
+Elapsed time: 486.883 minutes, iter: 303 out of 1681
+Done with Bay: -12.75, LP: -15.00
+Elapsed time: 488.021 minutes, iter: 304 out of 1681
+Done with Bay: -12.50, LP: -15.00
+Elapsed time: 489.259 minutes, iter: 305 out of 1681
+Done with Bay: -12.25, LP: -15.00
+Elapsed time: 490.374 minutes, iter: 306 out of 1681
+Done with Bay: -12.00, LP: -15.00
+Elapsed time: 491.561 minutes, iter: 307 out of 1681
+Done with Bay: -11.75, LP: -15.00
+Elapsed time: 492.722 minutes, iter: 308 out of 1681
+Done with Bay: -11.50, LP: -15.00
+Elapsed time: 493.872 minutes, iter: 309 out of 1681
+Done with Bay: -11.25, LP: -15.00
+Elapsed time: 494.952 minutes, iter: 310 out of 1681
+Done with Bay: -11.00, LP: -15.00
+Elapsed time: 496.056 minutes, iter: 311 out of 1681
+Done with Bay: -10.75, LP: -15.00
+Elapsed time: 497.143 minutes, iter: 312 out of 1681
+Done with Bay: -10.50, LP: -15.00
+Elapsed time: 498.268 minutes, iter: 313 out of 1681
+Done with Bay: -10.25, LP: -15.00
+Elapsed time: 499.362 minutes, iter: 314 out of 1681
+Done with Bay: -10.00, LP: -15.00
+Elapsed time: 500.467 minutes, iter: 315 out of 1681
+Done with Bay:  -9.75, LP: -15.00
+Elapsed time: 501.559 minutes, iter: 316 out of 1681
+Done with Bay:  -9.50, LP: -15.00
+Elapsed time: 502.652 minutes, iter: 317 out of 1681
+Done with Bay:  -9.25, LP: -15.00
+Elapsed time: 503.736 minutes, iter: 318 out of 1681
+Done with Bay:  -9.00, LP: -15.00
+Elapsed time: 504.826 minutes, iter: 319 out of 1681
+Done with Bay:  -8.75, LP: -15.00
+Elapsed time: 505.908 minutes, iter: 320 out of 1681
+Done with Bay:  -8.50, LP: -15.00
+Elapsed time: 507.000 minutes, iter: 321 out of 1681
+Done with Bay:  -8.25, LP: -15.00
+Elapsed time: 508.091 minutes, iter: 322 out of 1681
+Done with Bay:  -8.00, LP: -15.00
+Elapsed time: 509.178 minutes, iter: 323 out of 1681
+Done with Bay:  -7.75, LP: -15.00
+Elapsed time: 510.264 minutes, iter: 324 out of 1681
+Done with Bay:  -7.50, LP: -15.00
+Elapsed time: 511.355 minutes, iter: 325 out of 1681
+Done with Bay:  -7.25, LP: -15.00
+Elapsed time: 512.435 minutes, iter: 326 out of 1681
+Done with Bay:  -7.00, LP: -15.00
+Elapsed time: 513.530 minutes, iter: 327 out of 1681
+Done with Bay:  -6.75, LP: -15.00
+Elapsed time: 514.624 minutes, iter: 328 out of 1681
+Done with Bay: -16.75, LP: -14.75
+Elapsed time: 515.831 minutes, iter: 329 out of 1681
+Done with Bay: -16.50, LP: -14.75
+Elapsed time: 519.885 minutes, iter: 330 out of 1681
+Done with Bay: -16.25, LP: -14.75
+Elapsed time: 521.089 minutes, iter: 331 out of 1681
+Done with Bay: -16.00, LP: -14.75
+Elapsed time: 522.796 minutes, iter: 332 out of 1681
+Done with Bay: -15.75, LP: -14.75
+Elapsed time: 524.004 minutes, iter: 333 out of 1681
+Done with Bay: -15.50, LP: -14.75
+Elapsed time: 525.752 minutes, iter: 334 out of 1681
+Done with Bay: -15.25, LP: -14.75
+Elapsed time: 529.687 minutes, iter: 335 out of 1681
+Done with Bay: -15.00, LP: -14.75
+Elapsed time: 532.497 minutes, iter: 336 out of 1681
+Done with Bay: -14.75, LP: -14.75
+Elapsed time: 535.071 minutes, iter: 337 out of 1681
+Done with Bay: -14.50, LP: -14.75
+Elapsed time: 538.254 minutes, iter: 338 out of 1681
+Done with Bay: -14.25, LP: -14.75
+Elapsed time: 542.414 minutes, iter: 339 out of 1681
+Done with Bay: -14.00, LP: -14.75
+Elapsed time: 546.537 minutes, iter: 340 out of 1681
+Done with Bay: -13.75, LP: -14.75
+Elapsed time: 550.815 minutes, iter: 341 out of 1681
+Done with Bay: -13.50, LP: -14.75
+Elapsed time: 555.410 minutes, iter: 342 out of 1681
+Done with Bay: -13.25, LP: -14.75
+Elapsed time: 559.672 minutes, iter: 343 out of 1681
+Done with Bay: -13.00, LP: -14.75
+Elapsed time: 563.660 minutes, iter: 344 out of 1681
+Done with Bay: -12.75, LP: -14.75
+Elapsed time: 567.274 minutes, iter: 345 out of 1681
+Done with Bay: -12.50, LP: -14.75
+Elapsed time: 571.348 minutes, iter: 346 out of 1681
+Done with Bay: -12.25, LP: -14.75
+Elapsed time: 575.053 minutes, iter: 347 out of 1681
+Done with Bay: -12.00, LP: -14.75
+Elapsed time: 578.925 minutes, iter: 348 out of 1681
+Done with Bay: -11.75, LP: -14.75
+Elapsed time: 582.654 minutes, iter: 349 out of 1681
+Done with Bay: -11.50, LP: -14.75
+Elapsed time: 586.477 minutes, iter: 350 out of 1681
+Done with Bay: -11.25, LP: -14.75
+Elapsed time: 590.442 minutes, iter: 351 out of 1681
+Done with Bay: -11.00, LP: -14.75
+Elapsed time: 594.026 minutes, iter: 352 out of 1681
+Done with Bay: -10.75, LP: -14.75
+Elapsed time: 597.623 minutes, iter: 353 out of 1681
+Done with Bay: -10.50, LP: -14.75
+Elapsed time: 601.281 minutes, iter: 354 out of 1681
+Done with Bay: -10.25, LP: -14.75
+Elapsed time: 604.846 minutes, iter: 355 out of 1681
+Done with Bay: -10.00, LP: -14.75
+Elapsed time: 608.403 minutes, iter: 356 out of 1681
+Done with Bay:  -9.75, LP: -14.75
+Elapsed time: 611.959 minutes, iter: 357 out of 1681
+Done with Bay:  -9.50, LP: -14.75
+Elapsed time: 615.539 minutes, iter: 358 out of 1681
+Done with Bay:  -9.25, LP: -14.75
+Elapsed time: 619.166 minutes, iter: 359 out of 1681
+Done with Bay:  -9.00, LP: -14.75
+Elapsed time: 622.715 minutes, iter: 360 out of 1681
+Done with Bay:  -8.75, LP: -14.75
+Elapsed time: 626.302 minutes, iter: 361 out of 1681
+Done with Bay:  -8.50, LP: -14.75
+Elapsed time: 629.829 minutes, iter: 362 out of 1681
+Done with Bay:  -8.25, LP: -14.75
+Elapsed time: 633.387 minutes, iter: 363 out of 1681
+Done with Bay:  -8.00, LP: -14.75
+Elapsed time: 636.969 minutes, iter: 364 out of 1681
+Done with Bay:  -7.75, LP: -14.75
+Elapsed time: 640.540 minutes, iter: 365 out of 1681
+Done with Bay:  -7.50, LP: -14.75
+Elapsed time: 644.094 minutes, iter: 366 out of 1681
+Done with Bay:  -7.25, LP: -14.75
+Elapsed time: 647.644 minutes, iter: 367 out of 1681
+Done with Bay:  -7.00, LP: -14.75
+Elapsed time: 651.244 minutes, iter: 368 out of 1681
+Done with Bay:  -6.75, LP: -14.75
+Elapsed time: 654.827 minutes, iter: 369 out of 1681
+Done with Bay: -16.75, LP: -14.50
+Elapsed time: 656.044 minutes, iter: 370 out of 1681
+Done with Bay: -16.50, LP: -14.50
+Elapsed time: 660.043 minutes, iter: 371 out of 1681
+Done with Bay: -16.25, LP: -14.50
+Elapsed time: 661.250 minutes, iter: 372 out of 1681
+Done with Bay: -16.00, LP: -14.50
+Elapsed time: 662.460 minutes, iter: 373 out of 1681
+Done with Bay: -15.75, LP: -14.50
+Elapsed time: 663.669 minutes, iter: 374 out of 1681
+Done with Bay: -15.50, LP: -14.50
+Elapsed time: 664.870 minutes, iter: 375 out of 1681
+Done with Bay: -15.25, LP: -14.50
+Elapsed time: 667.954 minutes, iter: 376 out of 1681
+Done with Bay: -15.00, LP: -14.50
+Elapsed time: 669.333 minutes, iter: 377 out of 1681
+Done with Bay: -14.75, LP: -14.50
+Elapsed time: 672.510 minutes, iter: 378 out of 1681
+Done with Bay: -14.50, LP: -14.50
+Elapsed time: 673.713 minutes, iter: 379 out of 1681
+Done with Bay: -14.25, LP: -14.50
+Elapsed time: 675.098 minutes, iter: 380 out of 1681
+Done with Bay: -14.00, LP: -14.50
+Elapsed time: 676.313 minutes, iter: 381 out of 1681
+Done with Bay: -13.75, LP: -14.50
+Elapsed time: 678.078 minutes, iter: 382 out of 1681
+Done with Bay: -13.50, LP: -14.50
+Elapsed time: 679.402 minutes, iter: 383 out of 1681
+Done with Bay: -13.25, LP: -14.50
+Elapsed time: 680.634 minutes, iter: 384 out of 1681
+Done with Bay: -13.00, LP: -14.50
+Elapsed time: 681.874 minutes, iter: 385 out of 1681
+Done with Bay: -12.75, LP: -14.50
+Elapsed time: 683.253 minutes, iter: 386 out of 1681
+Done with Bay: -12.50, LP: -14.50
+Elapsed time: 684.519 minutes, iter: 387 out of 1681
+Done with Bay: -12.25, LP: -14.50
+Elapsed time: 685.646 minutes, iter: 388 out of 1681
+Done with Bay: -12.00, LP: -14.50
+Elapsed time: 686.995 minutes, iter: 389 out of 1681
+Done with Bay: -11.75, LP: -14.50
+Elapsed time: 688.162 minutes, iter: 390 out of 1681
+Done with Bay: -11.50, LP: -14.50
+Elapsed time: 689.357 minutes, iter: 391 out of 1681
+Done with Bay: -11.25, LP: -14.50
+Elapsed time: 690.507 minutes, iter: 392 out of 1681
+Done with Bay: -11.00, LP: -14.50
+Elapsed time: 691.631 minutes, iter: 393 out of 1681
+Done with Bay: -10.75, LP: -14.50
+Elapsed time: 692.746 minutes, iter: 394 out of 1681
+Done with Bay: -10.50, LP: -14.50
+Elapsed time: 693.837 minutes, iter: 395 out of 1681
+Done with Bay: -10.25, LP: -14.50
+Elapsed time: 694.928 minutes, iter: 396 out of 1681
+Done with Bay: -10.00, LP: -14.50
+Elapsed time: 696.011 minutes, iter: 397 out of 1681
+Done with Bay:  -9.75, LP: -14.50
+Elapsed time: 697.104 minutes, iter: 398 out of 1681
+Done with Bay:  -9.50, LP: -14.50
+Elapsed time: 698.195 minutes, iter: 399 out of 1681
+Done with Bay:  -9.25, LP: -14.50
+Elapsed time: 699.299 minutes, iter: 400 out of 1681
+Done with Bay:  -9.00, LP: -14.50
+Elapsed time: 700.391 minutes, iter: 401 out of 1681
+Done with Bay:  -8.75, LP: -14.50
+Elapsed time: 701.481 minutes, iter: 402 out of 1681
+Done with Bay:  -8.50, LP: -14.50
+Elapsed time: 702.579 minutes, iter: 403 out of 1681
+Done with Bay:  -8.25, LP: -14.50
+Elapsed time: 703.677 minutes, iter: 404 out of 1681
+Done with Bay:  -8.00, LP: -14.50
+Elapsed time: 704.771 minutes, iter: 405 out of 1681
+Done with Bay:  -7.75, LP: -14.50
+Elapsed time: 705.860 minutes, iter: 406 out of 1681
+Done with Bay:  -7.50, LP: -14.50
+Elapsed time: 706.954 minutes, iter: 407 out of 1681
+Done with Bay:  -7.25, LP: -14.50
+Elapsed time: 708.049 minutes, iter: 408 out of 1681
+Done with Bay:  -7.00, LP: -14.50
+Elapsed time: 709.142 minutes, iter: 409 out of 1681
+Done with Bay:  -6.75, LP: -14.50
+Elapsed time: 710.232 minutes, iter: 410 out of 1681
+Done with Bay: -16.75, LP: -14.25
+Elapsed time: 711.440 minutes, iter: 411 out of 1681
+Done with Bay: -16.50, LP: -14.25
+Elapsed time: 715.434 minutes, iter: 412 out of 1681
+Done with Bay: -16.25, LP: -14.25
+Elapsed time: 716.651 minutes, iter: 413 out of 1681
+Done with Bay: -16.00, LP: -14.25
+Elapsed time: 717.861 minutes, iter: 414 out of 1681
+Done with Bay: -15.75, LP: -14.25
+Elapsed time: 719.064 minutes, iter: 415 out of 1681
+Done with Bay: -15.50, LP: -14.25
+Elapsed time: 720.265 minutes, iter: 416 out of 1681
+Done with Bay: -15.25, LP: -14.25
+Elapsed time: 722.906 minutes, iter: 417 out of 1681
+Done with Bay: -15.00, LP: -14.25
+Elapsed time: 724.289 minutes, iter: 418 out of 1681
+Done with Bay: -14.75, LP: -14.25
+Elapsed time: 726.610 minutes, iter: 419 out of 1681
+Done with Bay: -14.50, LP: -14.25
+Elapsed time: 727.817 minutes, iter: 420 out of 1681
+Done with Bay: -14.25, LP: -14.25
+Elapsed time: 729.201 minutes, iter: 421 out of 1681
+Done with Bay: -14.00, LP: -14.25
+Elapsed time: 730.420 minutes, iter: 422 out of 1681
+Done with Bay: -13.75, LP: -14.25
+Elapsed time: 732.209 minutes, iter: 423 out of 1681
+Done with Bay: -13.50, LP: -14.25
+Elapsed time: 733.551 minutes, iter: 424 out of 1681
+Done with Bay: -13.25, LP: -14.25
+Elapsed time: 734.785 minutes, iter: 425 out of 1681
+Done with Bay: -13.00, LP: -14.25
+Elapsed time: 736.013 minutes, iter: 426 out of 1681
+Done with Bay: -12.75, LP: -14.25
+Elapsed time: 737.312 minutes, iter: 427 out of 1681
+Done with Bay: -12.50, LP: -14.25
+Elapsed time: 738.573 minutes, iter: 428 out of 1681
+Done with Bay: -12.25, LP: -14.25
+Elapsed time: 739.694 minutes, iter: 429 out of 1681
+Done with Bay: -12.00, LP: -14.25
+Elapsed time: 741.037 minutes, iter: 430 out of 1681
+Done with Bay: -11.75, LP: -14.25
+Elapsed time: 742.310 minutes, iter: 431 out of 1681
+Done with Bay: -11.50, LP: -14.25
+Elapsed time: 743.558 minutes, iter: 432 out of 1681
+Done with Bay: -11.25, LP: -14.25
+Elapsed time: 744.682 minutes, iter: 433 out of 1681
+Done with Bay: -11.00, LP: -14.25
+Elapsed time: 745.771 minutes, iter: 434 out of 1681
+Done with Bay: -10.75, LP: -14.25
+Elapsed time: 746.889 minutes, iter: 435 out of 1681
+Done with Bay: -10.50, LP: -14.25
+Elapsed time: 748.002 minutes, iter: 436 out of 1681
+Done with Bay: -10.25, LP: -14.25
+Elapsed time: 749.103 minutes, iter: 437 out of 1681
+Done with Bay: -10.00, LP: -14.25
+Elapsed time: 750.216 minutes, iter: 438 out of 1681
+Done with Bay:  -9.75, LP: -14.25
+Elapsed time: 751.299 minutes, iter: 439 out of 1681
+Done with Bay:  -9.50, LP: -14.25
+Elapsed time: 752.379 minutes, iter: 440 out of 1681
+Done with Bay:  -9.25, LP: -14.25
+Elapsed time: 753.468 minutes, iter: 441 out of 1681
+Done with Bay:  -9.00, LP: -14.25
+Elapsed time: 754.562 minutes, iter: 442 out of 1681
+Done with Bay:  -8.75, LP: -14.25
+Elapsed time: 755.662 minutes, iter: 443 out of 1681
+Done with Bay:  -8.50, LP: -14.25
+Elapsed time: 756.760 minutes, iter: 444 out of 1681
+Done with Bay:  -8.25, LP: -14.25
+Elapsed time: 757.859 minutes, iter: 445 out of 1681
+Done with Bay:  -8.00, LP: -14.25
+Elapsed time: 758.955 minutes, iter: 446 out of 1681
+Done with Bay:  -7.75, LP: -14.25
+Elapsed time: 760.049 minutes, iter: 447 out of 1681
+Done with Bay:  -7.50, LP: -14.25
+Elapsed time: 761.144 minutes, iter: 448 out of 1681
+Done with Bay:  -7.25, LP: -14.25
+Elapsed time: 762.243 minutes, iter: 449 out of 1681
+Done with Bay:  -7.00, LP: -14.25
+Elapsed time: 763.325 minutes, iter: 450 out of 1681
+Done with Bay:  -6.75, LP: -14.25
+Elapsed time: 764.420 minutes, iter: 451 out of 1681
+Done with Bay: -16.75, LP: -14.00
+Elapsed time: 765.635 minutes, iter: 452 out of 1681
+Done with Bay: -16.50, LP: -14.00
+Elapsed time: 769.588 minutes, iter: 453 out of 1681
+Done with Bay: -16.25, LP: -14.00
+Elapsed time: 770.792 minutes, iter: 454 out of 1681
+Done with Bay: -16.00, LP: -14.00
+Elapsed time: 772.020 minutes, iter: 455 out of 1681
+Done with Bay: -15.75, LP: -14.00
+Elapsed time: 773.227 minutes, iter: 456 out of 1681
+Done with Bay: -15.50, LP: -14.00
+Elapsed time: 774.468 minutes, iter: 457 out of 1681
+Done with Bay: -15.25, LP: -14.00
+Elapsed time: 777.083 minutes, iter: 458 out of 1681
+Done with Bay: -15.00, LP: -14.00
+Elapsed time: 778.484 minutes, iter: 459 out of 1681
+Done with Bay: -14.75, LP: -14.00
+Elapsed time: 781.294 minutes, iter: 460 out of 1681
+Done with Bay: -14.50, LP: -14.00
+Elapsed time: 782.516 minutes, iter: 461 out of 1681
+Done with Bay: -14.25, LP: -14.00
+Elapsed time: 783.898 minutes, iter: 462 out of 1681
+Done with Bay: -14.00, LP: -14.00
+Elapsed time: 785.130 minutes, iter: 463 out of 1681
+Done with Bay: -13.75, LP: -14.00
+Elapsed time: 786.923 minutes, iter: 464 out of 1681
+Done with Bay: -13.50, LP: -14.00
+Elapsed time: 788.248 minutes, iter: 465 out of 1681
+Done with Bay: -13.25, LP: -14.00
+Elapsed time: 789.487 minutes, iter: 466 out of 1681
+Done with Bay: -13.00, LP: -14.00
+Elapsed time: 790.719 minutes, iter: 467 out of 1681
+Done with Bay: -12.75, LP: -14.00
+Elapsed time: 791.942 minutes, iter: 468 out of 1681
+Done with Bay: -12.50, LP: -14.00
+Elapsed time: 793.133 minutes, iter: 469 out of 1681
+Done with Bay: -12.25, LP: -14.00
+Elapsed time: 794.260 minutes, iter: 470 out of 1681
+Done with Bay: -12.00, LP: -14.00
+Elapsed time: 795.468 minutes, iter: 471 out of 1681
+Done with Bay: -11.75, LP: -14.00
+Elapsed time: 796.672 minutes, iter: 472 out of 1681
+Done with Bay: -11.50, LP: -14.00
+Elapsed time: 797.919 minutes, iter: 473 out of 1681
+Done with Bay: -11.25, LP: -14.00
+Elapsed time: 799.053 minutes, iter: 474 out of 1681
+Done with Bay: -11.00, LP: -14.00
+Elapsed time: 800.241 minutes, iter: 475 out of 1681
+Done with Bay: -10.75, LP: -14.00
+Elapsed time: 801.368 minutes, iter: 476 out of 1681
+Done with Bay: -10.50, LP: -14.00
+Elapsed time: 802.482 minutes, iter: 477 out of 1681
+Done with Bay: -10.25, LP: -14.00
+Elapsed time: 803.559 minutes, iter: 478 out of 1681
+Done with Bay: -10.00, LP: -14.00
+Elapsed time: 804.639 minutes, iter: 479 out of 1681
+Done with Bay:  -9.75, LP: -14.00
+Elapsed time: 805.716 minutes, iter: 480 out of 1681
+Done with Bay:  -9.50, LP: -14.00
+Elapsed time: 806.795 minutes, iter: 481 out of 1681
+Done with Bay:  -9.25, LP: -14.00
+Elapsed time: 807.870 minutes, iter: 482 out of 1681
+Done with Bay:  -9.00, LP: -14.00
+Elapsed time: 808.945 minutes, iter: 483 out of 1681
+Done with Bay:  -8.75, LP: -14.00
+Elapsed time: 810.017 minutes, iter: 484 out of 1681
+Done with Bay:  -8.50, LP: -14.00
+Elapsed time: 811.089 minutes, iter: 485 out of 1681
+Done with Bay:  -8.25, LP: -14.00
+Elapsed time: 812.165 minutes, iter: 486 out of 1681
+Done with Bay:  -8.00, LP: -14.00
+Elapsed time: 813.247 minutes, iter: 487 out of 1681
+Done with Bay:  -7.75, LP: -14.00
+Elapsed time: 814.324 minutes, iter: 488 out of 1681
+Done with Bay:  -7.50, LP: -14.00
+Elapsed time: 815.409 minutes, iter: 489 out of 1681
+Done with Bay:  -7.25, LP: -14.00
+Elapsed time: 816.485 minutes, iter: 490 out of 1681
+Done with Bay:  -7.00, LP: -14.00
+Elapsed time: 817.564 minutes, iter: 491 out of 1681
+Done with Bay:  -6.75, LP: -14.00
+Elapsed time: 818.637 minutes, iter: 492 out of 1681
+Done with Bay: -16.75, LP: -13.75
+Elapsed time: 819.832 minutes, iter: 493 out of 1681
+Done with Bay: -16.50, LP: -13.75
+Elapsed time: 823.719 minutes, iter: 494 out of 1681
+Done with Bay: -16.25, LP: -13.75
+Elapsed time: 824.911 minutes, iter: 495 out of 1681
+Done with Bay: -16.00, LP: -13.75
+Elapsed time: 826.100 minutes, iter: 496 out of 1681
+Done with Bay: -15.75, LP: -13.75
+Elapsed time: 827.294 minutes, iter: 497 out of 1681
+Done with Bay: -15.50, LP: -13.75
+Elapsed time: 828.514 minutes, iter: 498 out of 1681
+Done with Bay: -15.25, LP: -13.75
+Elapsed time: 831.564 minutes, iter: 499 out of 1681
+Done with Bay: -15.00, LP: -13.75
+Elapsed time: 832.934 minutes, iter: 500 out of 1681
+Done with Bay: -14.75, LP: -13.75
+Elapsed time: 835.755 minutes, iter: 501 out of 1681
+Done with Bay: -14.50, LP: -13.75
+Elapsed time: 836.947 minutes, iter: 502 out of 1681
+Done with Bay: -14.25, LP: -13.75
+Elapsed time: 838.309 minutes, iter: 503 out of 1681
+Done with Bay: -14.00, LP: -13.75
+Elapsed time: 839.500 minutes, iter: 504 out of 1681
+Done with Bay: -13.75, LP: -13.75
+Elapsed time: 842.284 minutes, iter: 505 out of 1681
+Done with Bay: -13.50, LP: -13.75
+Elapsed time: 843.595 minutes, iter: 506 out of 1681
+Done with Bay: -13.25, LP: -13.75
+Elapsed time: 844.964 minutes, iter: 507 out of 1681
+Done with Bay: -13.00, LP: -13.75
+Elapsed time: 846.190 minutes, iter: 508 out of 1681
+Done with Bay: -12.75, LP: -13.75
+Elapsed time: 847.401 minutes, iter: 509 out of 1681
+Done with Bay: -12.50, LP: -13.75
+Elapsed time: 848.724 minutes, iter: 510 out of 1681
+Done with Bay: -12.25, LP: -13.75
+Elapsed time: 849.863 minutes, iter: 511 out of 1681
+Done with Bay: -12.00, LP: -13.75
+Elapsed time: 851.126 minutes, iter: 512 out of 1681
+Done with Bay: -11.75, LP: -13.75
+Elapsed time: 852.229 minutes, iter: 513 out of 1681
+Done with Bay: -11.50, LP: -13.75
+Elapsed time: 853.368 minutes, iter: 514 out of 1681
+Done with Bay: -11.25, LP: -13.75
+Elapsed time: 854.501 minutes, iter: 515 out of 1681
+Done with Bay: -11.00, LP: -13.75
+Elapsed time: 855.691 minutes, iter: 516 out of 1681
+Done with Bay: -10.75, LP: -13.75
+Elapsed time: 856.800 minutes, iter: 517 out of 1681
+Done with Bay: -10.50, LP: -13.75
+Elapsed time: 857.875 minutes, iter: 518 out of 1681
+Done with Bay: -10.25, LP: -13.75
+Elapsed time: 858.953 minutes, iter: 519 out of 1681
+Done with Bay: -10.00, LP: -13.75
+Elapsed time: 860.027 minutes, iter: 520 out of 1681
+Done with Bay:  -9.75, LP: -13.75
+Elapsed time: 861.105 minutes, iter: 521 out of 1681
+Done with Bay:  -9.50, LP: -13.75
+Elapsed time: 862.182 minutes, iter: 522 out of 1681
+Done with Bay:  -9.25, LP: -13.75
+Elapsed time: 863.257 minutes, iter: 523 out of 1681
+Done with Bay:  -9.00, LP: -13.75
+Elapsed time: 864.341 minutes, iter: 524 out of 1681
+Done with Bay:  -8.75, LP: -13.75
+Elapsed time: 865.429 minutes, iter: 525 out of 1681
+Done with Bay:  -8.50, LP: -13.75
+Elapsed time: 866.504 minutes, iter: 526 out of 1681
+Done with Bay:  -8.25, LP: -13.75
+Elapsed time: 867.585 minutes, iter: 527 out of 1681
+Done with Bay:  -8.00, LP: -13.75
+Elapsed time: 868.659 minutes, iter: 528 out of 1681
+Done with Bay:  -7.75, LP: -13.75
+Elapsed time: 869.734 minutes, iter: 529 out of 1681
+Done with Bay:  -7.50, LP: -13.75
+Elapsed time: 870.810 minutes, iter: 530 out of 1681
+Done with Bay:  -7.25, LP: -13.75
+Elapsed time: 871.889 minutes, iter: 531 out of 1681
+Done with Bay:  -7.00, LP: -13.75
+Elapsed time: 872.962 minutes, iter: 532 out of 1681
+Done with Bay:  -6.75, LP: -13.75
+Elapsed time: 874.040 minutes, iter: 533 out of 1681
+Done with Bay: -16.75, LP: -13.50
+Elapsed time: 875.231 minutes, iter: 534 out of 1681
+Done with Bay: -16.50, LP: -13.50
+Elapsed time: 879.099 minutes, iter: 535 out of 1681
+Done with Bay: -16.25, LP: -13.50
+Elapsed time: 880.290 minutes, iter: 536 out of 1681
+Done with Bay: -16.00, LP: -13.50
+Elapsed time: 881.497 minutes, iter: 537 out of 1681
+Done with Bay: -15.75, LP: -13.50
+Elapsed time: 882.689 minutes, iter: 538 out of 1681
+Done with Bay: -15.50, LP: -13.50
+Elapsed time: 883.912 minutes, iter: 539 out of 1681
+Done with Bay: -15.25, LP: -13.50
+Elapsed time: 886.924 minutes, iter: 540 out of 1681
+Done with Bay: -15.00, LP: -13.50
+Elapsed time: 888.288 minutes, iter: 541 out of 1681
+Done with Bay: -14.75, LP: -13.50
+Elapsed time: 892.697 minutes, iter: 542 out of 1681
+Done with Bay: -14.50, LP: -13.50
+Elapsed time: 893.900 minutes, iter: 543 out of 1681
+Done with Bay: -14.25, LP: -13.50
+Elapsed time: 895.265 minutes, iter: 544 out of 1681
+Done with Bay: -14.00, LP: -13.50
+Elapsed time: 896.461 minutes, iter: 545 out of 1681
+Done with Bay: -13.75, LP: -13.50
+Elapsed time: 898.467 minutes, iter: 546 out of 1681
+Done with Bay: -13.50, LP: -13.50
+Elapsed time: 899.685 minutes, iter: 547 out of 1681
+Done with Bay: -13.25, LP: -13.50
+Elapsed time: 901.062 minutes, iter: 548 out of 1681
+Done with Bay: -13.00, LP: -13.50
+Elapsed time: 902.283 minutes, iter: 549 out of 1681
+Done with Bay: -12.75, LP: -13.50
+Elapsed time: 904.028 minutes, iter: 550 out of 1681
+Done with Bay: -12.50, LP: -13.50
+Elapsed time: 905.342 minutes, iter: 551 out of 1681
+Done with Bay: -12.25, LP: -13.50
+Elapsed time: 906.574 minutes, iter: 552 out of 1681
+Done with Bay: -12.00, LP: -13.50
+Elapsed time: 908.080 minutes, iter: 553 out of 1681
+Done with Bay: -11.75, LP: -13.50
+Elapsed time: 909.241 minutes, iter: 554 out of 1681
+Done with Bay: -11.50, LP: -13.50
+Elapsed time: 910.405 minutes, iter: 555 out of 1681
+Done with Bay: -11.25, LP: -13.50
+Elapsed time: 911.594 minutes, iter: 556 out of 1681
+Done with Bay: -11.00, LP: -13.50
+Elapsed time: 912.765 minutes, iter: 557 out of 1681
+Done with Bay: -10.75, LP: -13.50
+Elapsed time: 913.840 minutes, iter: 558 out of 1681
+Done with Bay: -10.50, LP: -13.50
+Elapsed time: 914.929 minutes, iter: 559 out of 1681
+Done with Bay: -10.25, LP: -13.50
+Elapsed time: 916.008 minutes, iter: 560 out of 1681
+Done with Bay: -10.00, LP: -13.50
+Elapsed time: 917.083 minutes, iter: 561 out of 1681
+Done with Bay:  -9.75, LP: -13.50
+Elapsed time: 918.165 minutes, iter: 562 out of 1681
+Done with Bay:  -9.50, LP: -13.50
+Elapsed time: 919.239 minutes, iter: 563 out of 1681
+Done with Bay:  -9.25, LP: -13.50
+Elapsed time: 920.314 minutes, iter: 564 out of 1681
+Done with Bay:  -9.00, LP: -13.50
+Elapsed time: 921.392 minutes, iter: 565 out of 1681
+Done with Bay:  -8.75, LP: -13.50
+Elapsed time: 922.469 minutes, iter: 566 out of 1681
+Done with Bay:  -8.50, LP: -13.50
+Elapsed time: 923.543 minutes, iter: 567 out of 1681
+Done with Bay:  -8.25, LP: -13.50
+Elapsed time: 924.627 minutes, iter: 568 out of 1681
+Done with Bay:  -8.00, LP: -13.50
+Elapsed time: 925.733 minutes, iter: 569 out of 1681
+Done with Bay:  -7.75, LP: -13.50
+Elapsed time: 926.827 minutes, iter: 570 out of 1681
+Done with Bay:  -7.50, LP: -13.50
+Elapsed time: 927.921 minutes, iter: 571 out of 1681
+Done with Bay:  -7.25, LP: -13.50
+Elapsed time: 929.008 minutes, iter: 572 out of 1681
+Done with Bay:  -7.00, LP: -13.50
+Elapsed time: 930.102 minutes, iter: 573 out of 1681
+Done with Bay:  -6.75, LP: -13.50
+Elapsed time: 931.196 minutes, iter: 574 out of 1681
+Done with Bay: -16.75, LP: -13.25
+Elapsed time: 932.394 minutes, iter: 575 out of 1681
+Done with Bay: -16.50, LP: -13.25
+Elapsed time: 936.318 minutes, iter: 576 out of 1681
+Done with Bay: -16.25, LP: -13.25
+Elapsed time: 937.510 minutes, iter: 577 out of 1681
+Done with Bay: -16.00, LP: -13.25
+Elapsed time: 939.622 minutes, iter: 578 out of 1681
+Done with Bay: -15.75, LP: -13.25
+Elapsed time: 942.623 minutes, iter: 579 out of 1681
+Done with Bay: -15.50, LP: -13.25
+Elapsed time: 943.851 minutes, iter: 580 out of 1681
+Done with Bay: -15.25, LP: -13.25
+Elapsed time: 947.458 minutes, iter: 581 out of 1681
+Done with Bay: -15.00, LP: -13.25
+Elapsed time: 948.835 minutes, iter: 582 out of 1681
+Done with Bay: -14.75, LP: -13.25
+Elapsed time: 953.219 minutes, iter: 583 out of 1681
+Done with Bay: -14.50, LP: -13.25
+Elapsed time: 954.709 minutes, iter: 584 out of 1681
+Done with Bay: -14.25, LP: -13.25
+Elapsed time: 956.089 minutes, iter: 585 out of 1681
+Done with Bay: -14.00, LP: -13.25
+Elapsed time: 958.042 minutes, iter: 586 out of 1681
+Done with Bay: -13.75, LP: -13.25
+Elapsed time: 960.949 minutes, iter: 587 out of 1681
+Done with Bay: -13.50, LP: -13.25
+Elapsed time: 964.929 minutes, iter: 588 out of 1681
+Done with Bay: -13.25, LP: -13.25
+Elapsed time: 968.922 minutes, iter: 589 out of 1681
+Done with Bay: -13.00, LP: -13.25
+Elapsed time: 971.928 minutes, iter: 590 out of 1681
+Done with Bay: -12.75, LP: -13.25
+Elapsed time: 974.334 minutes, iter: 591 out of 1681
+Done with Bay: -12.50, LP: -13.25
+Elapsed time: 977.551 minutes, iter: 592 out of 1681
+Done with Bay: -12.25, LP: -13.25
+Elapsed time: 981.072 minutes, iter: 593 out of 1681
+Done with Bay: -12.00, LP: -13.25
+Elapsed time: 984.767 minutes, iter: 594 out of 1681
+Done with Bay: -11.75, LP: -13.25
+Elapsed time: 988.378 minutes, iter: 595 out of 1681
+Done with Bay: -11.50, LP: -13.25
+Elapsed time: 991.843 minutes, iter: 596 out of 1681
+Done with Bay: -11.25, LP: -13.25
+Elapsed time: 995.316 minutes, iter: 597 out of 1681
+Done with Bay: -11.00, LP: -13.25
+Elapsed time: 998.937 minutes, iter: 598 out of 1681
+Done with Bay: -10.75, LP: -13.25
+Elapsed time: 1002.333 minutes, iter: 599 out of 1681
+Done with Bay: -10.50, LP: -13.25
+Elapsed time: 1005.505 minutes, iter: 600 out of 1681
+Done with Bay: -10.25, LP: -13.25
+Elapsed time: 1008.754 minutes, iter: 601 out of 1681
+Done with Bay: -10.00, LP: -13.25
+Elapsed time: 1012.189 minutes, iter: 602 out of 1681
+Done with Bay:  -9.75, LP: -13.25
+Elapsed time: 1015.711 minutes, iter: 603 out of 1681
+Done with Bay:  -9.50, LP: -13.25
+Elapsed time: 1019.056 minutes, iter: 604 out of 1681
+Done with Bay:  -9.25, LP: -13.25
+Elapsed time: 1022.512 minutes, iter: 605 out of 1681
+Done with Bay:  -9.00, LP: -13.25
+Elapsed time: 1026.041 minutes, iter: 606 out of 1681
+Done with Bay:  -8.75, LP: -13.25
+Elapsed time: 1029.404 minutes, iter: 607 out of 1681
+Done with Bay:  -8.50, LP: -13.25
+Elapsed time: 1032.917 minutes, iter: 608 out of 1681
+Done with Bay:  -8.25, LP: -13.25
+Elapsed time: 1036.159 minutes, iter: 609 out of 1681
+Done with Bay:  -8.00, LP: -13.25
+Elapsed time: 1039.585 minutes, iter: 610 out of 1681
+Done with Bay:  -7.75, LP: -13.25
+Elapsed time: 1042.933 minutes, iter: 611 out of 1681
+Done with Bay:  -7.50, LP: -13.25
+Elapsed time: 1046.313 minutes, iter: 612 out of 1681
+Done with Bay:  -7.25, LP: -13.25
+Elapsed time: 1049.676 minutes, iter: 613 out of 1681
+Done with Bay:  -7.00, LP: -13.25
+Elapsed time: 1053.035 minutes, iter: 614 out of 1681
+Done with Bay:  -6.75, LP: -13.25
+Elapsed time: 1056.376 minutes, iter: 615 out of 1681
+Done with Bay: -16.75, LP: -13.00
+Elapsed time: 1057.580 minutes, iter: 616 out of 1681
+Done with Bay: -16.50, LP: -13.00
+Elapsed time: 1061.472 minutes, iter: 617 out of 1681
+Done with Bay: -16.25, LP: -13.00
+Elapsed time: 1062.671 minutes, iter: 618 out of 1681
+Done with Bay: -16.00, LP: -13.00
+Elapsed time: 1063.919 minutes, iter: 619 out of 1681
+Done with Bay: -15.75, LP: -13.00
+Elapsed time: 1065.141 minutes, iter: 620 out of 1681
+Done with Bay: -15.50, LP: -13.00
+Elapsed time: 1066.516 minutes, iter: 621 out of 1681
+Done with Bay: -15.25, LP: -13.00
+Elapsed time: 1069.456 minutes, iter: 622 out of 1681
+Done with Bay: -15.00, LP: -13.00
+Elapsed time: 1070.829 minutes, iter: 623 out of 1681
+Done with Bay: -14.75, LP: -13.00
+Elapsed time: 1073.550 minutes, iter: 624 out of 1681
+Done with Bay: -14.50, LP: -13.00
+Elapsed time: 1074.835 minutes, iter: 625 out of 1681
+Done with Bay: -14.25, LP: -13.00
+Elapsed time: 1075.919 minutes, iter: 626 out of 1681
+Done with Bay: -14.00, LP: -13.00
+Elapsed time: 1077.148 minutes, iter: 627 out of 1681
+Done with Bay: -13.75, LP: -13.00
+Elapsed time: 1080.551 minutes, iter: 628 out of 1681
+Done with Bay: -13.50, LP: -13.00
+Elapsed time: 1081.936 minutes, iter: 629 out of 1681
+Done with Bay: -13.25, LP: -13.00
+Elapsed time: 1083.321 minutes, iter: 630 out of 1681
+Done with Bay: -13.00, LP: -13.00
+Elapsed time: 1084.638 minutes, iter: 631 out of 1681
+Done with Bay: -12.75, LP: -13.00
+Elapsed time: 1086.743 minutes, iter: 632 out of 1681
+Done with Bay: -12.50, LP: -13.00
+Elapsed time: 1087.832 minutes, iter: 633 out of 1681
+Done with Bay: -12.25, LP: -13.00
+Elapsed time: 1089.146 minutes, iter: 634 out of 1681
+Done with Bay: -12.00, LP: -13.00
+Elapsed time: 1090.588 minutes, iter: 635 out of 1681
+Done with Bay: -11.75, LP: -13.00
+Elapsed time: 1091.946 minutes, iter: 636 out of 1681
+Done with Bay: -11.50, LP: -13.00
+Elapsed time: 1093.172 minutes, iter: 637 out of 1681
+Done with Bay: -11.25, LP: -13.00
+Elapsed time: 1094.325 minutes, iter: 638 out of 1681
+Done with Bay: -11.00, LP: -13.00
+Elapsed time: 1095.446 minutes, iter: 639 out of 1681
+Done with Bay: -10.75, LP: -13.00
+Elapsed time: 1096.632 minutes, iter: 640 out of 1681
+Done with Bay: -10.50, LP: -13.00
+Elapsed time: 1097.716 minutes, iter: 641 out of 1681
+Done with Bay: -10.25, LP: -13.00
+Elapsed time: 1098.817 minutes, iter: 642 out of 1681
+Done with Bay: -10.00, LP: -13.00
+Elapsed time: 1099.893 minutes, iter: 643 out of 1681
+Done with Bay:  -9.75, LP: -13.00
+Elapsed time: 1100.971 minutes, iter: 644 out of 1681
+Done with Bay:  -9.50, LP: -13.00
+Elapsed time: 1102.047 minutes, iter: 645 out of 1681
+Done with Bay:  -9.25, LP: -13.00
+Elapsed time: 1103.122 minutes, iter: 646 out of 1681
+Done with Bay:  -9.00, LP: -13.00
+Elapsed time: 1104.197 minutes, iter: 647 out of 1681
+Done with Bay:  -8.75, LP: -13.00
+Elapsed time: 1105.277 minutes, iter: 648 out of 1681
+Done with Bay:  -8.50, LP: -13.00
+Elapsed time: 1106.353 minutes, iter: 649 out of 1681
+Done with Bay:  -8.25, LP: -13.00
+Elapsed time: 1107.428 minutes, iter: 650 out of 1681
+Done with Bay:  -8.00, LP: -13.00
+Elapsed time: 1108.508 minutes, iter: 651 out of 1681
+Done with Bay:  -7.75, LP: -13.00
+Elapsed time: 1109.587 minutes, iter: 652 out of 1681
+Done with Bay:  -7.50, LP: -13.00
+Elapsed time: 1110.665 minutes, iter: 653 out of 1681
+Done with Bay:  -7.25, LP: -13.00
+Elapsed time: 1111.741 minutes, iter: 654 out of 1681
+Done with Bay:  -7.00, LP: -13.00
+Elapsed time: 1112.828 minutes, iter: 655 out of 1681
+Done with Bay:  -6.75, LP: -13.00
+Elapsed time: 1113.903 minutes, iter: 656 out of 1681
+Done with Bay: -16.75, LP: -12.75
+Elapsed time: 1115.125 minutes, iter: 657 out of 1681
+Done with Bay: -16.50, LP: -12.75
+Elapsed time: 1119.117 minutes, iter: 658 out of 1681
+Done with Bay: -16.25, LP: -12.75
+Elapsed time: 1120.342 minutes, iter: 659 out of 1681
+Done with Bay: -16.00, LP: -12.75
+Elapsed time: 1121.564 minutes, iter: 660 out of 1681
+Done with Bay: -15.75, LP: -12.75
+Elapsed time: 1122.930 minutes, iter: 661 out of 1681
+Done with Bay: -15.50, LP: -12.75
+Elapsed time: 1124.292 minutes, iter: 662 out of 1681
+Done with Bay: -15.25, LP: -12.75
+Elapsed time: 1127.165 minutes, iter: 663 out of 1681
+Done with Bay: -15.00, LP: -12.75
+Elapsed time: 1128.444 minutes, iter: 664 out of 1681
+Done with Bay: -14.75, LP: -12.75
+Elapsed time: 1132.994 minutes, iter: 665 out of 1681
+Done with Bay: -14.50, LP: -12.75
+Elapsed time: 1134.276 minutes, iter: 666 out of 1681
+Done with Bay: -14.25, LP: -12.75
+Elapsed time: 1135.384 minutes, iter: 667 out of 1681
+Done with Bay: -14.00, LP: -12.75
+Elapsed time: 1136.757 minutes, iter: 668 out of 1681
+Done with Bay: -13.75, LP: -12.75
+Elapsed time: 1138.947 minutes, iter: 669 out of 1681
+Done with Bay: -13.50, LP: -12.75
+Elapsed time: 1140.321 minutes, iter: 670 out of 1681
+Done with Bay: -13.25, LP: -12.75
+Elapsed time: 1141.603 minutes, iter: 671 out of 1681
+Done with Bay: -13.00, LP: -12.75
+Elapsed time: 1142.912 minutes, iter: 672 out of 1681
+Done with Bay: -12.75, LP: -12.75
+Elapsed time: 1145.418 minutes, iter: 673 out of 1681
+Done with Bay: -12.50, LP: -12.75
+Elapsed time: 1146.566 minutes, iter: 674 out of 1681
+Done with Bay: -12.25, LP: -12.75
+Elapsed time: 1147.667 minutes, iter: 675 out of 1681
+Done with Bay: -12.00, LP: -12.75
+Elapsed time: 1148.980 minutes, iter: 676 out of 1681
+Done with Bay: -11.75, LP: -12.75
+Elapsed time: 1150.230 minutes, iter: 677 out of 1681
+Done with Bay: -11.50, LP: -12.75
+Elapsed time: 1151.335 minutes, iter: 678 out of 1681
+Done with Bay: -11.25, LP: -12.75
+Elapsed time: 1152.410 minutes, iter: 679 out of 1681
+Done with Bay: -11.00, LP: -12.75
+Elapsed time: 1153.491 minutes, iter: 680 out of 1681
+Done with Bay: -10.75, LP: -12.75
+Elapsed time: 1154.566 minutes, iter: 681 out of 1681
+Done with Bay: -10.50, LP: -12.75
+Elapsed time: 1155.643 minutes, iter: 682 out of 1681
+Done with Bay: -10.25, LP: -12.75
+Elapsed time: 1156.722 minutes, iter: 683 out of 1681
+Done with Bay: -10.00, LP: -12.75
+Elapsed time: 1157.830 minutes, iter: 684 out of 1681
+Done with Bay:  -9.75, LP: -12.75
+Elapsed time: 1158.907 minutes, iter: 685 out of 1681
+Done with Bay:  -9.50, LP: -12.75
+Elapsed time: 1159.981 minutes, iter: 686 out of 1681
+Done with Bay:  -9.25, LP: -12.75
+Elapsed time: 1161.058 minutes, iter: 687 out of 1681
+Done with Bay:  -9.00, LP: -12.75
+Elapsed time: 1162.140 minutes, iter: 688 out of 1681
+Done with Bay:  -8.75, LP: -12.75
+Elapsed time: 1163.227 minutes, iter: 689 out of 1681
+Done with Bay:  -8.50, LP: -12.75
+Elapsed time: 1164.311 minutes, iter: 690 out of 1681
+Done with Bay:  -8.25, LP: -12.75
+Elapsed time: 1165.387 minutes, iter: 691 out of 1681
+Done with Bay:  -8.00, LP: -12.75
+Elapsed time: 1166.466 minutes, iter: 692 out of 1681
+Done with Bay:  -7.75, LP: -12.75
+Elapsed time: 1167.545 minutes, iter: 693 out of 1681
+Done with Bay:  -7.50, LP: -12.75
+Elapsed time: 1168.625 minutes, iter: 694 out of 1681
+Done with Bay:  -7.25, LP: -12.75
+Elapsed time: 1169.699 minutes, iter: 695 out of 1681
+Done with Bay:  -7.00, LP: -12.75
+Elapsed time: 1170.775 minutes, iter: 696 out of 1681
+Done with Bay:  -6.75, LP: -12.75
+Elapsed time: 1171.852 minutes, iter: 697 out of 1681
+Done with Bay: -16.75, LP: -12.50
+Elapsed time: 1173.222 minutes, iter: 698 out of 1681
+Done with Bay: -16.50, LP: -12.50
+Elapsed time: 1177.690 minutes, iter: 699 out of 1681
+Done with Bay: -16.25, LP: -12.50
+Elapsed time: 1179.065 minutes, iter: 700 out of 1681
+Done with Bay: -16.00, LP: -12.50
+Elapsed time: 1180.435 minutes, iter: 701 out of 1681
+Done with Bay: -15.75, LP: -12.50
+Elapsed time: 1181.800 minutes, iter: 702 out of 1681
+Done with Bay: -15.50, LP: -12.50
+Elapsed time: 1183.174 minutes, iter: 703 out of 1681
+Done with Bay: -15.25, LP: -12.50
+Elapsed time: 1186.110 minutes, iter: 704 out of 1681
+Done with Bay: -15.00, LP: -12.50
+Elapsed time: 1187.395 minutes, iter: 705 out of 1681
+Done with Bay: -14.75, LP: -12.50
+Elapsed time: 1191.337 minutes, iter: 706 out of 1681
+Done with Bay: -14.50, LP: -12.50
+Elapsed time: 1192.614 minutes, iter: 707 out of 1681
+Done with Bay: -14.25, LP: -12.50
+Elapsed time: 1193.747 minutes, iter: 708 out of 1681
+Done with Bay: -14.00, LP: -12.50
+Elapsed time: 1195.127 minutes, iter: 709 out of 1681
+Done with Bay: -13.75, LP: -12.50
+Elapsed time: 1197.407 minutes, iter: 710 out of 1681
+Done with Bay: -13.50, LP: -12.50
+Elapsed time: 1200.224 minutes, iter: 711 out of 1681
+Done with Bay: -13.25, LP: -12.50
+Elapsed time: 1202.477 minutes, iter: 712 out of 1681
+Done with Bay: -13.00, LP: -12.50
+Elapsed time: 1204.321 minutes, iter: 713 out of 1681
+Done with Bay: -12.75, LP: -12.50
+Elapsed time: 1207.821 minutes, iter: 714 out of 1681
+Done with Bay: -12.50, LP: -12.50
+Elapsed time: 1210.623 minutes, iter: 715 out of 1681
+Done with Bay: -12.25, LP: -12.50
+Elapsed time: 1213.580 minutes, iter: 716 out of 1681
+Done with Bay: -12.00, LP: -12.50
+Elapsed time: 1216.553 minutes, iter: 717 out of 1681
+Done with Bay: -11.75, LP: -12.50
+Elapsed time: 1219.183 minutes, iter: 718 out of 1681
+Done with Bay: -11.50, LP: -12.50
+Elapsed time: 1222.028 minutes, iter: 719 out of 1681
+Done with Bay: -11.25, LP: -12.50
+Elapsed time: 1224.523 minutes, iter: 720 out of 1681
+Done with Bay: -11.00, LP: -12.50
+Elapsed time: 1227.515 minutes, iter: 721 out of 1681
+Done with Bay: -10.75, LP: -12.50
+Elapsed time: 1230.285 minutes, iter: 722 out of 1681
+Done with Bay: -10.50, LP: -12.50
+Elapsed time: 1232.994 minutes, iter: 723 out of 1681
+Done with Bay: -10.25, LP: -12.50
+Elapsed time: 1235.573 minutes, iter: 724 out of 1681
+Done with Bay: -10.00, LP: -12.50
+Elapsed time: 1237.918 minutes, iter: 725 out of 1681
+Done with Bay:  -9.75, LP: -12.50
+Elapsed time: 1240.762 minutes, iter: 726 out of 1681
+Done with Bay:  -9.50, LP: -12.50
+Elapsed time: 1243.086 minutes, iter: 727 out of 1681
+Done with Bay:  -9.25, LP: -12.50
+Elapsed time: 1245.558 minutes, iter: 728 out of 1681
+Done with Bay:  -9.00, LP: -12.50
+Elapsed time: 1248.089 minutes, iter: 729 out of 1681
+Done with Bay:  -8.75, LP: -12.50
+Elapsed time: 1250.695 minutes, iter: 730 out of 1681
+Done with Bay:  -8.50, LP: -12.50
+Elapsed time: 1253.492 minutes, iter: 731 out of 1681
+Done with Bay:  -8.25, LP: -12.50
+Elapsed time: 1255.867 minutes, iter: 732 out of 1681
+Done with Bay:  -8.00, LP: -12.50
+Elapsed time: 1258.673 minutes, iter: 733 out of 1681
+Done with Bay:  -7.75, LP: -12.50
+Elapsed time: 1261.485 minutes, iter: 734 out of 1681
+Done with Bay:  -7.50, LP: -12.50
+Elapsed time: 1264.385 minutes, iter: 735 out of 1681
+Done with Bay:  -7.25, LP: -12.50
+Elapsed time: 1266.921 minutes, iter: 736 out of 1681
+Done with Bay:  -7.00, LP: -12.50
+Elapsed time: 1269.446 minutes, iter: 737 out of 1681
+Done with Bay:  -6.75, LP: -12.50
+Elapsed time: 1272.260 minutes, iter: 738 out of 1681
+Done with Bay: -16.75, LP: -12.25
+Elapsed time: 1273.627 minutes, iter: 739 out of 1681
+Done with Bay: -16.50, LP: -12.25
+Elapsed time: 1278.030 minutes, iter: 740 out of 1681
+Done with Bay: -16.25, LP: -12.25
+Elapsed time: 1279.326 minutes, iter: 741 out of 1681
+Done with Bay: -16.00, LP: -12.25
+Elapsed time: 1280.604 minutes, iter: 742 out of 1681
+Done with Bay: -15.75, LP: -12.25
+Elapsed time: 1281.884 minutes, iter: 743 out of 1681
+Done with Bay: -15.50, LP: -12.25
+Elapsed time: 1283.160 minutes, iter: 744 out of 1681
+Done with Bay: -15.25, LP: -12.25
+Elapsed time: 1286.034 minutes, iter: 745 out of 1681
+Done with Bay: -15.00, LP: -12.25
+Elapsed time: 1287.195 minutes, iter: 746 out of 1681
+Done with Bay: -14.75, LP: -12.25
+Elapsed time: 1291.387 minutes, iter: 747 out of 1681
+Done with Bay: -14.50, LP: -12.25
+Elapsed time: 1292.752 minutes, iter: 748 out of 1681
+Done with Bay: -14.25, LP: -12.25
+Elapsed time: 1293.918 minutes, iter: 749 out of 1681
+Done with Bay: -14.00, LP: -12.25
+Elapsed time: 1295.213 minutes, iter: 750 out of 1681
+Done with Bay: -13.75, LP: -12.25
+Elapsed time: 1297.421 minutes, iter: 751 out of 1681
+Done with Bay: -13.50, LP: -12.25
+Elapsed time: 1298.583 minutes, iter: 752 out of 1681
+Done with Bay: -13.25, LP: -12.25
+Elapsed time: 1299.716 minutes, iter: 753 out of 1681
+Done with Bay: -13.00, LP: -12.25
+Elapsed time: 1300.856 minutes, iter: 754 out of 1681
+Done with Bay: -12.75, LP: -12.25
+Elapsed time: 1302.980 minutes, iter: 755 out of 1681
+Done with Bay: -12.50, LP: -12.25
+Elapsed time: 1304.114 minutes, iter: 756 out of 1681
+Done with Bay: -12.25, LP: -12.25
+Elapsed time: 1305.160 minutes, iter: 757 out of 1681
+Done with Bay: -12.00, LP: -12.25
+Elapsed time: 1307.031 minutes, iter: 758 out of 1681
+Done with Bay: -11.75, LP: -12.25
+Elapsed time: 1308.202 minutes, iter: 759 out of 1681
+Done with Bay: -11.50, LP: -12.25
+Elapsed time: 1309.424 minutes, iter: 760 out of 1681
+Done with Bay: -11.25, LP: -12.25
+Elapsed time: 1310.504 minutes, iter: 761 out of 1681
+Done with Bay: -11.00, LP: -12.25
+Elapsed time: 1311.673 minutes, iter: 762 out of 1681
+Done with Bay: -10.75, LP: -12.25
+Elapsed time: 1312.788 minutes, iter: 763 out of 1681
+Done with Bay: -10.50, LP: -12.25
+Elapsed time: 1313.893 minutes, iter: 764 out of 1681
+Done with Bay: -10.25, LP: -12.25
+Elapsed time: 1314.969 minutes, iter: 765 out of 1681
+Done with Bay: -10.00, LP: -12.25
+Elapsed time: 1316.042 minutes, iter: 766 out of 1681
+Done with Bay:  -9.75, LP: -12.25
+Elapsed time: 1317.127 minutes, iter: 767 out of 1681
+Done with Bay:  -9.50, LP: -12.25
+Elapsed time: 1318.202 minutes, iter: 768 out of 1681
+Done with Bay:  -9.25, LP: -12.25
+Elapsed time: 1319.285 minutes, iter: 769 out of 1681
+Done with Bay:  -9.00, LP: -12.25
+Elapsed time: 1320.362 minutes, iter: 770 out of 1681
+Done with Bay:  -8.75, LP: -12.25
+Elapsed time: 1321.449 minutes, iter: 771 out of 1681
+Done with Bay:  -8.50, LP: -12.25
+Elapsed time: 1322.526 minutes, iter: 772 out of 1681
+Done with Bay:  -8.25, LP: -12.25
+Elapsed time: 1323.602 minutes, iter: 773 out of 1681
+Done with Bay:  -8.00, LP: -12.25
+Elapsed time: 1324.684 minutes, iter: 774 out of 1681
+Done with Bay:  -7.75, LP: -12.25
+Elapsed time: 1325.763 minutes, iter: 775 out of 1681
+Done with Bay:  -7.50, LP: -12.25
+Elapsed time: 1326.838 minutes, iter: 776 out of 1681
+Done with Bay:  -7.25, LP: -12.25
+Elapsed time: 1327.924 minutes, iter: 777 out of 1681
+Done with Bay:  -7.00, LP: -12.25
+Elapsed time: 1328.999 minutes, iter: 778 out of 1681
+Done with Bay:  -6.75, LP: -12.25
+Elapsed time: 1330.079 minutes, iter: 779 out of 1681
+Done with Bay: -16.75, LP: -12.00
+Elapsed time: 1331.359 minutes, iter: 780 out of 1681
+Done with Bay: -16.50, LP: -12.00
+Elapsed time: 1335.850 minutes, iter: 781 out of 1681
+Done with Bay: -16.25, LP: -12.00
+Elapsed time: 1337.221 minutes, iter: 782 out of 1681
+Done with Bay: -16.00, LP: -12.00
+Elapsed time: 1338.380 minutes, iter: 783 out of 1681
+Done with Bay: -15.75, LP: -12.00
+Elapsed time: 1339.539 minutes, iter: 784 out of 1681
+Done with Bay: -15.50, LP: -12.00
+Elapsed time: 1340.699 minutes, iter: 785 out of 1681
+Done with Bay: -15.25, LP: -12.00
+Elapsed time: 1344.595 minutes, iter: 786 out of 1681
+Done with Bay: -15.00, LP: -12.00
+Elapsed time: 1345.874 minutes, iter: 787 out of 1681
+Done with Bay: -14.75, LP: -12.00
+Elapsed time: 1350.144 minutes, iter: 788 out of 1681
+Done with Bay: -14.50, LP: -12.00
+Elapsed time: 1351.246 minutes, iter: 789 out of 1681
+Done with Bay: -14.25, LP: -12.00
+Elapsed time: 1352.440 minutes, iter: 790 out of 1681
+Done with Bay: -14.00, LP: -12.00
+Elapsed time: 1353.605 minutes, iter: 791 out of 1681
+Done with Bay: -13.75, LP: -12.00
+Elapsed time: 1355.832 minutes, iter: 792 out of 1681
+Done with Bay: -13.50, LP: -12.00
+Elapsed time: 1356.965 minutes, iter: 793 out of 1681
+Done with Bay: -13.25, LP: -12.00
+Elapsed time: 1358.280 minutes, iter: 794 out of 1681
+Done with Bay: -13.00, LP: -12.00
+Elapsed time: 1359.590 minutes, iter: 795 out of 1681
+Done with Bay: -12.75, LP: -12.00
+Elapsed time: 1362.483 minutes, iter: 796 out of 1681
+Done with Bay: -12.50, LP: -12.00
+Elapsed time: 1363.617 minutes, iter: 797 out of 1681
+Done with Bay: -12.25, LP: -12.00
+Elapsed time: 1364.900 minutes, iter: 798 out of 1681
+Done with Bay: -12.00, LP: -12.00
+Elapsed time: 1367.078 minutes, iter: 799 out of 1681
+Done with Bay: -11.75, LP: -12.00
+Elapsed time: 1368.212 minutes, iter: 800 out of 1681
+Done with Bay: -11.50, LP: -12.00
+Elapsed time: 1369.413 minutes, iter: 801 out of 1681
+Done with Bay: -11.25, LP: -12.00
+Elapsed time: 1370.576 minutes, iter: 802 out of 1681
+Done with Bay: -11.00, LP: -12.00
+Elapsed time: 1371.657 minutes, iter: 803 out of 1681
+Done with Bay: -10.75, LP: -12.00
+Elapsed time: 1372.732 minutes, iter: 804 out of 1681
+Done with Bay: -10.50, LP: -12.00
+Elapsed time: 1373.878 minutes, iter: 805 out of 1681
+Done with Bay: -10.25, LP: -12.00
+Elapsed time: 1374.955 minutes, iter: 806 out of 1681
+Done with Bay: -10.00, LP: -12.00
+Elapsed time: 1376.039 minutes, iter: 807 out of 1681
+Done with Bay:  -9.75, LP: -12.00
+Elapsed time: 1377.118 minutes, iter: 808 out of 1681
+Done with Bay:  -9.50, LP: -12.00
+Elapsed time: 1378.206 minutes, iter: 809 out of 1681
+Done with Bay:  -9.25, LP: -12.00
+Elapsed time: 1379.283 minutes, iter: 810 out of 1681
+Done with Bay:  -9.00, LP: -12.00
+Elapsed time: 1380.363 minutes, iter: 811 out of 1681
+Done with Bay:  -8.75, LP: -12.00
+Elapsed time: 1381.444 minutes, iter: 812 out of 1681
+Done with Bay:  -8.50, LP: -12.00
+Elapsed time: 1382.518 minutes, iter: 813 out of 1681
+Done with Bay:  -8.25, LP: -12.00
+Elapsed time: 1383.595 minutes, iter: 814 out of 1681
+Done with Bay:  -8.00, LP: -12.00
+Elapsed time: 1384.672 minutes, iter: 815 out of 1681
+Done with Bay:  -7.75, LP: -12.00
+Elapsed time: 1385.747 minutes, iter: 816 out of 1681
+Done with Bay:  -7.50, LP: -12.00
+Elapsed time: 1386.827 minutes, iter: 817 out of 1681
+Done with Bay:  -7.25, LP: -12.00
+Elapsed time: 1387.910 minutes, iter: 818 out of 1681
+Done with Bay:  -7.00, LP: -12.00
+Elapsed time: 1388.990 minutes, iter: 819 out of 1681
+Done with Bay:  -6.75, LP: -12.00
+Elapsed time: 1390.069 minutes, iter: 820 out of 1681
+Done with Bay: -16.75, LP: -11.75
+Elapsed time: 1391.348 minutes, iter: 821 out of 1681
+Done with Bay: -16.50, LP: -11.75
+Elapsed time: 1395.510 minutes, iter: 822 out of 1681
+Done with Bay: -16.25, LP: -11.75
+Elapsed time: 1396.788 minutes, iter: 823 out of 1681
+Done with Bay: -16.00, LP: -11.75
+Elapsed time: 1398.072 minutes, iter: 824 out of 1681
+Done with Bay: -15.75, LP: -11.75
+Elapsed time: 1399.348 minutes, iter: 825 out of 1681
+Done with Bay: -15.50, LP: -11.75
+Elapsed time: 1400.631 minutes, iter: 826 out of 1681
+Done with Bay: -15.25, LP: -11.75
+Elapsed time: 1404.596 minutes, iter: 827 out of 1681
+Done with Bay: -15.00, LP: -11.75
+Elapsed time: 1405.970 minutes, iter: 828 out of 1681
+Done with Bay: -14.75, LP: -11.75
+Elapsed time: 1409.681 minutes, iter: 829 out of 1681
+Done with Bay: -14.50, LP: -11.75
+Elapsed time: 1410.830 minutes, iter: 830 out of 1681
+Done with Bay: -14.25, LP: -11.75
+Elapsed time: 1412.138 minutes, iter: 831 out of 1681
+Done with Bay: -14.00, LP: -11.75
+Elapsed time: 1413.393 minutes, iter: 832 out of 1681
+Done with Bay: -13.75, LP: -11.75
+Elapsed time: 1415.772 minutes, iter: 833 out of 1681
+Done with Bay: -13.50, LP: -11.75
+Elapsed time: 1416.987 minutes, iter: 834 out of 1681
+Done with Bay: -13.25, LP: -11.75
+Elapsed time: 1418.125 minutes, iter: 835 out of 1681
+Done with Bay: -13.00, LP: -11.75
+Elapsed time: 1419.345 minutes, iter: 836 out of 1681
+Done with Bay: -12.75, LP: -11.75
+Elapsed time: 1422.697 minutes, iter: 837 out of 1681
+Done with Bay: -12.50, LP: -11.75
+Elapsed time: 1423.713 minutes, iter: 838 out of 1681
+Done with Bay: -12.25, LP: -11.75
+Elapsed time: 1424.850 minutes, iter: 839 out of 1681
+Done with Bay: -12.00, LP: -11.75
+Elapsed time: 1426.802 minutes, iter: 840 out of 1681
+Done with Bay: -11.75, LP: -11.75
+Elapsed time: 1428.116 minutes, iter: 841 out of 1681
+Done with Bay: -11.50, LP: -11.75
+Elapsed time: 1429.190 minutes, iter: 842 out of 1681
+Done with Bay: -11.25, LP: -11.75
+Elapsed time: 1430.264 minutes, iter: 843 out of 1681
+Done with Bay: -11.00, LP: -11.75
+Elapsed time: 1431.346 minutes, iter: 844 out of 1681
+Done with Bay: -10.75, LP: -11.75
+Elapsed time: 1432.418 minutes, iter: 845 out of 1681
+Done with Bay: -10.50, LP: -11.75
+Elapsed time: 1433.664 minutes, iter: 846 out of 1681
+Done with Bay: -10.25, LP: -11.75
+Elapsed time: 1434.738 minutes, iter: 847 out of 1681
+Done with Bay: -10.00, LP: -11.75
+Elapsed time: 1435.811 minutes, iter: 848 out of 1681
+Done with Bay:  -9.75, LP: -11.75
+Elapsed time: 1436.885 minutes, iter: 849 out of 1681
+Done with Bay:  -9.50, LP: -11.75
+Elapsed time: 1437.959 minutes, iter: 850 out of 1681
+Done with Bay:  -9.25, LP: -11.75
+Elapsed time: 1439.036 minutes, iter: 851 out of 1681
+Done with Bay:  -9.00, LP: -11.75
+Elapsed time: 1440.113 minutes, iter: 852 out of 1681
+Done with Bay:  -8.75, LP: -11.75
+Elapsed time: 1441.184 minutes, iter: 853 out of 1681
+Done with Bay:  -8.50, LP: -11.75
+Elapsed time: 1442.259 minutes, iter: 854 out of 1681
+Done with Bay:  -8.25, LP: -11.75
+Elapsed time: 1443.334 minutes, iter: 855 out of 1681
+Done with Bay:  -8.00, LP: -11.75
+Elapsed time: 1444.420 minutes, iter: 856 out of 1681
+Done with Bay:  -7.75, LP: -11.75
+Elapsed time: 1445.497 minutes, iter: 857 out of 1681
+Done with Bay:  -7.50, LP: -11.75
+Elapsed time: 1446.572 minutes, iter: 858 out of 1681
+Done with Bay:  -7.25, LP: -11.75
+Elapsed time: 1447.650 minutes, iter: 859 out of 1681
+Done with Bay:  -7.00, LP: -11.75
+Elapsed time: 1448.729 minutes, iter: 860 out of 1681
+Done with Bay:  -6.75, LP: -11.75
+Elapsed time: 1449.806 minutes, iter: 861 out of 1681
+Done with Bay: -16.75, LP: -11.50
+Elapsed time: 1450.822 minutes, iter: 862 out of 1681
+Done with Bay: -16.50, LP: -11.50
+Elapsed time: 1454.165 minutes, iter: 863 out of 1681
+Done with Bay: -16.25, LP: -11.50
+Elapsed time: 1455.212 minutes, iter: 864 out of 1681
+Done with Bay: -16.00, LP: -11.50
+Elapsed time: 1456.258 minutes, iter: 865 out of 1681
+Done with Bay: -15.75, LP: -11.50
+Elapsed time: 1457.331 minutes, iter: 866 out of 1681
+Done with Bay: -15.50, LP: -11.50
+Elapsed time: 1458.404 minutes, iter: 867 out of 1681
+Done with Bay: -15.25, LP: -11.50
+Elapsed time: 1462.012 minutes, iter: 868 out of 1681
+Done with Bay: -15.00, LP: -11.50
+Elapsed time: 1463.152 minutes, iter: 869 out of 1681
+Done with Bay: -14.75, LP: -11.50
+Elapsed time: 1466.829 minutes, iter: 870 out of 1681
+Done with Bay: -14.50, LP: -11.50
+Elapsed time: 1468.138 minutes, iter: 871 out of 1681
+Done with Bay: -14.25, LP: -11.50
+Elapsed time: 1469.267 minutes, iter: 872 out of 1681
+Done with Bay: -14.00, LP: -11.50
+Elapsed time: 1470.378 minutes, iter: 873 out of 1681
+Done with Bay: -13.75, LP: -11.50
+Elapsed time: 1472.740 minutes, iter: 874 out of 1681
+Done with Bay: -13.50, LP: -11.50
+Elapsed time: 1474.050 minutes, iter: 875 out of 1681
+Done with Bay: -13.25, LP: -11.50
+Elapsed time: 1476.529 minutes, iter: 876 out of 1681
+Done with Bay: -13.00, LP: -11.50
+Elapsed time: 1479.528 minutes, iter: 877 out of 1681
+Done with Bay: -12.75, LP: -11.50
+Elapsed time: 1483.463 minutes, iter: 878 out of 1681
+Done with Bay: -12.50, LP: -11.50
+Elapsed time: 1484.740 minutes, iter: 879 out of 1681
+Done with Bay: -12.25, LP: -11.50
+Elapsed time: 1486.733 minutes, iter: 880 out of 1681
+Done with Bay: -12.00, LP: -11.50
+Elapsed time: 1488.019 minutes, iter: 881 out of 1681
+Done with Bay: -11.75, LP: -11.50
+Elapsed time: 1489.936 minutes, iter: 882 out of 1681
+Done with Bay: -11.50, LP: -11.50
+Elapsed time: 1491.415 minutes, iter: 883 out of 1681
+Done with Bay: -11.25, LP: -11.50
+Elapsed time: 1493.063 minutes, iter: 884 out of 1681
+Done with Bay: -11.00, LP: -11.50
+Elapsed time: 1495.363 minutes, iter: 885 out of 1681
+Done with Bay: -10.75, LP: -11.50
+Elapsed time: 1497.374 minutes, iter: 886 out of 1681
+Done with Bay: -10.50, LP: -11.50
+Elapsed time: 1499.861 minutes, iter: 887 out of 1681
+Done with Bay: -10.25, LP: -11.50
+Elapsed time: 1502.163 minutes, iter: 888 out of 1681
+Done with Bay: -10.00, LP: -11.50
+Elapsed time: 1504.544 minutes, iter: 889 out of 1681
+Done with Bay:  -9.75, LP: -11.50
+Elapsed time: 1507.044 minutes, iter: 890 out of 1681
+Done with Bay:  -9.50, LP: -11.50
+Elapsed time: 1509.657 minutes, iter: 891 out of 1681
+Done with Bay:  -9.25, LP: -11.50
+Elapsed time: 1512.680 minutes, iter: 892 out of 1681
+Done with Bay:  -9.00, LP: -11.50
+Elapsed time: 1515.046 minutes, iter: 893 out of 1681
+Done with Bay:  -8.75, LP: -11.50
+Elapsed time: 1518.077 minutes, iter: 894 out of 1681
+Done with Bay:  -8.50, LP: -11.50
+Elapsed time: 1520.578 minutes, iter: 895 out of 1681
+Done with Bay:  -8.25, LP: -11.50
+Elapsed time: 1523.029 minutes, iter: 896 out of 1681
+Done with Bay:  -8.00, LP: -11.50
+Elapsed time: 1525.940 minutes, iter: 897 out of 1681
+Done with Bay:  -7.75, LP: -11.50
+Elapsed time: 1528.594 minutes, iter: 898 out of 1681
+Done with Bay:  -7.50, LP: -11.50
+Elapsed time: 1531.619 minutes, iter: 899 out of 1681
+Done with Bay:  -7.25, LP: -11.50
+Elapsed time: 1534.501 minutes, iter: 900 out of 1681
+Done with Bay:  -7.00, LP: -11.50
+Elapsed time: 1537.111 minutes, iter: 901 out of 1681
+Done with Bay:  -6.75, LP: -11.50
+Elapsed time: 1539.555 minutes, iter: 902 out of 1681
+Done with Bay: -16.75, LP: -11.25
+Elapsed time: 1540.686 minutes, iter: 903 out of 1681
+Done with Bay: -16.50, LP: -11.25
+Elapsed time: 1544.417 minutes, iter: 904 out of 1681
+Done with Bay: -16.25, LP: -11.25
+Elapsed time: 1545.555 minutes, iter: 905 out of 1681
+Done with Bay: -16.00, LP: -11.25
+Elapsed time: 1546.693 minutes, iter: 906 out of 1681
+Done with Bay: -15.75, LP: -11.25
+Elapsed time: 1547.823 minutes, iter: 907 out of 1681
+Done with Bay: -15.50, LP: -11.25
+Elapsed time: 1549.128 minutes, iter: 908 out of 1681
+Done with Bay: -15.25, LP: -11.25
+Elapsed time: 1553.470 minutes, iter: 909 out of 1681
+Done with Bay: -15.00, LP: -11.25
+Elapsed time: 1554.689 minutes, iter: 910 out of 1681
+Done with Bay: -14.75, LP: -11.25
+Elapsed time: 1558.293 minutes, iter: 911 out of 1681
+Done with Bay: -14.50, LP: -11.25
+Elapsed time: 1559.526 minutes, iter: 912 out of 1681
+Done with Bay: -14.25, LP: -11.25
+Elapsed time: 1560.600 minutes, iter: 913 out of 1681
+Done with Bay: -14.00, LP: -11.25
+Elapsed time: 1561.817 minutes, iter: 914 out of 1681
+Done with Bay: -13.75, LP: -11.25
+Elapsed time: 1564.079 minutes, iter: 915 out of 1681
+Done with Bay: -13.50, LP: -11.25
+Elapsed time: 1565.387 minutes, iter: 916 out of 1681
+Done with Bay: -13.25, LP: -11.25
+Elapsed time: 1566.526 minutes, iter: 917 out of 1681
+Done with Bay: -13.00, LP: -11.25
+Elapsed time: 1567.656 minutes, iter: 918 out of 1681
+Done with Bay: -12.75, LP: -11.25
+Elapsed time: 1571.211 minutes, iter: 919 out of 1681
+Done with Bay: -12.50, LP: -11.25
+Elapsed time: 1572.339 minutes, iter: 920 out of 1681
+Done with Bay: -12.25, LP: -11.25
+Elapsed time: 1573.703 minutes, iter: 921 out of 1681
+Done with Bay: -12.00, LP: -11.25
+Elapsed time: 1576.241 minutes, iter: 922 out of 1681
+Done with Bay: -11.75, LP: -11.25
+Elapsed time: 1577.344 minutes, iter: 923 out of 1681
+Done with Bay: -11.50, LP: -11.25
+Elapsed time: 1578.473 minutes, iter: 924 out of 1681
+Done with Bay: -11.25, LP: -11.25
+Elapsed time: 1579.581 minutes, iter: 925 out of 1681
+Done with Bay: -11.00, LP: -11.25
+Elapsed time: 1580.818 minutes, iter: 926 out of 1681
+Done with Bay: -10.75, LP: -11.25
+Elapsed time: 1581.895 minutes, iter: 927 out of 1681
+Done with Bay: -10.50, LP: -11.25
+Elapsed time: 1583.121 minutes, iter: 928 out of 1681
+Done with Bay: -10.25, LP: -11.25
+Elapsed time: 1584.200 minutes, iter: 929 out of 1681
+Done with Bay: -10.00, LP: -11.25
+Elapsed time: 1585.286 minutes, iter: 930 out of 1681
+Done with Bay:  -9.75, LP: -11.25
+Elapsed time: 1586.360 minutes, iter: 931 out of 1681
+Done with Bay:  -9.50, LP: -11.25
+Elapsed time: 1587.433 minutes, iter: 932 out of 1681
+Done with Bay:  -9.25, LP: -11.25
+Elapsed time: 1588.510 minutes, iter: 933 out of 1681
+Done with Bay:  -9.00, LP: -11.25
+Elapsed time: 1589.583 minutes, iter: 934 out of 1681
+Done with Bay:  -8.75, LP: -11.25
+Elapsed time: 1590.654 minutes, iter: 935 out of 1681
+Done with Bay:  -8.50, LP: -11.25
+Elapsed time: 1591.725 minutes, iter: 936 out of 1681
+Done with Bay:  -8.25, LP: -11.25
+Elapsed time: 1592.810 minutes, iter: 937 out of 1681
+Done with Bay:  -8.00, LP: -11.25
+Elapsed time: 1593.890 minutes, iter: 938 out of 1681
+Done with Bay:  -7.75, LP: -11.25
+Elapsed time: 1594.964 minutes, iter: 939 out of 1681
+Done with Bay:  -7.50, LP: -11.25
+Elapsed time: 1596.056 minutes, iter: 940 out of 1681
+Done with Bay:  -7.25, LP: -11.25
+Elapsed time: 1597.133 minutes, iter: 941 out of 1681
+Done with Bay:  -7.00, LP: -11.25
+Elapsed time: 1598.220 minutes, iter: 942 out of 1681
+Done with Bay:  -6.75, LP: -11.25
+Elapsed time: 1599.300 minutes, iter: 943 out of 1681
+Done with Bay: -16.75, LP: -11.00
+Elapsed time: 1600.436 minutes, iter: 944 out of 1681
+Done with Bay: -16.50, LP: -11.00
+Elapsed time: 1604.177 minutes, iter: 945 out of 1681
+Done with Bay: -16.25, LP: -11.00
+Elapsed time: 1605.347 minutes, iter: 946 out of 1681
+Done with Bay: -16.00, LP: -11.00
+Elapsed time: 1606.479 minutes, iter: 947 out of 1681
+Done with Bay: -15.75, LP: -11.00
+Elapsed time: 1607.701 minutes, iter: 948 out of 1681
+Done with Bay: -15.50, LP: -11.00
+Elapsed time: 1608.922 minutes, iter: 949 out of 1681
+Done with Bay: -15.25, LP: -11.00
+Elapsed time: 1612.634 minutes, iter: 950 out of 1681
+Done with Bay: -15.00, LP: -11.00
+Elapsed time: 1613.947 minutes, iter: 951 out of 1681
+Done with Bay: -14.75, LP: -11.00
+Elapsed time: 1617.370 minutes, iter: 952 out of 1681
+Done with Bay: -14.50, LP: -11.00
+Elapsed time: 1618.500 minutes, iter: 953 out of 1681
+Done with Bay: -14.25, LP: -11.00
+Elapsed time: 1619.718 minutes, iter: 954 out of 1681
+Done with Bay: -14.00, LP: -11.00
+Elapsed time: 1620.762 minutes, iter: 955 out of 1681
+Done with Bay: -13.75, LP: -11.00
+Elapsed time: 1623.179 minutes, iter: 956 out of 1681
+Done with Bay: -13.50, LP: -11.00
+Elapsed time: 1624.257 minutes, iter: 957 out of 1681
+Done with Bay: -13.25, LP: -11.00
+Elapsed time: 1625.364 minutes, iter: 958 out of 1681
+Done with Bay: -13.00, LP: -11.00
+Elapsed time: 1626.594 minutes, iter: 959 out of 1681
+Done with Bay: -12.75, LP: -11.00
+Elapsed time: 1629.990 minutes, iter: 960 out of 1681
+Done with Bay: -12.50, LP: -11.00
+Elapsed time: 1632.431 minutes, iter: 961 out of 1681
+Done with Bay: -12.25, LP: -11.00
+Elapsed time: 1634.375 minutes, iter: 962 out of 1681
+Done with Bay: -12.00, LP: -11.00
+Elapsed time: 1637.917 minutes, iter: 963 out of 1681
+Done with Bay: -11.75, LP: -11.00
+Elapsed time: 1640.465 minutes, iter: 964 out of 1681
+Done with Bay: -11.50, LP: -11.00
+Elapsed time: 1642.786 minutes, iter: 965 out of 1681
+Done with Bay: -11.25, LP: -11.00
+Elapsed time: 1644.855 minutes, iter: 966 out of 1681
+Done with Bay: -11.00, LP: -11.00
+Elapsed time: 1646.995 minutes, iter: 967 out of 1681
+Done with Bay: -10.75, LP: -11.00
+Elapsed time: 1648.867 minutes, iter: 968 out of 1681
+Done with Bay: -10.50, LP: -11.00
+Elapsed time: 1650.018 minutes, iter: 969 out of 1681
+Done with Bay: -10.25, LP: -11.00
+Elapsed time: 1651.496 minutes, iter: 970 out of 1681
+Done with Bay: -10.00, LP: -11.00
+Elapsed time: 1652.716 minutes, iter: 971 out of 1681
+Done with Bay:  -9.75, LP: -11.00
+Elapsed time: 1654.237 minutes, iter: 972 out of 1681
+Done with Bay:  -9.50, LP: -11.00
+Elapsed time: 1655.534 minutes, iter: 973 out of 1681
+Done with Bay:  -9.25, LP: -11.00
+Elapsed time: 1656.965 minutes, iter: 974 out of 1681
+Done with Bay:  -9.00, LP: -11.00
+Elapsed time: 1658.549 minutes, iter: 975 out of 1681
+Done with Bay:  -8.75, LP: -11.00
+Elapsed time: 1660.044 minutes, iter: 976 out of 1681
+Done with Bay:  -8.50, LP: -11.00
+Elapsed time: 1661.480 minutes, iter: 977 out of 1681
+Done with Bay:  -8.25, LP: -11.00
+Elapsed time: 1662.914 minutes, iter: 978 out of 1681
+Done with Bay:  -8.00, LP: -11.00
+Elapsed time: 1664.452 minutes, iter: 979 out of 1681
+Done with Bay:  -7.75, LP: -11.00
+Elapsed time: 1665.954 minutes, iter: 980 out of 1681
+Done with Bay:  -7.50, LP: -11.00
+Elapsed time: 1667.525 minutes, iter: 981 out of 1681
+Done with Bay:  -7.25, LP: -11.00
+Elapsed time: 1669.022 minutes, iter: 982 out of 1681
+Done with Bay:  -7.00, LP: -11.00
+Elapsed time: 1670.630 minutes, iter: 983 out of 1681
+Done with Bay:  -6.75, LP: -11.00
+Elapsed time: 1672.291 minutes, iter: 984 out of 1681
+Done with Bay: -16.75, LP: -10.75
+Elapsed time: 1673.393 minutes, iter: 985 out of 1681
+Done with Bay: -16.50, LP: -10.75
+Elapsed time: 1677.047 minutes, iter: 986 out of 1681
+Done with Bay: -16.25, LP: -10.75
+Elapsed time: 1678.154 minutes, iter: 987 out of 1681
+Done with Bay: -16.00, LP: -10.75
+Elapsed time: 1679.270 minutes, iter: 988 out of 1681
+Done with Bay: -15.75, LP: -10.75
+Elapsed time: 1680.403 minutes, iter: 989 out of 1681
+Done with Bay: -15.50, LP: -10.75
+Elapsed time: 1681.536 minutes, iter: 990 out of 1681
+Done with Bay: -15.25, LP: -10.75
+Elapsed time: 1685.320 minutes, iter: 991 out of 1681
+Done with Bay: -15.00, LP: -10.75
+Elapsed time: 1686.625 minutes, iter: 992 out of 1681
+Done with Bay: -14.75, LP: -10.75
+Elapsed time: 1690.613 minutes, iter: 993 out of 1681
+Done with Bay: -14.50, LP: -10.75
+Elapsed time: 1691.756 minutes, iter: 994 out of 1681
+Done with Bay: -14.25, LP: -10.75
+Elapsed time: 1692.862 minutes, iter: 995 out of 1681
+Done with Bay: -14.00, LP: -10.75
+Elapsed time: 1693.970 minutes, iter: 996 out of 1681
+Done with Bay: -13.75, LP: -10.75
+Elapsed time: 1695.895 minutes, iter: 997 out of 1681
+Done with Bay: -13.50, LP: -10.75
+Elapsed time: 1696.950 minutes, iter: 998 out of 1681
+Done with Bay: -13.25, LP: -10.75
+Elapsed time: 1698.259 minutes, iter: 999 out of 1681
+Done with Bay: -13.00, LP: -10.75
+Elapsed time: 1699.537 minutes, iter: 1000 out of 1681
+Done with Bay: -12.75, LP: -10.75
+Elapsed time: 1702.849 minutes, iter: 1001 out of 1681
+Done with Bay: -12.50, LP: -10.75
+Elapsed time: 1704.042 minutes, iter: 1002 out of 1681
+Done with Bay: -12.25, LP: -10.75
+Elapsed time: 1705.293 minutes, iter: 1003 out of 1681
+Done with Bay: -12.00, LP: -10.75
+Elapsed time: 1706.950 minutes, iter: 1004 out of 1681
+Done with Bay: -11.75, LP: -10.75
+Elapsed time: 1708.170 minutes, iter: 1005 out of 1681
+Done with Bay: -11.50, LP: -10.75
+Elapsed time: 1709.427 minutes, iter: 1006 out of 1681
+Done with Bay: -11.25, LP: -10.75
+Elapsed time: 1710.534 minutes, iter: 1007 out of 1681
+Done with Bay: -11.00, LP: -10.75
+Elapsed time: 1711.849 minutes, iter: 1008 out of 1681
+Done with Bay: -10.75, LP: -10.75
+Elapsed time: 1712.929 minutes, iter: 1009 out of 1681
+Done with Bay: -10.50, LP: -10.75
+Elapsed time: 1714.090 minutes, iter: 1010 out of 1681
+Done with Bay: -10.25, LP: -10.75
+Elapsed time: 1715.168 minutes, iter: 1011 out of 1681
+Done with Bay: -10.00, LP: -10.75
+Elapsed time: 1716.243 minutes, iter: 1012 out of 1681
+Done with Bay:  -9.75, LP: -10.75
+Elapsed time: 1717.319 minutes, iter: 1013 out of 1681
+Done with Bay:  -9.50, LP: -10.75
+Elapsed time: 1718.394 minutes, iter: 1014 out of 1681
+Done with Bay:  -9.25, LP: -10.75
+Elapsed time: 1719.466 minutes, iter: 1015 out of 1681
+Done with Bay:  -9.00, LP: -10.75
+Elapsed time: 1720.538 minutes, iter: 1016 out of 1681
+Done with Bay:  -8.75, LP: -10.75
+Elapsed time: 1721.613 minutes, iter: 1017 out of 1681
+Done with Bay:  -8.50, LP: -10.75
+Elapsed time: 1722.688 minutes, iter: 1018 out of 1681
+Done with Bay:  -8.25, LP: -10.75
+Elapsed time: 1723.785 minutes, iter: 1019 out of 1681
+Done with Bay:  -8.00, LP: -10.75
+Elapsed time: 1724.867 minutes, iter: 1020 out of 1681
+Done with Bay:  -7.75, LP: -10.75
+Elapsed time: 1725.956 minutes, iter: 1021 out of 1681
+Done with Bay:  -7.50, LP: -10.75
+Elapsed time: 1727.034 minutes, iter: 1022 out of 1681
+Done with Bay:  -7.25, LP: -10.75
+Elapsed time: 1728.108 minutes, iter: 1023 out of 1681
+Done with Bay:  -7.00, LP: -10.75
+Elapsed time: 1729.179 minutes, iter: 1024 out of 1681
+Done with Bay:  -6.75, LP: -10.75
+Elapsed time: 1730.254 minutes, iter: 1025 out of 1681
+Done with Bay: -16.75, LP: -10.50
+Elapsed time: 1731.355 minutes, iter: 1026 out of 1681
+Done with Bay: -16.50, LP: -10.50
+Elapsed time: 1734.941 minutes, iter: 1027 out of 1681
+Done with Bay: -16.25, LP: -10.50
+Elapsed time: 1736.053 minutes, iter: 1028 out of 1681
+Done with Bay: -16.00, LP: -10.50
+Elapsed time: 1737.155 minutes, iter: 1029 out of 1681
+Done with Bay: -15.75, LP: -10.50
+Elapsed time: 1738.266 minutes, iter: 1030 out of 1681
+Done with Bay: -15.50, LP: -10.50
+Elapsed time: 1739.399 minutes, iter: 1031 out of 1681
+Done with Bay: -15.25, LP: -10.50
+Elapsed time: 1743.353 minutes, iter: 1032 out of 1681
+Done with Bay: -15.00, LP: -10.50
+Elapsed time: 1744.660 minutes, iter: 1033 out of 1681
+Done with Bay: -14.75, LP: -10.50
+Elapsed time: 1748.062 minutes, iter: 1034 out of 1681
+Done with Bay: -14.50, LP: -10.50
+Elapsed time: 1749.343 minutes, iter: 1035 out of 1681
+Done with Bay: -14.25, LP: -10.50
+Elapsed time: 1750.476 minutes, iter: 1036 out of 1681
+Done with Bay: -14.00, LP: -10.50
+Elapsed time: 1751.666 minutes, iter: 1037 out of 1681
+Done with Bay: -13.75, LP: -10.50
+Elapsed time: 1754.057 minutes, iter: 1038 out of 1681
+Done with Bay: -13.50, LP: -10.50
+Elapsed time: 1755.194 minutes, iter: 1039 out of 1681
+Done with Bay: -13.25, LP: -10.50
+Elapsed time: 1756.330 minutes, iter: 1040 out of 1681
+Done with Bay: -13.00, LP: -10.50
+Elapsed time: 1757.606 minutes, iter: 1041 out of 1681
+Done with Bay: -12.75, LP: -10.50
+Elapsed time: 1759.282 minutes, iter: 1042 out of 1681
+Done with Bay: -12.50, LP: -10.50
+Elapsed time: 1760.472 minutes, iter: 1043 out of 1681
+Done with Bay: -12.25, LP: -10.50
+Elapsed time: 1761.728 minutes, iter: 1044 out of 1681
+Done with Bay: -12.00, LP: -10.50
+Elapsed time: 1763.362 minutes, iter: 1045 out of 1681
+Done with Bay: -11.75, LP: -10.50
+Elapsed time: 1764.572 minutes, iter: 1046 out of 1681
+Done with Bay: -11.50, LP: -10.50
+Elapsed time: 1765.982 minutes, iter: 1047 out of 1681
+Done with Bay: -11.25, LP: -10.50
+Elapsed time: 1767.300 minutes, iter: 1048 out of 1681
+Done with Bay: -11.00, LP: -10.50
+Elapsed time: 1768.603 minutes, iter: 1049 out of 1681
+Done with Bay: -10.75, LP: -10.50
+Elapsed time: 1769.988 minutes, iter: 1050 out of 1681
+Done with Bay: -10.50, LP: -10.50
+Elapsed time: 1771.307 minutes, iter: 1051 out of 1681
+Done with Bay: -10.25, LP: -10.50
+Elapsed time: 1772.696 minutes, iter: 1052 out of 1681
+Done with Bay: -10.00, LP: -10.50
+Elapsed time: 1774.167 minutes, iter: 1053 out of 1681
+Done with Bay:  -9.75, LP: -10.50
+Elapsed time: 1775.549 minutes, iter: 1054 out of 1681
+Done with Bay:  -9.50, LP: -10.50
+Elapsed time: 1777.003 minutes, iter: 1055 out of 1681
+Done with Bay:  -9.25, LP: -10.50
+Elapsed time: 1778.450 minutes, iter: 1056 out of 1681
+Done with Bay:  -9.00, LP: -10.50
+Elapsed time: 1780.119 minutes, iter: 1057 out of 1681
+Done with Bay:  -8.75, LP: -10.50
+Elapsed time: 1781.562 minutes, iter: 1058 out of 1681
+Done with Bay:  -8.50, LP: -10.50
+Elapsed time: 1783.104 minutes, iter: 1059 out of 1681
+Done with Bay:  -8.25, LP: -10.50
+Elapsed time: 1784.455 minutes, iter: 1060 out of 1681
+Done with Bay:  -8.00, LP: -10.50
+Elapsed time: 1785.965 minutes, iter: 1061 out of 1681
+Done with Bay:  -7.75, LP: -10.50
+Elapsed time: 1787.541 minutes, iter: 1062 out of 1681
+Done with Bay:  -7.50, LP: -10.50
+Elapsed time: 1788.895 minutes, iter: 1063 out of 1681
+Done with Bay:  -7.25, LP: -10.50
+Elapsed time: 1790.313 minutes, iter: 1064 out of 1681
+Done with Bay:  -7.00, LP: -10.50
+Elapsed time: 1791.963 minutes, iter: 1065 out of 1681
+Done with Bay:  -6.75, LP: -10.50
+Elapsed time: 1793.633 minutes, iter: 1066 out of 1681
+Done with Bay: -16.75, LP: -10.25
+Elapsed time: 1794.653 minutes, iter: 1067 out of 1681
+Done with Bay: -16.50, LP: -10.25
+Elapsed time: 1797.991 minutes, iter: 1068 out of 1681
+Done with Bay: -16.25, LP: -10.25
+Elapsed time: 1799.043 minutes, iter: 1069 out of 1681
+Done with Bay: -16.00, LP: -10.25
+Elapsed time: 1800.122 minutes, iter: 1070 out of 1681
+Done with Bay: -15.75, LP: -10.25
+Elapsed time: 1801.201 minutes, iter: 1071 out of 1681
+Done with Bay: -15.50, LP: -10.25
+Elapsed time: 1802.310 minutes, iter: 1072 out of 1681
+Done with Bay: -15.25, LP: -10.25
+Elapsed time: 1805.996 minutes, iter: 1073 out of 1681
+Done with Bay: -15.00, LP: -10.25
+Elapsed time: 1807.273 minutes, iter: 1074 out of 1681
+Done with Bay: -14.75, LP: -10.25
+Elapsed time: 1810.766 minutes, iter: 1075 out of 1681
+Done with Bay: -14.50, LP: -10.25
+Elapsed time: 1811.968 minutes, iter: 1076 out of 1681
+Done with Bay: -14.25, LP: -10.25
+Elapsed time: 1813.165 minutes, iter: 1077 out of 1681
+Done with Bay: -14.00, LP: -10.25
+Elapsed time: 1814.442 minutes, iter: 1078 out of 1681
+Done with Bay: -13.75, LP: -10.25
+Elapsed time: 1816.453 minutes, iter: 1079 out of 1681
+Done with Bay: -13.50, LP: -10.25
+Elapsed time: 1817.467 minutes, iter: 1080 out of 1681
+Done with Bay: -13.25, LP: -10.25
+Elapsed time: 1818.482 minutes, iter: 1081 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP: -10.25
+Elapsed time: 1818.832 minutes, iter: 1082 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP: -10.25
+Elapsed time: 1819.656 minutes, iter: 1083 out of 1681
+Done with Bay: -12.50, LP: -10.25
+Elapsed time: 1820.853 minutes, iter: 1084 out of 1681
+Done with Bay: -12.25, LP: -10.25
+Elapsed time: 1822.039 minutes, iter: 1085 out of 1681
+Done with Bay: -12.00, LP: -10.25
+Elapsed time: 1823.764 minutes, iter: 1086 out of 1681
+Done with Bay: -11.75, LP: -10.25
+Elapsed time: 1824.911 minutes, iter: 1087 out of 1681
+Done with Bay: -11.50, LP: -10.25
+Elapsed time: 1826.044 minutes, iter: 1088 out of 1681
+Done with Bay: -11.25, LP: -10.25
+Elapsed time: 1827.177 minutes, iter: 1089 out of 1681
+Done with Bay: -11.00, LP: -10.25
+Elapsed time: 1828.649 minutes, iter: 1090 out of 1681
+Done with Bay: -10.75, LP: -10.25
+Elapsed time: 1829.785 minutes, iter: 1091 out of 1681
+Done with Bay: -10.50, LP: -10.25
+Elapsed time: 1831.260 minutes, iter: 1092 out of 1681
+Done with Bay: -10.25, LP: -10.25
+Elapsed time: 1832.336 minutes, iter: 1093 out of 1681
+Done with Bay: -10.00, LP: -10.25
+Elapsed time: 1833.412 minutes, iter: 1094 out of 1681
+Done with Bay:  -9.75, LP: -10.25
+Elapsed time: 1834.485 minutes, iter: 1095 out of 1681
+Done with Bay:  -9.50, LP: -10.25
+Elapsed time: 1835.562 minutes, iter: 1096 out of 1681
+Done with Bay:  -9.25, LP: -10.25
+Elapsed time: 1836.636 minutes, iter: 1097 out of 1681
+Done with Bay:  -9.00, LP: -10.25
+Elapsed time: 1837.716 minutes, iter: 1098 out of 1681
+Done with Bay:  -8.75, LP: -10.25
+Elapsed time: 1838.799 minutes, iter: 1099 out of 1681
+Done with Bay:  -8.50, LP: -10.25
+Elapsed time: 1839.871 minutes, iter: 1100 out of 1681
+Done with Bay:  -8.25, LP: -10.25
+Elapsed time: 1840.963 minutes, iter: 1101 out of 1681
+Done with Bay:  -8.00, LP: -10.25
+Elapsed time: 1842.036 minutes, iter: 1102 out of 1681
+Done with Bay:  -7.75, LP: -10.25
+Elapsed time: 1843.113 minutes, iter: 1103 out of 1681
+Done with Bay:  -7.50, LP: -10.25
+Elapsed time: 1844.189 minutes, iter: 1104 out of 1681
+Done with Bay:  -7.25, LP: -10.25
+Elapsed time: 1845.262 minutes, iter: 1105 out of 1681
+Done with Bay:  -7.00, LP: -10.25
+Elapsed time: 1846.335 minutes, iter: 1106 out of 1681
+Done with Bay:  -6.75, LP: -10.25
+Elapsed time: 1847.407 minutes, iter: 1107 out of 1681
+Done with Bay: -16.75, LP: -10.00
+Elapsed time: 1848.689 minutes, iter: 1108 out of 1681
+Done with Bay: -16.50, LP: -10.00
+Elapsed time: 1852.289 minutes, iter: 1109 out of 1681
+Done with Bay: -16.25, LP: -10.00
+Elapsed time: 1853.478 minutes, iter: 1110 out of 1681
+Done with Bay: -16.00, LP: -10.00
+Elapsed time: 1854.665 minutes, iter: 1111 out of 1681
+Done with Bay: -15.75, LP: -10.00
+Elapsed time: 1855.883 minutes, iter: 1112 out of 1681
+Done with Bay: -15.50, LP: -10.00
+Elapsed time: 1856.906 minutes, iter: 1113 out of 1681
+Done with Bay: -15.25, LP: -10.00
+Elapsed time: 1860.553 minutes, iter: 1114 out of 1681
+Done with Bay: -15.00, LP: -10.00
+Elapsed time: 1861.746 minutes, iter: 1115 out of 1681
+Done with Bay: -14.75, LP: -10.00
+Elapsed time: 1865.235 minutes, iter: 1116 out of 1681
+Done with Bay: -14.50, LP: -10.00
+Elapsed time: 1866.282 minutes, iter: 1117 out of 1681
+Done with Bay: -14.25, LP: -10.00
+Elapsed time: 1867.561 minutes, iter: 1118 out of 1681
+Done with Bay: -14.00, LP: -10.00
+Elapsed time: 1868.749 minutes, iter: 1119 out of 1681
+Done with Bay: -13.75, LP: -10.00
+Elapsed time: 1870.885 minutes, iter: 1120 out of 1681
+Done with Bay: -13.50, LP: -10.00
+Elapsed time: 1871.994 minutes, iter: 1121 out of 1681
+Done with Bay: -13.25, LP: -10.00
+Elapsed time: 1873.097 minutes, iter: 1122 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP: -10.00
+Elapsed time: 1873.448 minutes, iter: 1123 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP: -10.00
+Elapsed time: 1874.266 minutes, iter: 1124 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP: -10.00
+Elapsed time: 1874.615 minutes, iter: 1125 out of 1681
+Done with Bay: -12.25, LP: -10.00
+Elapsed time: 1875.809 minutes, iter: 1126 out of 1681
+Done with Bay: -12.00, LP: -10.00
+Elapsed time: 1877.473 minutes, iter: 1127 out of 1681
+Done with Bay: -11.75, LP: -10.00
+Elapsed time: 1878.723 minutes, iter: 1128 out of 1681
+Done with Bay: -11.50, LP: -10.00
+Elapsed time: 1879.891 minutes, iter: 1129 out of 1681
+Done with Bay: -11.25, LP: -10.00
+Elapsed time: 1881.311 minutes, iter: 1130 out of 1681
+Done with Bay: -11.00, LP: -10.00
+Elapsed time: 1882.598 minutes, iter: 1131 out of 1681
+Done with Bay: -10.75, LP: -10.00
+Elapsed time: 1884.019 minutes, iter: 1132 out of 1681
+Done with Bay: -10.50, LP: -10.00
+Elapsed time: 1885.318 minutes, iter: 1133 out of 1681
+Done with Bay: -10.25, LP: -10.00
+Elapsed time: 1886.553 minutes, iter: 1134 out of 1681
+Done with Bay: -10.00, LP: -10.00
+Elapsed time: 1887.785 minutes, iter: 1135 out of 1681
+Done with Bay:  -9.75, LP: -10.00
+Elapsed time: 1889.174 minutes, iter: 1136 out of 1681
+Done with Bay:  -9.50, LP: -10.00
+Elapsed time: 1890.641 minutes, iter: 1137 out of 1681
+Done with Bay:  -9.25, LP: -10.00
+Elapsed time: 1892.017 minutes, iter: 1138 out of 1681
+Done with Bay:  -9.00, LP: -10.00
+Elapsed time: 1893.474 minutes, iter: 1139 out of 1681
+Done with Bay:  -8.75, LP: -10.00
+Elapsed time: 1894.792 minutes, iter: 1140 out of 1681
+Done with Bay:  -8.50, LP: -10.00
+Elapsed time: 1896.157 minutes, iter: 1141 out of 1681
+Done with Bay:  -8.25, LP: -10.00
+Elapsed time: 1897.525 minutes, iter: 1142 out of 1681
+Done with Bay:  -8.00, LP: -10.00
+Elapsed time: 1899.033 minutes, iter: 1143 out of 1681
+Done with Bay:  -7.75, LP: -10.00
+Elapsed time: 1900.467 minutes, iter: 1144 out of 1681
+Done with Bay:  -7.50, LP: -10.00
+Elapsed time: 1901.898 minutes, iter: 1145 out of 1681
+Done with Bay:  -7.25, LP: -10.00
+Elapsed time: 1903.278 minutes, iter: 1146 out of 1681
+Done with Bay:  -7.00, LP: -10.00
+Elapsed time: 1904.722 minutes, iter: 1147 out of 1681
+Done with Bay:  -6.75, LP: -10.00
+Elapsed time: 1906.094 minutes, iter: 1148 out of 1681
+Done with Bay: -16.75, LP:  -9.75
+Elapsed time: 1907.209 minutes, iter: 1149 out of 1681
+Done with Bay: -16.50, LP:  -9.75
+Elapsed time: 1910.837 minutes, iter: 1150 out of 1681
+Done with Bay: -16.25, LP:  -9.75
+Elapsed time: 1911.941 minutes, iter: 1151 out of 1681
+Done with Bay: -16.00, LP:  -9.75
+Elapsed time: 1913.075 minutes, iter: 1152 out of 1681
+Done with Bay: -15.75, LP:  -9.75
+Elapsed time: 1914.354 minutes, iter: 1153 out of 1681
+Done with Bay: -15.50, LP:  -9.75
+Elapsed time: 1915.460 minutes, iter: 1154 out of 1681
+Done with Bay: -15.25, LP:  -9.75
+Elapsed time: 1918.860 minutes, iter: 1155 out of 1681
+Done with Bay: -15.00, LP:  -9.75
+Elapsed time: 1920.137 minutes, iter: 1156 out of 1681
+Done with Bay: -14.75, LP:  -9.75
+Elapsed time: 1923.768 minutes, iter: 1157 out of 1681
+Done with Bay: -14.50, LP:  -9.75
+Elapsed time: 1925.047 minutes, iter: 1158 out of 1681
+Done with Bay: -14.25, LP:  -9.75
+Elapsed time: 1926.241 minutes, iter: 1159 out of 1681
+Done with Bay: -14.00, LP:  -9.75
+Elapsed time: 1927.371 minutes, iter: 1160 out of 1681
+Done with Bay: -13.75, LP:  -9.75
+Elapsed time: 1929.598 minutes, iter: 1161 out of 1681
+Done with Bay: -13.50, LP:  -9.75
+Elapsed time: 1930.700 minutes, iter: 1162 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -9.75
+Elapsed time: 1931.051 minutes, iter: 1163 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -9.75
+Elapsed time: 1931.398 minutes, iter: 1164 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -9.75
+Elapsed time: 1932.201 minutes, iter: 1165 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -9.75
+Elapsed time: 1932.549 minutes, iter: 1166 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -9.75
+Elapsed time: 1932.896 minutes, iter: 1167 out of 1681
+Done with Bay: -12.00, LP:  -9.75
+Elapsed time: 1934.563 minutes, iter: 1168 out of 1681
+Done with Bay: -11.75, LP:  -9.75
+Elapsed time: 1935.752 minutes, iter: 1169 out of 1681
+Done with Bay: -11.50, LP:  -9.75
+Elapsed time: 1937.005 minutes, iter: 1170 out of 1681
+Done with Bay: -11.25, LP:  -9.75
+Elapsed time: 1938.138 minutes, iter: 1171 out of 1681
+Done with Bay: -11.00, LP:  -9.75
+Elapsed time: 1939.633 minutes, iter: 1172 out of 1681
+Done with Bay: -10.75, LP:  -9.75
+Elapsed time: 1940.990 minutes, iter: 1173 out of 1681
+Done with Bay: -10.50, LP:  -9.75
+Elapsed time: 1942.331 minutes, iter: 1174 out of 1681
+Done with Bay: -10.25, LP:  -9.75
+Elapsed time: 1943.798 minutes, iter: 1175 out of 1681
+Done with Bay: -10.00, LP:  -9.75
+Elapsed time: 1944.949 minutes, iter: 1176 out of 1681
+Done with Bay:  -9.75, LP:  -9.75
+Elapsed time: 1946.341 minutes, iter: 1177 out of 1681
+Done with Bay:  -9.50, LP:  -9.75
+Elapsed time: 1947.801 minutes, iter: 1178 out of 1681
+Done with Bay:  -9.25, LP:  -9.75
+Elapsed time: 1948.950 minutes, iter: 1179 out of 1681
+Done with Bay:  -9.00, LP:  -9.75
+Elapsed time: 1950.259 minutes, iter: 1180 out of 1681
+Done with Bay:  -8.75, LP:  -9.75
+Elapsed time: 1951.666 minutes, iter: 1181 out of 1681
+Done with Bay:  -8.50, LP:  -9.75
+Elapsed time: 1953.127 minutes, iter: 1182 out of 1681
+Done with Bay:  -8.25, LP:  -9.75
+Elapsed time: 1954.437 minutes, iter: 1183 out of 1681
+Done with Bay:  -8.00, LP:  -9.75
+Elapsed time: 1955.843 minutes, iter: 1184 out of 1681
+Done with Bay:  -7.75, LP:  -9.75
+Elapsed time: 1957.074 minutes, iter: 1185 out of 1681
+Done with Bay:  -7.50, LP:  -9.75
+Elapsed time: 1958.383 minutes, iter: 1186 out of 1681
+Done with Bay:  -7.25, LP:  -9.75
+Elapsed time: 1959.600 minutes, iter: 1187 out of 1681
+Done with Bay:  -7.00, LP:  -9.75
+Elapsed time: 1960.977 minutes, iter: 1188 out of 1681
+Done with Bay:  -6.75, LP:  -9.75
+Elapsed time: 1962.431 minutes, iter: 1189 out of 1681
+Done with Bay: -16.75, LP:  -9.50
+Elapsed time: 1963.620 minutes, iter: 1190 out of 1681
+Done with Bay: -16.50, LP:  -9.50
+Elapsed time: 1967.803 minutes, iter: 1191 out of 1681
+Done with Bay: -16.25, LP:  -9.50
+Elapsed time: 1968.909 minutes, iter: 1192 out of 1681
+Done with Bay: -16.00, LP:  -9.50
+Elapsed time: 1970.099 minutes, iter: 1193 out of 1681
+Done with Bay: -15.75, LP:  -9.50
+Elapsed time: 1971.118 minutes, iter: 1194 out of 1681
+Done with Bay: -15.50, LP:  -9.50
+Elapsed time: 1972.219 minutes, iter: 1195 out of 1681
+Done with Bay: -15.25, LP:  -9.50
+Elapsed time: 1975.816 minutes, iter: 1196 out of 1681
+Done with Bay: -15.00, LP:  -9.50
+Elapsed time: 1977.097 minutes, iter: 1197 out of 1681
+Done with Bay: -14.75, LP:  -9.50
+Elapsed time: 1981.027 minutes, iter: 1198 out of 1681
+Done with Bay: -14.50, LP:  -9.50
+Elapsed time: 1982.302 minutes, iter: 1199 out of 1681
+Done with Bay: -14.25, LP:  -9.50
+Elapsed time: 1983.584 minutes, iter: 1200 out of 1681
+Done with Bay: -14.00, LP:  -9.50
+Elapsed time: 1984.774 minutes, iter: 1201 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -9.50
+Elapsed time: 1985.475 minutes, iter: 1202 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -9.50
+Elapsed time: 1985.823 minutes, iter: 1203 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -9.50
+Elapsed time: 1986.178 minutes, iter: 1204 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -9.50
+Elapsed time: 1986.526 minutes, iter: 1205 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -9.50
+Elapsed time: 1987.334 minutes, iter: 1206 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -9.50
+Elapsed time: 1987.691 minutes, iter: 1207 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -9.50
+Elapsed time: 1988.042 minutes, iter: 1208 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -9.50
+Elapsed time: 1988.868 minutes, iter: 1209 out of 1681
+Done with Bay: -11.75, LP:  -9.50
+Elapsed time: 1990.068 minutes, iter: 1210 out of 1681
+Done with Bay: -11.50, LP:  -9.50
+Elapsed time: 1991.266 minutes, iter: 1211 out of 1681
+Done with Bay: -11.25, LP:  -9.50
+Elapsed time: 1992.524 minutes, iter: 1212 out of 1681
+Done with Bay: -11.00, LP:  -9.50
+Elapsed time: 1994.155 minutes, iter: 1213 out of 1681
+Done with Bay: -10.75, LP:  -9.50
+Elapsed time: 1995.291 minutes, iter: 1214 out of 1681
+Done with Bay: -10.50, LP:  -9.50
+Elapsed time: 1996.796 minutes, iter: 1215 out of 1681
+Done with Bay: -10.25, LP:  -9.50
+Elapsed time: 1997.992 minutes, iter: 1216 out of 1681
+Done with Bay: -10.00, LP:  -9.50
+Elapsed time: 1999.133 minutes, iter: 1217 out of 1681
+Done with Bay:  -9.75, LP:  -9.50
+Elapsed time: 2000.205 minutes, iter: 1218 out of 1681
+Done with Bay:  -9.50, LP:  -9.50
+Elapsed time: 2001.354 minutes, iter: 1219 out of 1681
+Done with Bay:  -9.25, LP:  -9.50
+Elapsed time: 2002.427 minutes, iter: 1220 out of 1681
+Done with Bay:  -9.00, LP:  -9.50
+Elapsed time: 2003.500 minutes, iter: 1221 out of 1681
+Done with Bay:  -8.75, LP:  -9.50
+Elapsed time: 2004.573 minutes, iter: 1222 out of 1681
+Done with Bay:  -8.50, LP:  -9.50
+Elapsed time: 2005.643 minutes, iter: 1223 out of 1681
+Done with Bay:  -8.25, LP:  -9.50
+Elapsed time: 2006.738 minutes, iter: 1224 out of 1681
+Done with Bay:  -8.00, LP:  -9.50
+Elapsed time: 2007.811 minutes, iter: 1225 out of 1681
+Done with Bay:  -7.75, LP:  -9.50
+Elapsed time: 2008.896 minutes, iter: 1226 out of 1681
+Done with Bay:  -7.50, LP:  -9.50
+Elapsed time: 2009.981 minutes, iter: 1227 out of 1681
+Done with Bay:  -7.25, LP:  -9.50
+Elapsed time: 2011.065 minutes, iter: 1228 out of 1681
+Done with Bay:  -7.00, LP:  -9.50
+Elapsed time: 2012.150 minutes, iter: 1229 out of 1681
+Done with Bay:  -6.75, LP:  -9.50
+Elapsed time: 2013.232 minutes, iter: 1230 out of 1681
+Done with Bay: -16.75, LP:  -9.25
+Elapsed time: 2014.376 minutes, iter: 1231 out of 1681
+Done with Bay: -16.50, LP:  -9.25
+Elapsed time: 2018.559 minutes, iter: 1232 out of 1681
+Done with Bay: -16.25, LP:  -9.25
+Elapsed time: 2019.611 minutes, iter: 1233 out of 1681
+Done with Bay: -16.00, LP:  -9.25
+Elapsed time: 2020.724 minutes, iter: 1234 out of 1681
+Done with Bay: -15.75, LP:  -9.25
+Elapsed time: 2022.010 minutes, iter: 1235 out of 1681
+Done with Bay: -15.50, LP:  -9.25
+Elapsed time: 2023.166 minutes, iter: 1236 out of 1681
+Done with Bay: -15.25, LP:  -9.25
+Elapsed time: 2027.041 minutes, iter: 1237 out of 1681
+Done with Bay: -15.00, LP:  -9.25
+Elapsed time: 2028.122 minutes, iter: 1238 out of 1681
+Done with Bay: -14.75, LP:  -9.25
+Elapsed time: 2031.835 minutes, iter: 1239 out of 1681
+Done with Bay: -14.50, LP:  -9.25
+Elapsed time: 2032.948 minutes, iter: 1240 out of 1681
+Done with Bay: -14.25, LP:  -9.25
+Elapsed time: 2034.028 minutes, iter: 1241 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.00, LP:  -9.25
+Elapsed time: 2034.377 minutes, iter: 1242 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -9.25
+Elapsed time: 2035.053 minutes, iter: 1243 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -9.25
+Elapsed time: 2035.400 minutes, iter: 1244 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -9.25
+Elapsed time: 2035.747 minutes, iter: 1245 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -9.25
+Elapsed time: 2036.095 minutes, iter: 1246 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -9.25
+Elapsed time: 2036.897 minutes, iter: 1247 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -9.25
+Elapsed time: 2037.246 minutes, iter: 1248 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -9.25
+Elapsed time: 2037.593 minutes, iter: 1249 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -9.25
+Elapsed time: 2038.400 minutes, iter: 1250 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.75, LP:  -9.25
+Elapsed time: 2038.746 minutes, iter: 1251 out of 1681
+Done with Bay: -11.50, LP:  -9.25
+Elapsed time: 2039.951 minutes, iter: 1252 out of 1681
+Done with Bay: -11.25, LP:  -9.25
+Elapsed time: 2041.145 minutes, iter: 1253 out of 1681
+Done with Bay: -11.00, LP:  -9.25
+Elapsed time: 2042.777 minutes, iter: 1254 out of 1681
+Done with Bay: -10.75, LP:  -9.25
+Elapsed time: 2044.027 minutes, iter: 1255 out of 1681
+Done with Bay: -10.50, LP:  -9.25
+Elapsed time: 2045.600 minutes, iter: 1256 out of 1681
+Done with Bay: -10.25, LP:  -9.25
+Elapsed time: 2046.731 minutes, iter: 1257 out of 1681
+Done with Bay: -10.00, LP:  -9.25
+Elapsed time: 2047.925 minutes, iter: 1258 out of 1681
+Done with Bay:  -9.75, LP:  -9.25
+Elapsed time: 2049.062 minutes, iter: 1259 out of 1681
+Done with Bay:  -9.50, LP:  -9.25
+Elapsed time: 2050.213 minutes, iter: 1260 out of 1681
+Done with Bay:  -9.25, LP:  -9.25
+Elapsed time: 2051.285 minutes, iter: 1261 out of 1681
+Done with Bay:  -9.00, LP:  -9.25
+Elapsed time: 2052.363 minutes, iter: 1262 out of 1681
+Done with Bay:  -8.75, LP:  -9.25
+Elapsed time: 2053.437 minutes, iter: 1263 out of 1681
+Done with Bay:  -8.50, LP:  -9.25
+Elapsed time: 2054.512 minutes, iter: 1264 out of 1681
+Done with Bay:  -8.25, LP:  -9.25
+Elapsed time: 2055.592 minutes, iter: 1265 out of 1681
+Done with Bay:  -8.00, LP:  -9.25
+Elapsed time: 2056.678 minutes, iter: 1266 out of 1681
+Done with Bay:  -7.75, LP:  -9.25
+Elapsed time: 2057.750 minutes, iter: 1267 out of 1681
+Done with Bay:  -7.50, LP:  -9.25
+Elapsed time: 2058.828 minutes, iter: 1268 out of 1681
+Done with Bay:  -7.25, LP:  -9.25
+Elapsed time: 2059.901 minutes, iter: 1269 out of 1681
+Done with Bay:  -7.00, LP:  -9.25
+Elapsed time: 2060.973 minutes, iter: 1270 out of 1681
+Done with Bay:  -6.75, LP:  -9.25
+Elapsed time: 2062.044 minutes, iter: 1271 out of 1681
+Done with Bay: -16.75, LP:  -9.00
+Elapsed time: 2063.116 minutes, iter: 1272 out of 1681
+Done with Bay: -16.50, LP:  -9.00
+Elapsed time: 2066.774 minutes, iter: 1273 out of 1681
+Done with Bay: -16.25, LP:  -9.00
+Elapsed time: 2067.876 minutes, iter: 1274 out of 1681
+Done with Bay: -16.00, LP:  -9.00
+Elapsed time: 2069.074 minutes, iter: 1275 out of 1681
+Done with Bay: -15.75, LP:  -9.00
+Elapsed time: 2070.089 minutes, iter: 1276 out of 1681
+Done with Bay: -15.50, LP:  -9.00
+Elapsed time: 2071.168 minutes, iter: 1277 out of 1681
+Done with Bay: -15.25, LP:  -9.00
+Elapsed time: 2074.700 minutes, iter: 1278 out of 1681
+Done with Bay: -15.00, LP:  -9.00
+Elapsed time: 2075.813 minutes, iter: 1279 out of 1681
+Done with Bay: -14.75, LP:  -9.00
+Elapsed time: 2079.361 minutes, iter: 1280 out of 1681
+Done with Bay: -14.50, LP:  -9.00
+Elapsed time: 2080.553 minutes, iter: 1281 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327532e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.25, LP:  -9.00
+Elapsed time: 2080.901 minutes, iter: 1282 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.00, LP:  -9.00
+Elapsed time: 2081.249 minutes, iter: 1283 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -9.00
+Elapsed time: 2081.920 minutes, iter: 1284 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -9.00
+Elapsed time: 2082.267 minutes, iter: 1285 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -9.00
+Elapsed time: 2082.615 minutes, iter: 1286 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -9.00
+Elapsed time: 2082.963 minutes, iter: 1287 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -9.00
+Elapsed time: 2083.771 minutes, iter: 1288 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -9.00
+Elapsed time: 2084.119 minutes, iter: 1289 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -9.00
+Elapsed time: 2084.467 minutes, iter: 1290 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -9.00
+Elapsed time: 2085.280 minutes, iter: 1291 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.75, LP:  -9.00
+Elapsed time: 2085.627 minutes, iter: 1292 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.50, LP:  -9.00
+Elapsed time: 2085.975 minutes, iter: 1293 out of 1681
+Done with Bay: -11.25, LP:  -9.00
+Elapsed time: 2087.163 minutes, iter: 1294 out of 1681
+Done with Bay: -11.00, LP:  -9.00
+Elapsed time: 2088.698 minutes, iter: 1295 out of 1681
+Done with Bay: -10.75, LP:  -9.00
+Elapsed time: 2089.958 minutes, iter: 1296 out of 1681
+Done with Bay: -10.50, LP:  -9.00
+Elapsed time: 2091.632 minutes, iter: 1297 out of 1681
+Done with Bay: -10.25, LP:  -9.00
+Elapsed time: 2092.770 minutes, iter: 1298 out of 1681
+Done with Bay: -10.00, LP:  -9.00
+Elapsed time: 2094.033 minutes, iter: 1299 out of 1681
+Done with Bay:  -9.75, LP:  -9.00
+Elapsed time: 2095.372 minutes, iter: 1300 out of 1681
+Done with Bay:  -9.50, LP:  -9.00
+Elapsed time: 2096.737 minutes, iter: 1301 out of 1681
+Done with Bay:  -9.25, LP:  -9.00
+Elapsed time: 2097.967 minutes, iter: 1302 out of 1681
+Done with Bay:  -9.00, LP:  -9.00
+Elapsed time: 2099.214 minutes, iter: 1303 out of 1681
+Done with Bay:  -8.75, LP:  -9.00
+Elapsed time: 2100.450 minutes, iter: 1304 out of 1681
+Done with Bay:  -8.50, LP:  -9.00
+Elapsed time: 2101.827 minutes, iter: 1305 out of 1681
+Done with Bay:  -8.25, LP:  -9.00
+Elapsed time: 2102.903 minutes, iter: 1306 out of 1681
+Done with Bay:  -8.00, LP:  -9.00
+Elapsed time: 2104.210 minutes, iter: 1307 out of 1681
+Done with Bay:  -7.75, LP:  -9.00
+Elapsed time: 2105.477 minutes, iter: 1308 out of 1681
+Done with Bay:  -7.50, LP:  -9.00
+Elapsed time: 2106.716 minutes, iter: 1309 out of 1681
+Done with Bay:  -7.25, LP:  -9.00
+Elapsed time: 2107.951 minutes, iter: 1310 out of 1681
+Done with Bay:  -7.00, LP:  -9.00
+Elapsed time: 2109.104 minutes, iter: 1311 out of 1681
+Done with Bay:  -6.75, LP:  -9.00
+Elapsed time: 2110.335 minutes, iter: 1312 out of 1681
+Done with Bay: -16.75, LP:  -8.75
+Elapsed time: 2111.438 minutes, iter: 1313 out of 1681
+Done with Bay: -16.50, LP:  -8.75
+Elapsed time: 2115.612 minutes, iter: 1314 out of 1681
+Done with Bay: -16.25, LP:  -8.75
+Elapsed time: 2116.713 minutes, iter: 1315 out of 1681
+Done with Bay: -16.00, LP:  -8.75
+Elapsed time: 2117.756 minutes, iter: 1316 out of 1681
+Done with Bay: -15.75, LP:  -8.75
+Elapsed time: 2118.860 minutes, iter: 1317 out of 1681
+Done with Bay: -15.50, LP:  -8.75
+Elapsed time: 2119.965 minutes, iter: 1318 out of 1681
+Done with Bay: -15.25, LP:  -8.75
+Elapsed time: 2123.581 minutes, iter: 1319 out of 1681
+Done with Bay: -15.00, LP:  -8.75
+Elapsed time: 2124.596 minutes, iter: 1320 out of 1681
+Done with Bay: -14.75, LP:  -8.75
+Elapsed time: 2128.510 minutes, iter: 1321 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327530e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.50, LP:  -8.75
+Elapsed time: 2128.858 minutes, iter: 1322 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327532e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.25, LP:  -8.75
+Elapsed time: 2129.207 minutes, iter: 1323 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.00, LP:  -8.75
+Elapsed time: 2129.554 minutes, iter: 1324 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -8.75
+Elapsed time: 2130.226 minutes, iter: 1325 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -8.75
+Elapsed time: 2130.573 minutes, iter: 1326 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -8.75
+Elapsed time: 2130.926 minutes, iter: 1327 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -8.75
+Elapsed time: 2131.273 minutes, iter: 1328 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -8.75
+Elapsed time: 2132.077 minutes, iter: 1329 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -8.75
+Elapsed time: 2132.425 minutes, iter: 1330 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -8.75
+Elapsed time: 2132.773 minutes, iter: 1331 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -8.75
+Elapsed time: 2133.597 minutes, iter: 1332 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.75, LP:  -8.75
+Elapsed time: 2133.943 minutes, iter: 1333 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.50, LP:  -8.75
+Elapsed time: 2134.294 minutes, iter: 1334 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.25, LP:  -8.75
+Elapsed time: 2134.640 minutes, iter: 1335 out of 1681
+Done with Bay: -11.00, LP:  -8.75
+Elapsed time: 2136.184 minutes, iter: 1336 out of 1681
+Done with Bay: -10.75, LP:  -8.75
+Elapsed time: 2137.380 minutes, iter: 1337 out of 1681
+Done with Bay: -10.50, LP:  -8.75
+Elapsed time: 2139.059 minutes, iter: 1338 out of 1681
+Done with Bay: -10.25, LP:  -8.75
+Elapsed time: 2140.306 minutes, iter: 1339 out of 1681
+Done with Bay: -10.00, LP:  -8.75
+Elapsed time: 2141.589 minutes, iter: 1340 out of 1681
+Done with Bay:  -9.75, LP:  -8.75
+Elapsed time: 2143.033 minutes, iter: 1341 out of 1681
+Done with Bay:  -9.50, LP:  -8.75
+Elapsed time: 2144.449 minutes, iter: 1342 out of 1681
+Done with Bay:  -9.25, LP:  -8.75
+Elapsed time: 2145.661 minutes, iter: 1343 out of 1681
+Done with Bay:  -9.00, LP:  -8.75
+Elapsed time: 2146.732 minutes, iter: 1344 out of 1681
+Done with Bay:  -8.75, LP:  -8.75
+Elapsed time: 2147.811 minutes, iter: 1345 out of 1681
+Done with Bay:  -8.50, LP:  -8.75
+Elapsed time: 2148.958 minutes, iter: 1346 out of 1681
+Done with Bay:  -8.25, LP:  -8.75
+Elapsed time: 2150.033 minutes, iter: 1347 out of 1681
+Done with Bay:  -8.00, LP:  -8.75
+Elapsed time: 2151.190 minutes, iter: 1348 out of 1681
+Done with Bay:  -7.75, LP:  -8.75
+Elapsed time: 2152.415 minutes, iter: 1349 out of 1681
+Done with Bay:  -7.50, LP:  -8.75
+Elapsed time: 2153.563 minutes, iter: 1350 out of 1681
+Done with Bay:  -7.25, LP:  -8.75
+Elapsed time: 2154.714 minutes, iter: 1351 out of 1681
+Done with Bay:  -7.00, LP:  -8.75
+Elapsed time: 2155.953 minutes, iter: 1352 out of 1681
+Done with Bay:  -6.75, LP:  -8.75
+Elapsed time: 2157.025 minutes, iter: 1353 out of 1681
+Done with Bay: -16.75, LP:  -8.50
+Elapsed time: 2158.213 minutes, iter: 1354 out of 1681
+Done with Bay: -16.50, LP:  -8.50
+Elapsed time: 2162.098 minutes, iter: 1355 out of 1681
+Done with Bay: -16.25, LP:  -8.50
+Elapsed time: 2163.174 minutes, iter: 1356 out of 1681
+Done with Bay: -16.00, LP:  -8.50
+Elapsed time: 2164.361 minutes, iter: 1357 out of 1681
+Done with Bay: -15.75, LP:  -8.50
+Elapsed time: 2165.467 minutes, iter: 1358 out of 1681
+Done with Bay: -15.50, LP:  -8.50
+Elapsed time: 2166.567 minutes, iter: 1359 out of 1681
+Done with Bay: -15.25, LP:  -8.50
+Elapsed time: 2170.740 minutes, iter: 1360 out of 1681
+Done with Bay: -15.00, LP:  -8.50
+Elapsed time: 2172.051 minutes, iter: 1361 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327528e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.75, LP:  -8.50
+Elapsed time: 2172.937 minutes, iter: 1362 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327530e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.50, LP:  -8.50
+Elapsed time: 2173.296 minutes, iter: 1363 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327532e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.25, LP:  -8.50
+Elapsed time: 2173.651 minutes, iter: 1364 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.00, LP:  -8.50
+Elapsed time: 2174.009 minutes, iter: 1365 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -8.50
+Elapsed time: 2174.759 minutes, iter: 1366 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -8.50
+Elapsed time: 2175.109 minutes, iter: 1367 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -8.50
+Elapsed time: 2175.459 minutes, iter: 1368 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -8.50
+Elapsed time: 2175.817 minutes, iter: 1369 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -8.50
+Elapsed time: 2176.638 minutes, iter: 1370 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -8.50
+Elapsed time: 2176.989 minutes, iter: 1371 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -8.50
+Elapsed time: 2177.341 minutes, iter: 1372 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -8.50
+Elapsed time: 2178.160 minutes, iter: 1373 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.75, LP:  -8.50
+Elapsed time: 2178.518 minutes, iter: 1374 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.50, LP:  -8.50
+Elapsed time: 2178.872 minutes, iter: 1375 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.25, LP:  -8.50
+Elapsed time: 2179.228 minutes, iter: 1376 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.00, LP:  -8.50
+Elapsed time: 2179.936 minutes, iter: 1377 out of 1681
+Done with Bay: -10.75, LP:  -8.50
+Elapsed time: 2181.155 minutes, iter: 1378 out of 1681
+Done with Bay: -10.50, LP:  -8.50
+Elapsed time: 2182.826 minutes, iter: 1379 out of 1681
+Done with Bay: -10.25, LP:  -8.50
+Elapsed time: 2184.109 minutes, iter: 1380 out of 1681
+Done with Bay: -10.00, LP:  -8.50
+Elapsed time: 2185.367 minutes, iter: 1381 out of 1681
+Done with Bay:  -9.75, LP:  -8.50
+Elapsed time: 2186.499 minutes, iter: 1382 out of 1681
+Done with Bay:  -9.50, LP:  -8.50
+Elapsed time: 2187.773 minutes, iter: 1383 out of 1681
+Done with Bay:  -9.25, LP:  -8.50
+Elapsed time: 2188.975 minutes, iter: 1384 out of 1681
+Done with Bay:  -9.00, LP:  -8.50
+Elapsed time: 2190.106 minutes, iter: 1385 out of 1681
+Done with Bay:  -8.75, LP:  -8.50
+Elapsed time: 2191.185 minutes, iter: 1386 out of 1681
+Done with Bay:  -8.50, LP:  -8.50
+Elapsed time: 2192.336 minutes, iter: 1387 out of 1681
+Done with Bay:  -8.25, LP:  -8.50
+Elapsed time: 2193.415 minutes, iter: 1388 out of 1681
+Done with Bay:  -8.00, LP:  -8.50
+Elapsed time: 2194.501 minutes, iter: 1389 out of 1681
+Done with Bay:  -7.75, LP:  -8.50
+Elapsed time: 2195.573 minutes, iter: 1390 out of 1681
+Done with Bay:  -7.50, LP:  -8.50
+Elapsed time: 2196.649 minutes, iter: 1391 out of 1681
+Done with Bay:  -7.25, LP:  -8.50
+Elapsed time: 2197.726 minutes, iter: 1392 out of 1681
+Done with Bay:  -7.00, LP:  -8.50
+Elapsed time: 2198.800 minutes, iter: 1393 out of 1681
+Done with Bay:  -6.75, LP:  -8.50
+Elapsed time: 2199.876 minutes, iter: 1394 out of 1681
+Done with Bay: -16.75, LP:  -8.25
+Elapsed time: 2201.089 minutes, iter: 1395 out of 1681
+Done with Bay: -16.50, LP:  -8.25
+Elapsed time: 2204.660 minutes, iter: 1396 out of 1681
+Done with Bay: -16.25, LP:  -8.25
+Elapsed time: 2205.857 minutes, iter: 1397 out of 1681
+Done with Bay: -16.00, LP:  -8.25
+Elapsed time: 2206.967 minutes, iter: 1398 out of 1681
+Done with Bay: -15.75, LP:  -8.25
+Elapsed time: 2208.075 minutes, iter: 1399 out of 1681
+Done with Bay: -15.50, LP:  -8.25
+Elapsed time: 2209.365 minutes, iter: 1400 out of 1681
+Done with Bay: -15.25, LP:  -8.25
+Elapsed time: 2213.028 minutes, iter: 1401 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327524e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.00, LP:  -8.25
+Elapsed time: 2213.375 minutes, iter: 1402 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327528e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.75, LP:  -8.25
+Elapsed time: 2214.255 minutes, iter: 1403 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327530e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.50, LP:  -8.25
+Elapsed time: 2214.602 minutes, iter: 1404 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327532e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.25, LP:  -8.25
+Elapsed time: 2214.950 minutes, iter: 1405 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.00, LP:  -8.25
+Elapsed time: 2215.297 minutes, iter: 1406 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -8.25
+Elapsed time: 2216.041 minutes, iter: 1407 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -8.25
+Elapsed time: 2216.389 minutes, iter: 1408 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -8.25
+Elapsed time: 2216.735 minutes, iter: 1409 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -8.25
+Elapsed time: 2217.083 minutes, iter: 1410 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -8.25
+Elapsed time: 2217.885 minutes, iter: 1411 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -8.25
+Elapsed time: 2218.233 minutes, iter: 1412 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -8.25
+Elapsed time: 2218.580 minutes, iter: 1413 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -8.25
+Elapsed time: 2219.393 minutes, iter: 1414 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.75, LP:  -8.25
+Elapsed time: 2219.741 minutes, iter: 1415 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.50, LP:  -8.25
+Elapsed time: 2220.088 minutes, iter: 1416 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.25, LP:  -8.25
+Elapsed time: 2220.435 minutes, iter: 1417 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.00, LP:  -8.25
+Elapsed time: 2221.129 minutes, iter: 1418 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.75, LP:  -8.25
+Elapsed time: 2221.482 minutes, iter: 1419 out of 1681
+Done with Bay: -10.50, LP:  -8.25
+Elapsed time: 2223.099 minutes, iter: 1420 out of 1681
+Done with Bay: -10.25, LP:  -8.25
+Elapsed time: 2224.287 minutes, iter: 1421 out of 1681
+Done with Bay: -10.00, LP:  -8.25
+Elapsed time: 2225.540 minutes, iter: 1422 out of 1681
+Done with Bay:  -9.75, LP:  -8.25
+Elapsed time: 2226.793 minutes, iter: 1423 out of 1681
+Done with Bay:  -9.50, LP:  -8.25
+Elapsed time: 2228.001 minutes, iter: 1424 out of 1681
+Done with Bay:  -9.25, LP:  -8.25
+Elapsed time: 2229.196 minutes, iter: 1425 out of 1681
+Done with Bay:  -9.00, LP:  -8.25
+Elapsed time: 2230.385 minutes, iter: 1426 out of 1681
+Done with Bay:  -8.75, LP:  -8.25
+Elapsed time: 2231.524 minutes, iter: 1427 out of 1681
+Done with Bay:  -8.50, LP:  -8.25
+Elapsed time: 2232.681 minutes, iter: 1428 out of 1681
+Done with Bay:  -8.25, LP:  -8.25
+Elapsed time: 2233.764 minutes, iter: 1429 out of 1681
+Done with Bay:  -8.00, LP:  -8.25
+Elapsed time: 2234.842 minutes, iter: 1430 out of 1681
+Done with Bay:  -7.75, LP:  -8.25
+Elapsed time: 2235.919 minutes, iter: 1431 out of 1681
+Done with Bay:  -7.50, LP:  -8.25
+Elapsed time: 2236.996 minutes, iter: 1432 out of 1681
+Done with Bay:  -7.25, LP:  -8.25
+Elapsed time: 2238.083 minutes, iter: 1433 out of 1681
+Done with Bay:  -7.00, LP:  -8.25
+Elapsed time: 2239.159 minutes, iter: 1434 out of 1681
+Done with Bay:  -6.75, LP:  -8.25
+Elapsed time: 2240.237 minutes, iter: 1435 out of 1681
+Done with Bay: -16.75, LP:  -8.00
+Elapsed time: 2241.339 minutes, iter: 1436 out of 1681
+Done with Bay: -16.50, LP:  -8.00
+Elapsed time: 2245.247 minutes, iter: 1437 out of 1681
+Done with Bay: -16.25, LP:  -8.00
+Elapsed time: 2246.442 minutes, iter: 1438 out of 1681
+Done with Bay: -16.00, LP:  -8.00
+Elapsed time: 2247.546 minutes, iter: 1439 out of 1681
+Done with Bay: -15.75, LP:  -8.00
+Elapsed time: 2248.825 minutes, iter: 1440 out of 1681
+Done with Bay: -15.50, LP:  -8.00
+Elapsed time: 2249.926 minutes, iter: 1441 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327518e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.25, LP:  -8.00
+Elapsed time: 2250.855 minutes, iter: 1442 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327524e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.00, LP:  -8.00
+Elapsed time: 2251.205 minutes, iter: 1443 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327528e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.75, LP:  -8.00
+Elapsed time: 2252.095 minutes, iter: 1444 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327530e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.50, LP:  -8.00
+Elapsed time: 2252.447 minutes, iter: 1445 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327532e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.25, LP:  -8.00
+Elapsed time: 2252.799 minutes, iter: 1446 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.00, LP:  -8.00
+Elapsed time: 2253.147 minutes, iter: 1447 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -8.00
+Elapsed time: 2253.888 minutes, iter: 1448 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -8.00
+Elapsed time: 2254.235 minutes, iter: 1449 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -8.00
+Elapsed time: 2254.589 minutes, iter: 1450 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -8.00
+Elapsed time: 2254.950 minutes, iter: 1451 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -8.00
+Elapsed time: 2255.755 minutes, iter: 1452 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -8.00
+Elapsed time: 2256.109 minutes, iter: 1453 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -8.00
+Elapsed time: 2256.458 minutes, iter: 1454 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -8.00
+Elapsed time: 2257.271 minutes, iter: 1455 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.75, LP:  -8.00
+Elapsed time: 2257.621 minutes, iter: 1456 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.50, LP:  -8.00
+Elapsed time: 2257.969 minutes, iter: 1457 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.25, LP:  -8.00
+Elapsed time: 2258.319 minutes, iter: 1458 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.00, LP:  -8.00
+Elapsed time: 2259.009 minutes, iter: 1459 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.75, LP:  -8.00
+Elapsed time: 2259.357 minutes, iter: 1460 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.50, LP:  -8.00
+Elapsed time: 2260.135 minutes, iter: 1461 out of 1681
+Done with Bay: -10.25, LP:  -8.00
+Elapsed time: 2261.323 minutes, iter: 1462 out of 1681
+Done with Bay: -10.00, LP:  -8.00
+Elapsed time: 2262.539 minutes, iter: 1463 out of 1681
+Done with Bay:  -9.75, LP:  -8.00
+Elapsed time: 2263.798 minutes, iter: 1464 out of 1681
+Done with Bay:  -9.50, LP:  -8.00
+Elapsed time: 2265.129 minutes, iter: 1465 out of 1681
+Done with Bay:  -9.25, LP:  -8.00
+Elapsed time: 2266.278 minutes, iter: 1466 out of 1681
+Done with Bay:  -9.00, LP:  -8.00
+Elapsed time: 2267.468 minutes, iter: 1467 out of 1681
+Done with Bay:  -8.75, LP:  -8.00
+Elapsed time: 2268.656 minutes, iter: 1468 out of 1681
+Done with Bay:  -8.50, LP:  -8.00
+Elapsed time: 2269.946 minutes, iter: 1469 out of 1681
+Done with Bay:  -8.25, LP:  -8.00
+Elapsed time: 2271.026 minutes, iter: 1470 out of 1681
+Done with Bay:  -8.00, LP:  -8.00
+Elapsed time: 2272.108 minutes, iter: 1471 out of 1681
+Done with Bay:  -7.75, LP:  -8.00
+Elapsed time: 2273.182 minutes, iter: 1472 out of 1681
+Done with Bay:  -7.50, LP:  -8.00
+Elapsed time: 2274.255 minutes, iter: 1473 out of 1681
+Done with Bay:  -7.25, LP:  -8.00
+Elapsed time: 2275.335 minutes, iter: 1474 out of 1681
+Done with Bay:  -7.00, LP:  -8.00
+Elapsed time: 2276.416 minutes, iter: 1475 out of 1681
+Done with Bay:  -6.75, LP:  -8.00
+Elapsed time: 2277.499 minutes, iter: 1476 out of 1681
+Done with Bay: -16.75, LP:  -7.75
+Elapsed time: 2278.694 minutes, iter: 1477 out of 1681
+Done with Bay: -16.50, LP:  -7.75
+Elapsed time: 2282.567 minutes, iter: 1478 out of 1681
+Done with Bay: -16.25, LP:  -7.75
+Elapsed time: 2283.678 minutes, iter: 1479 out of 1681
+Done with Bay: -16.00, LP:  -7.75
+Elapsed time: 2284.959 minutes, iter: 1480 out of 1681
+Done with Bay: -15.75, LP:  -7.75
+Elapsed time: 2286.066 minutes, iter: 1481 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327508e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.50, LP:  -7.75
+Elapsed time: 2286.413 minutes, iter: 1482 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327518e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.25, LP:  -7.75
+Elapsed time: 2287.347 minutes, iter: 1483 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327524e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.00, LP:  -7.75
+Elapsed time: 2287.698 minutes, iter: 1484 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327528e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.75, LP:  -7.75
+Elapsed time: 2288.580 minutes, iter: 1485 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327530e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.50, LP:  -7.75
+Elapsed time: 2288.929 minutes, iter: 1486 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327532e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.25, LP:  -7.75
+Elapsed time: 2289.278 minutes, iter: 1487 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.00, LP:  -7.75
+Elapsed time: 2289.627 minutes, iter: 1488 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -7.75
+Elapsed time: 2290.368 minutes, iter: 1489 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -7.75
+Elapsed time: 2290.715 minutes, iter: 1490 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -7.75
+Elapsed time: 2291.063 minutes, iter: 1491 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -7.75
+Elapsed time: 2291.411 minutes, iter: 1492 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -7.75
+Elapsed time: 2292.219 minutes, iter: 1493 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -7.75
+Elapsed time: 2292.566 minutes, iter: 1494 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -7.75
+Elapsed time: 2292.921 minutes, iter: 1495 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -7.75
+Elapsed time: 2293.734 minutes, iter: 1496 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.75, LP:  -7.75
+Elapsed time: 2294.083 minutes, iter: 1497 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.50, LP:  -7.75
+Elapsed time: 2294.431 minutes, iter: 1498 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.25, LP:  -7.75
+Elapsed time: 2294.779 minutes, iter: 1499 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.00, LP:  -7.75
+Elapsed time: 2295.476 minutes, iter: 1500 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.75, LP:  -7.75
+Elapsed time: 2295.824 minutes, iter: 1501 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.50, LP:  -7.75
+Elapsed time: 2296.600 minutes, iter: 1502 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.25, LP:  -7.75
+Elapsed time: 2296.949 minutes, iter: 1503 out of 1681
+Done with Bay: -10.00, LP:  -7.75
+Elapsed time: 2298.138 minutes, iter: 1504 out of 1681
+Done with Bay:  -9.75, LP:  -7.75
+Elapsed time: 2299.325 minutes, iter: 1505 out of 1681
+Done with Bay:  -9.50, LP:  -7.75
+Elapsed time: 2300.669 minutes, iter: 1506 out of 1681
+Done with Bay:  -9.25, LP:  -7.75
+Elapsed time: 2301.920 minutes, iter: 1507 out of 1681
+Done with Bay:  -9.00, LP:  -7.75
+Elapsed time: 2303.060 minutes, iter: 1508 out of 1681
+Done with Bay:  -8.75, LP:  -7.75
+Elapsed time: 2304.262 minutes, iter: 1509 out of 1681
+Done with Bay:  -8.50, LP:  -7.75
+Elapsed time: 2305.541 minutes, iter: 1510 out of 1681
+Done with Bay:  -8.25, LP:  -7.75
+Elapsed time: 2306.739 minutes, iter: 1511 out of 1681
+Done with Bay:  -8.00, LP:  -7.75
+Elapsed time: 2307.817 minutes, iter: 1512 out of 1681
+Done with Bay:  -7.75, LP:  -7.75
+Elapsed time: 2308.893 minutes, iter: 1513 out of 1681
+Done with Bay:  -7.50, LP:  -7.75
+Elapsed time: 2309.970 minutes, iter: 1514 out of 1681
+Done with Bay:  -7.25, LP:  -7.75
+Elapsed time: 2311.052 minutes, iter: 1515 out of 1681
+Done with Bay:  -7.00, LP:  -7.75
+Elapsed time: 2312.123 minutes, iter: 1516 out of 1681
+Done with Bay:  -6.75, LP:  -7.75
+Elapsed time: 2313.196 minutes, iter: 1517 out of 1681
+Done with Bay: -16.75, LP:  -7.50
+Elapsed time: 2314.383 minutes, iter: 1518 out of 1681
+Done with Bay: -16.50, LP:  -7.50
+Elapsed time: 2317.967 minutes, iter: 1519 out of 1681
+Done with Bay: -16.25, LP:  -7.50
+Elapsed time: 2319.243 minutes, iter: 1520 out of 1681
+Done with Bay: -16.00, LP:  -7.50
+Elapsed time: 2320.352 minutes, iter: 1521 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327492e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.75, LP:  -7.50
+Elapsed time: 2320.702 minutes, iter: 1522 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327508e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.50, LP:  -7.50
+Elapsed time: 2321.061 minutes, iter: 1523 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327518e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.25, LP:  -7.50
+Elapsed time: 2322.028 minutes, iter: 1524 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327524e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.00, LP:  -7.50
+Elapsed time: 2322.377 minutes, iter: 1525 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327528e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.75, LP:  -7.50
+Elapsed time: 2323.255 minutes, iter: 1526 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327530e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.50, LP:  -7.50
+Elapsed time: 2323.605 minutes, iter: 1527 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327532e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.25, LP:  -7.50
+Elapsed time: 2323.952 minutes, iter: 1528 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.00, LP:  -7.50
+Elapsed time: 2324.303 minutes, iter: 1529 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -7.50
+Elapsed time: 2325.061 minutes, iter: 1530 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -7.50
+Elapsed time: 2325.407 minutes, iter: 1531 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -7.50
+Elapsed time: 2325.766 minutes, iter: 1532 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -7.50
+Elapsed time: 2326.119 minutes, iter: 1533 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -7.50
+Elapsed time: 2326.921 minutes, iter: 1534 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -7.50
+Elapsed time: 2327.268 minutes, iter: 1535 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -7.50
+Elapsed time: 2327.621 minutes, iter: 1536 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -7.50
+Elapsed time: 2328.443 minutes, iter: 1537 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.75, LP:  -7.50
+Elapsed time: 2328.794 minutes, iter: 1538 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.50, LP:  -7.50
+Elapsed time: 2329.148 minutes, iter: 1539 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.25, LP:  -7.50
+Elapsed time: 2329.496 minutes, iter: 1540 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.00, LP:  -7.50
+Elapsed time: 2330.190 minutes, iter: 1541 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.75, LP:  -7.50
+Elapsed time: 2330.538 minutes, iter: 1542 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.50, LP:  -7.50
+Elapsed time: 2331.311 minutes, iter: 1543 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.25, LP:  -7.50
+Elapsed time: 2331.660 minutes, iter: 1544 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.00, LP:  -7.50
+Elapsed time: 2332.007 minutes, iter: 1545 out of 1681
+Done with Bay:  -9.75, LP:  -7.50
+Elapsed time: 2333.197 minutes, iter: 1546 out of 1681
+Done with Bay:  -9.50, LP:  -7.50
+Elapsed time: 2334.459 minutes, iter: 1547 out of 1681
+Done with Bay:  -9.25, LP:  -7.50
+Elapsed time: 2335.705 minutes, iter: 1548 out of 1681
+Done with Bay:  -9.00, LP:  -7.50
+Elapsed time: 2336.956 minutes, iter: 1549 out of 1681
+Done with Bay:  -8.75, LP:  -7.50
+Elapsed time: 2338.103 minutes, iter: 1550 out of 1681
+Done with Bay:  -8.50, LP:  -7.50
+Elapsed time: 2339.365 minutes, iter: 1551 out of 1681
+Done with Bay:  -8.25, LP:  -7.50
+Elapsed time: 2340.555 minutes, iter: 1552 out of 1681
+Done with Bay:  -8.00, LP:  -7.50
+Elapsed time: 2341.751 minutes, iter: 1553 out of 1681
+Done with Bay:  -7.75, LP:  -7.50
+Elapsed time: 2342.836 minutes, iter: 1554 out of 1681
+Done with Bay:  -7.50, LP:  -7.50
+Elapsed time: 2343.916 minutes, iter: 1555 out of 1681
+Done with Bay:  -7.25, LP:  -7.50
+Elapsed time: 2344.990 minutes, iter: 1556 out of 1681
+Done with Bay:  -7.00, LP:  -7.50
+Elapsed time: 2346.066 minutes, iter: 1557 out of 1681
+Done with Bay:  -6.75, LP:  -7.50
+Elapsed time: 2347.149 minutes, iter: 1558 out of 1681
+Done with Bay: -16.75, LP:  -7.25
+Elapsed time: 2348.258 minutes, iter: 1559 out of 1681
+Done with Bay: -16.50, LP:  -7.25
+Elapsed time: 2352.421 minutes, iter: 1560 out of 1681
+Done with Bay: -16.25, LP:  -7.25
+Elapsed time: 2353.525 minutes, iter: 1561 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327468e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -16.00, LP:  -7.25
+Elapsed time: 2353.878 minutes, iter: 1562 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327492e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.75, LP:  -7.25
+Elapsed time: 2354.234 minutes, iter: 1563 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327508e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.50, LP:  -7.25
+Elapsed time: 2354.583 minutes, iter: 1564 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327518e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.25, LP:  -7.25
+Elapsed time: 2355.516 minutes, iter: 1565 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327524e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.00, LP:  -7.25
+Elapsed time: 2355.869 minutes, iter: 1566 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327528e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.75, LP:  -7.25
+Elapsed time: 2356.744 minutes, iter: 1567 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327530e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.50, LP:  -7.25
+Elapsed time: 2357.092 minutes, iter: 1568 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327532e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.25, LP:  -7.25
+Elapsed time: 2357.439 minutes, iter: 1569 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.00, LP:  -7.25
+Elapsed time: 2357.791 minutes, iter: 1570 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -7.25
+Elapsed time: 2358.528 minutes, iter: 1571 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -7.25
+Elapsed time: 2358.883 minutes, iter: 1572 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -7.25
+Elapsed time: 2359.232 minutes, iter: 1573 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -7.25
+Elapsed time: 2359.579 minutes, iter: 1574 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -7.25
+Elapsed time: 2360.391 minutes, iter: 1575 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -7.25
+Elapsed time: 2360.739 minutes, iter: 1576 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -7.25
+Elapsed time: 2361.088 minutes, iter: 1577 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -7.25
+Elapsed time: 2361.920 minutes, iter: 1578 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.75, LP:  -7.25
+Elapsed time: 2362.268 minutes, iter: 1579 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.50, LP:  -7.25
+Elapsed time: 2362.617 minutes, iter: 1580 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.25, LP:  -7.25
+Elapsed time: 2362.968 minutes, iter: 1581 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.00, LP:  -7.25
+Elapsed time: 2363.664 minutes, iter: 1582 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.75, LP:  -7.25
+Elapsed time: 2364.011 minutes, iter: 1583 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.50, LP:  -7.25
+Elapsed time: 2364.778 minutes, iter: 1584 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.25, LP:  -7.25
+Elapsed time: 2365.133 minutes, iter: 1585 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.00, LP:  -7.25
+Elapsed time: 2365.485 minutes, iter: 1586 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -9.75, LP:  -7.25
+Elapsed time: 2365.840 minutes, iter: 1587 out of 1681
+Done with Bay:  -9.50, LP:  -7.25
+Elapsed time: 2367.119 minutes, iter: 1588 out of 1681
+Done with Bay:  -9.25, LP:  -7.25
+Elapsed time: 2368.325 minutes, iter: 1589 out of 1681
+Done with Bay:  -9.00, LP:  -7.25
+Elapsed time: 2369.592 minutes, iter: 1590 out of 1681
+Done with Bay:  -8.75, LP:  -7.25
+Elapsed time: 2370.875 minutes, iter: 1591 out of 1681
+Done with Bay:  -8.50, LP:  -7.25
+Elapsed time: 2372.131 minutes, iter: 1592 out of 1681
+Done with Bay:  -8.25, LP:  -7.25
+Elapsed time: 2373.381 minutes, iter: 1593 out of 1681
+Done with Bay:  -8.00, LP:  -7.25
+Elapsed time: 2374.598 minutes, iter: 1594 out of 1681
+Done with Bay:  -7.75, LP:  -7.25
+Elapsed time: 2375.807 minutes, iter: 1595 out of 1681
+Done with Bay:  -7.50, LP:  -7.25
+Elapsed time: 2376.899 minutes, iter: 1596 out of 1681
+Done with Bay:  -7.25, LP:  -7.25
+Elapsed time: 2377.986 minutes, iter: 1597 out of 1681
+Done with Bay:  -7.00, LP:  -7.25
+Elapsed time: 2379.063 minutes, iter: 1598 out of 1681
+Done with Bay:  -6.75, LP:  -7.25
+Elapsed time: 2380.138 minutes, iter: 1599 out of 1681
+Done with Bay: -16.75, LP:  -7.00
+Elapsed time: 2381.383 minutes, iter: 1600 out of 1681
+Done with Bay: -16.50, LP:  -7.00
+Elapsed time: 2384.993 minutes, iter: 1601 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327428e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -16.25, LP:  -7.00
+Elapsed time: 2385.341 minutes, iter: 1602 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327468e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -16.00, LP:  -7.00
+Elapsed time: 2385.688 minutes, iter: 1603 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327492e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.75, LP:  -7.00
+Elapsed time: 2386.036 minutes, iter: 1604 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327508e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.50, LP:  -7.00
+Elapsed time: 2386.385 minutes, iter: 1605 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327518e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.25, LP:  -7.00
+Elapsed time: 2387.337 minutes, iter: 1606 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327524e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.00, LP:  -7.00
+Elapsed time: 2387.686 minutes, iter: 1607 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327528e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.75, LP:  -7.00
+Elapsed time: 2388.558 minutes, iter: 1608 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327530e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.50, LP:  -7.00
+Elapsed time: 2388.909 minutes, iter: 1609 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327532e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.25, LP:  -7.00
+Elapsed time: 2389.259 minutes, iter: 1610 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.00, LP:  -7.00
+Elapsed time: 2389.612 minutes, iter: 1611 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -7.00
+Elapsed time: 2390.363 minutes, iter: 1612 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -7.00
+Elapsed time: 2390.715 minutes, iter: 1613 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -7.00
+Elapsed time: 2391.068 minutes, iter: 1614 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -7.00
+Elapsed time: 2391.416 minutes, iter: 1615 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -7.00
+Elapsed time: 2392.224 minutes, iter: 1616 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -7.00
+Elapsed time: 2392.572 minutes, iter: 1617 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -7.00
+Elapsed time: 2392.921 minutes, iter: 1618 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -7.00
+Elapsed time: 2393.735 minutes, iter: 1619 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.75, LP:  -7.00
+Elapsed time: 2394.082 minutes, iter: 1620 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.50, LP:  -7.00
+Elapsed time: 2394.431 minutes, iter: 1621 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.25, LP:  -7.00
+Elapsed time: 2394.778 minutes, iter: 1622 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.00, LP:  -7.00
+Elapsed time: 2395.460 minutes, iter: 1623 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.75, LP:  -7.00
+Elapsed time: 2395.814 minutes, iter: 1624 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.50, LP:  -7.00
+Elapsed time: 2396.623 minutes, iter: 1625 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.25, LP:  -7.00
+Elapsed time: 2396.971 minutes, iter: 1626 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.00, LP:  -7.00
+Elapsed time: 2397.318 minutes, iter: 1627 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -9.75, LP:  -7.00
+Elapsed time: 2397.671 minutes, iter: 1628 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -9.50, LP:  -7.00
+Elapsed time: 2398.090 minutes, iter: 1629 out of 1681
+Done with Bay:  -9.25, LP:  -7.00
+Elapsed time: 2399.290 minutes, iter: 1630 out of 1681
+Done with Bay:  -9.00, LP:  -7.00
+Elapsed time: 2400.482 minutes, iter: 1631 out of 1681
+Done with Bay:  -8.75, LP:  -7.00
+Elapsed time: 2401.731 minutes, iter: 1632 out of 1681
+Done with Bay:  -8.50, LP:  -7.00
+Elapsed time: 2403.066 minutes, iter: 1633 out of 1681
+Done with Bay:  -8.25, LP:  -7.00
+Elapsed time: 2404.214 minutes, iter: 1634 out of 1681
+Done with Bay:  -8.00, LP:  -7.00
+Elapsed time: 2405.405 minutes, iter: 1635 out of 1681
+Done with Bay:  -7.75, LP:  -7.00
+Elapsed time: 2406.594 minutes, iter: 1636 out of 1681
+Done with Bay:  -7.50, LP:  -7.00
+Elapsed time: 2407.784 minutes, iter: 1637 out of 1681
+Done with Bay:  -7.25, LP:  -7.00
+Elapsed time: 2408.861 minutes, iter: 1638 out of 1681
+Done with Bay:  -7.00, LP:  -7.00
+Elapsed time: 2409.934 minutes, iter: 1639 out of 1681
+Done with Bay:  -6.75, LP:  -7.00
+Elapsed time: 2411.012 minutes, iter: 1640 out of 1681
+Done with Bay: -16.75, LP:  -6.75
+Elapsed time: 2412.084 minutes, iter: 1641 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327366e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -16.50, LP:  -6.75
+Elapsed time: 2413.079 minutes, iter: 1642 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327428e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -16.25, LP:  -6.75
+Elapsed time: 2413.431 minutes, iter: 1643 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327468e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -16.00, LP:  -6.75
+Elapsed time: 2413.781 minutes, iter: 1644 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327492e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.75, LP:  -6.75
+Elapsed time: 2414.129 minutes, iter: 1645 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327508e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.50, LP:  -6.75
+Elapsed time: 2414.478 minutes, iter: 1646 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327518e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.25, LP:  -6.75
+Elapsed time: 2415.444 minutes, iter: 1647 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327524e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -15.00, LP:  -6.75
+Elapsed time: 2415.791 minutes, iter: 1648 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327528e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.75, LP:  -6.75
+Elapsed time: 2416.663 minutes, iter: 1649 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327530e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.50, LP:  -6.75
+Elapsed time: 2417.011 minutes, iter: 1650 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327532e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.25, LP:  -6.75
+Elapsed time: 2417.358 minutes, iter: 1651 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -14.00, LP:  -6.75
+Elapsed time: 2417.707 minutes, iter: 1652 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327533e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.75, LP:  -6.75
+Elapsed time: 2418.445 minutes, iter: 1653 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.50, LP:  -6.75
+Elapsed time: 2418.793 minutes, iter: 1654 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.25, LP:  -6.75
+Elapsed time: 2419.145 minutes, iter: 1655 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP:  -6.75
+Elapsed time: 2419.494 minutes, iter: 1656 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.75, LP:  -6.75
+Elapsed time: 2420.307 minutes, iter: 1657 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP:  -6.75
+Elapsed time: 2420.655 minutes, iter: 1658 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.25, LP:  -6.75
+Elapsed time: 2421.003 minutes, iter: 1659 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.00, LP:  -6.75
+Elapsed time: 2421.820 minutes, iter: 1660 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.75, LP:  -6.75
+Elapsed time: 2422.173 minutes, iter: 1661 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.50, LP:  -6.75
+Elapsed time: 2422.526 minutes, iter: 1662 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.25, LP:  -6.75
+Elapsed time: 2422.873 minutes, iter: 1663 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -11.00, LP:  -6.75
+Elapsed time: 2423.605 minutes, iter: 1664 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.75, LP:  -6.75
+Elapsed time: 2423.953 minutes, iter: 1665 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.50, LP:  -6.75
+Elapsed time: 2424.797 minutes, iter: 1666 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.25, LP:  -6.75
+Elapsed time: 2425.145 minutes, iter: 1667 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -10.00, LP:  -6.75
+Elapsed time: 2425.493 minutes, iter: 1668 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -9.75, LP:  -6.75
+Elapsed time: 2425.841 minutes, iter: 1669 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -9.50, LP:  -6.75
+Elapsed time: 2426.267 minutes, iter: 1670 out of 1681
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327535e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay:  -9.25, LP:  -6.75
+Elapsed time: 2426.615 minutes, iter: 1671 out of 1681
+Done with Bay:  -9.00, LP:  -6.75
+Elapsed time: 2427.803 minutes, iter: 1672 out of 1681
+Done with Bay:  -8.75, LP:  -6.75
+Elapsed time: 2428.998 minutes, iter: 1673 out of 1681
+Done with Bay:  -8.50, LP:  -6.75
+Elapsed time: 2430.320 minutes, iter: 1674 out of 1681
+Done with Bay:  -8.25, LP:  -6.75
+Elapsed time: 2431.566 minutes, iter: 1675 out of 1681
+Done with Bay:  -8.00, LP:  -6.75
+Elapsed time: 2432.697 minutes, iter: 1676 out of 1681
+Done with Bay:  -7.75, LP:  -6.75
+Elapsed time: 2433.886 minutes, iter: 1677 out of 1681
+Done with Bay:  -7.50, LP:  -6.75
+Elapsed time: 2435.075 minutes, iter: 1678 out of 1681
+Done with Bay:  -7.25, LP:  -6.75
+Elapsed time: 2436.269 minutes, iter: 1679 out of 1681
+Done with Bay:  -7.00, LP:  -6.75
+Elapsed time: 2437.362 minutes, iter: 1680 out of 1681
+Done with Bay:  -6.75, LP:  -6.75
+Elapsed time: 2438.438 minutes, iter: 1681 out of 1681
+Total time: 2438.44 minutes
+>> 
