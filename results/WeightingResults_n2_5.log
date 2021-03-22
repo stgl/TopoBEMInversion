@@ -1,0 +1,1976 @@
+n=2.5 logSig Bay and LP -13:0.1:-10
+Done with Bay: -13.00, LP: -13.00
+Elapsed time:  1.325 minutes, iter: 1 out of 961
+Done with Bay: -12.90, LP: -13.00
+Elapsed time:  2.670 minutes, iter: 2 out of 961
+Done with Bay: -12.80, LP: -13.00
+Elapsed time:  4.424 minutes, iter: 3 out of 961
+Done with Bay: -12.70, LP: -13.00
+Elapsed time:  6.298 minutes, iter: 4 out of 961
+Done with Bay: -12.60, LP: -13.00
+Elapsed time:  7.443 minutes, iter: 5 out of 961
+Done with Bay: -12.50, LP: -13.00
+Elapsed time:  8.526 minutes, iter: 6 out of 961
+Done with Bay: -12.40, LP: -13.00
+Elapsed time:  9.759 minutes, iter: 7 out of 961
+Done with Bay: -12.30, LP: -13.00
+Elapsed time: 10.881 minutes, iter: 8 out of 961
+Done with Bay: -12.20, LP: -13.00
+Elapsed time: 12.423 minutes, iter: 9 out of 961
+Done with Bay: -12.10, LP: -13.00
+Elapsed time: 13.795 minutes, iter: 10 out of 961
+Done with Bay: -12.00, LP: -13.00
+Elapsed time: 15.236 minutes, iter: 11 out of 961
+Done with Bay: -11.90, LP: -13.00
+Elapsed time: 16.515 minutes, iter: 12 out of 961
+Done with Bay: -11.80, LP: -13.00
+Elapsed time: 17.587 minutes, iter: 13 out of 961
+Done with Bay: -11.70, LP: -13.00
+Elapsed time: 18.752 minutes, iter: 14 out of 961
+Done with Bay: -11.60, LP: -13.00
+Elapsed time: 19.860 minutes, iter: 15 out of 961
+Done with Bay: -11.50, LP: -13.00
+Elapsed time: 21.077 minutes, iter: 16 out of 961
+Done with Bay: -11.40, LP: -13.00
+Elapsed time: 22.159 minutes, iter: 17 out of 961
+Done with Bay: -11.30, LP: -13.00
+Elapsed time: 23.347 minutes, iter: 18 out of 961
+Done with Bay: -11.20, LP: -13.00
+Elapsed time: 24.427 minutes, iter: 19 out of 961
+Done with Bay: -11.10, LP: -13.00
+Elapsed time: 25.618 minutes, iter: 20 out of 961
+Done with Bay: -11.00, LP: -13.00
+Elapsed time: 26.722 minutes, iter: 21 out of 961
+Done with Bay: -10.90, LP: -13.00
+Elapsed time: 27.827 minutes, iter: 22 out of 961
+Done with Bay: -10.80, LP: -13.00
+Elapsed time: 28.903 minutes, iter: 23 out of 961
+Done with Bay: -10.70, LP: -13.00
+Elapsed time: 30.003 minutes, iter: 24 out of 961
+Done with Bay: -10.60, LP: -13.00
+Elapsed time: 31.074 minutes, iter: 25 out of 961
+Done with Bay: -10.50, LP: -13.00
+Elapsed time: 32.154 minutes, iter: 26 out of 961
+Done with Bay: -10.40, LP: -13.00
+Elapsed time: 33.256 minutes, iter: 27 out of 961
+Done with Bay: -10.30, LP: -13.00
+Elapsed time: 34.364 minutes, iter: 28 out of 961
+Done with Bay: -10.20, LP: -13.00
+Elapsed time: 35.451 minutes, iter: 29 out of 961
+Done with Bay: -10.10, LP: -13.00
+Elapsed time: 36.530 minutes, iter: 30 out of 961
+Done with Bay: -10.00, LP: -13.00
+Elapsed time: 37.607 minutes, iter: 31 out of 961
+Done with Bay: -13.00, LP: -12.90
+Elapsed time: 38.918 minutes, iter: 32 out of 961
+Done with Bay: -12.90, LP: -12.90
+Elapsed time: 40.215 minutes, iter: 33 out of 961
+Done with Bay: -12.80, LP: -12.90
+Elapsed time: 42.159 minutes, iter: 34 out of 961
+Done with Bay: -12.70, LP: -12.90
+Elapsed time: 44.041 minutes, iter: 35 out of 961
+Done with Bay: -12.60, LP: -12.90
+Elapsed time: 45.179 minutes, iter: 36 out of 961
+Done with Bay: -12.50, LP: -12.90
+Elapsed time: 46.292 minutes, iter: 37 out of 961
+Done with Bay: -12.40, LP: -12.90
+Elapsed time: 47.520 minutes, iter: 38 out of 961
+Done with Bay: -12.30, LP: -12.90
+Elapsed time: 48.662 minutes, iter: 39 out of 961
+Done with Bay: -12.20, LP: -12.90
+Elapsed time: 50.187 minutes, iter: 40 out of 961
+Done with Bay: -12.10, LP: -12.90
+Elapsed time: 51.556 minutes, iter: 41 out of 961
+Done with Bay: -12.00, LP: -12.90
+Elapsed time: 53.013 minutes, iter: 42 out of 961
+Done with Bay: -11.90, LP: -12.90
+Elapsed time: 54.182 minutes, iter: 43 out of 961
+Done with Bay: -11.80, LP: -12.90
+Elapsed time: 55.376 minutes, iter: 44 out of 961
+Done with Bay: -11.70, LP: -12.90
+Elapsed time: 56.515 minutes, iter: 45 out of 961
+Done with Bay: -11.60, LP: -12.90
+Elapsed time: 57.677 minutes, iter: 46 out of 961
+Done with Bay: -11.50, LP: -12.90
+Elapsed time: 58.846 minutes, iter: 47 out of 961
+Done with Bay: -11.40, LP: -12.90
+Elapsed time: 60.042 minutes, iter: 48 out of 961
+Done with Bay: -11.30, LP: -12.90
+Elapsed time: 61.183 minutes, iter: 49 out of 961
+Done with Bay: -11.20, LP: -12.90
+Elapsed time: 62.259 minutes, iter: 50 out of 961
+Done with Bay: -11.10, LP: -12.90
+Elapsed time: 63.423 minutes, iter: 51 out of 961
+Done with Bay: -11.00, LP: -12.90
+Elapsed time: 64.567 minutes, iter: 52 out of 961
+Done with Bay: -10.90, LP: -12.90
+Elapsed time: 65.731 minutes, iter: 53 out of 961
+Done with Bay: -10.80, LP: -12.90
+Elapsed time: 66.808 minutes, iter: 54 out of 961
+Done with Bay: -10.70, LP: -12.90
+Elapsed time: 67.887 minutes, iter: 55 out of 961
+Done with Bay: -10.60, LP: -12.90
+Elapsed time: 69.076 minutes, iter: 56 out of 961
+Done with Bay: -10.50, LP: -12.90
+Elapsed time: 70.159 minutes, iter: 57 out of 961
+Done with Bay: -10.40, LP: -12.90
+Elapsed time: 71.244 minutes, iter: 58 out of 961
+Done with Bay: -10.30, LP: -12.90
+Elapsed time: 72.322 minutes, iter: 59 out of 961
+Done with Bay: -10.20, LP: -12.90
+Elapsed time: 73.405 minutes, iter: 60 out of 961
+Done with Bay: -10.10, LP: -12.90
+Elapsed time: 74.483 minutes, iter: 61 out of 961
+Done with Bay: -10.00, LP: -12.90
+Elapsed time: 75.567 minutes, iter: 62 out of 961
+Done with Bay: -13.00, LP: -12.80
+Elapsed time: 78.127 minutes, iter: 63 out of 961
+Done with Bay: -12.90, LP: -12.80
+Elapsed time: 80.218 minutes, iter: 64 out of 961
+Done with Bay: -12.80, LP: -12.80
+Elapsed time: 84.391 minutes, iter: 65 out of 961
+Done with Bay: -12.70, LP: -12.80
+Elapsed time: 87.839 minutes, iter: 66 out of 961
+Done with Bay: -12.60, LP: -12.80
+Elapsed time: 90.797 minutes, iter: 67 out of 961
+Done with Bay: -12.50, LP: -12.80
+Elapsed time: 93.649 minutes, iter: 68 out of 961
+Done with Bay: -12.40, LP: -12.80
+Elapsed time: 96.846 minutes, iter: 69 out of 961
+Done with Bay: -12.30, LP: -12.80
+Elapsed time: 100.159 minutes, iter: 70 out of 961
+Done with Bay: -12.20, LP: -12.80
+Elapsed time: 103.664 minutes, iter: 71 out of 961
+Done with Bay: -12.10, LP: -12.80
+Elapsed time: 107.873 minutes, iter: 72 out of 961
+Done with Bay: -12.00, LP: -12.80
+Elapsed time: 111.100 minutes, iter: 73 out of 961
+Done with Bay: -11.90, LP: -12.80
+Elapsed time: 115.059 minutes, iter: 74 out of 961
+Done with Bay: -11.80, LP: -12.80
+Elapsed time: 118.834 minutes, iter: 75 out of 961
+Done with Bay: -11.70, LP: -12.80
+Elapsed time: 122.396 minutes, iter: 76 out of 961
+Done with Bay: -11.60, LP: -12.80
+Elapsed time: 125.961 minutes, iter: 77 out of 961
+Done with Bay: -11.50, LP: -12.80
+Elapsed time: 129.157 minutes, iter: 78 out of 961
+Done with Bay: -11.40, LP: -12.80
+Elapsed time: 132.822 minutes, iter: 79 out of 961
+Done with Bay: -11.30, LP: -12.80
+Elapsed time: 136.686 minutes, iter: 80 out of 961
+Done with Bay: -11.20, LP: -12.80
+Elapsed time: 140.438 minutes, iter: 81 out of 961
+Done with Bay: -11.10, LP: -12.80
+Elapsed time: 143.777 minutes, iter: 82 out of 961
+Done with Bay: -11.00, LP: -12.80
+Elapsed time: 147.027 minutes, iter: 83 out of 961
+Done with Bay: -10.90, LP: -12.80
+Elapsed time: 150.371 minutes, iter: 84 out of 961
+Done with Bay: -10.80, LP: -12.80
+Elapsed time: 153.719 minutes, iter: 85 out of 961
+Done with Bay: -10.70, LP: -12.80
+Elapsed time: 157.036 minutes, iter: 86 out of 961
+Done with Bay: -10.60, LP: -12.80
+Elapsed time: 160.364 minutes, iter: 87 out of 961
+Done with Bay: -10.50, LP: -12.80
+Elapsed time: 163.813 minutes, iter: 88 out of 961
+Done with Bay: -10.40, LP: -12.80
+Elapsed time: 167.234 minutes, iter: 89 out of 961
+Done with Bay: -10.30, LP: -12.80
+Elapsed time: 170.766 minutes, iter: 90 out of 961
+Done with Bay: -10.20, LP: -12.80
+Elapsed time: 174.051 minutes, iter: 91 out of 961
+Done with Bay: -10.10, LP: -12.80
+Elapsed time: 177.192 minutes, iter: 92 out of 961
+Done with Bay: -10.00, LP: -12.80
+Elapsed time: 180.398 minutes, iter: 93 out of 961
+Done with Bay: -13.00, LP: -12.70
+Elapsed time: 182.195 minutes, iter: 94 out of 961
+Done with Bay: -12.90, LP: -12.70
+Elapsed time: 184.274 minutes, iter: 95 out of 961
+Done with Bay: -12.80, LP: -12.70
+Elapsed time: 188.493 minutes, iter: 96 out of 961
+Done with Bay: -12.70, LP: -12.70
+Elapsed time: 192.572 minutes, iter: 97 out of 961
+Done with Bay: -12.60, LP: -12.70
+Elapsed time: 196.414 minutes, iter: 98 out of 961
+Done with Bay: -12.50, LP: -12.70
+Elapsed time: 199.998 minutes, iter: 99 out of 961
+Done with Bay: -12.40, LP: -12.70
+Elapsed time: 203.987 minutes, iter: 100 out of 961
+Done with Bay: -12.30, LP: -12.70
+Elapsed time: 208.030 minutes, iter: 101 out of 961
+Done with Bay: -12.20, LP: -12.70
+Elapsed time: 212.064 minutes, iter: 102 out of 961
+Done with Bay: -12.10, LP: -12.70
+Elapsed time: 215.519 minutes, iter: 103 out of 961
+Done with Bay: -12.00, LP: -12.70
+Elapsed time: 219.103 minutes, iter: 104 out of 961
+Done with Bay: -11.90, LP: -12.70
+Elapsed time: 222.485 minutes, iter: 105 out of 961
+Done with Bay: -11.80, LP: -12.70
+Elapsed time: 226.127 minutes, iter: 106 out of 961
+Done with Bay: -11.70, LP: -12.70
+Elapsed time: 229.665 minutes, iter: 107 out of 961
+Done with Bay: -11.60, LP: -12.70
+Elapsed time: 233.469 minutes, iter: 108 out of 961
+Done with Bay: -11.50, LP: -12.70
+Elapsed time: 237.410 minutes, iter: 109 out of 961
+Done with Bay: -11.40, LP: -12.70
+Elapsed time: 241.006 minutes, iter: 110 out of 961
+Done with Bay: -11.30, LP: -12.70
+Elapsed time: 245.185 minutes, iter: 111 out of 961
+Done with Bay: -11.20, LP: -12.70
+Elapsed time: 249.186 minutes, iter: 112 out of 961
+Done with Bay: -11.10, LP: -12.70
+Elapsed time: 252.799 minutes, iter: 113 out of 961
+Done with Bay: -11.00, LP: -12.70
+Elapsed time: 256.314 minutes, iter: 114 out of 961
+Done with Bay: -10.90, LP: -12.70
+Elapsed time: 259.524 minutes, iter: 115 out of 961
+Done with Bay: -10.80, LP: -12.70
+Elapsed time: 262.886 minutes, iter: 116 out of 961
+Done with Bay: -10.70, LP: -12.70
+Elapsed time: 266.449 minutes, iter: 117 out of 961
+Done with Bay: -10.60, LP: -12.70
+Elapsed time: 269.950 minutes, iter: 118 out of 961
+Done with Bay: -10.50, LP: -12.70
+Elapsed time: 273.525 minutes, iter: 119 out of 961
+Done with Bay: -10.40, LP: -12.70
+Elapsed time: 277.092 minutes, iter: 120 out of 961
+Done with Bay: -10.30, LP: -12.70
+Elapsed time: 280.474 minutes, iter: 121 out of 961
+Done with Bay: -10.20, LP: -12.70
+Elapsed time: 283.791 minutes, iter: 122 out of 961
+Done with Bay: -10.10, LP: -12.70
+Elapsed time: 287.113 minutes, iter: 123 out of 961
+Done with Bay: -10.00, LP: -12.70
+Elapsed time: 290.430 minutes, iter: 124 out of 961
+Done with Bay: -13.00, LP: -12.60
+Elapsed time: 291.481 minutes, iter: 125 out of 961
+Done with Bay: -12.90, LP: -12.60
+Elapsed time: 293.582 minutes, iter: 126 out of 961
+Done with Bay: -12.80, LP: -12.60
+Elapsed time: 296.510 minutes, iter: 127 out of 961
+Done with Bay: -12.70, LP: -12.60
+Elapsed time: 298.658 minutes, iter: 128 out of 961
+Done with Bay: -12.60, LP: -12.60
+Elapsed time: 299.975 minutes, iter: 129 out of 961
+Done with Bay: -12.50, LP: -12.60
+Elapsed time: 301.125 minutes, iter: 130 out of 961
+Done with Bay: -12.40, LP: -12.60
+Elapsed time: 302.341 minutes, iter: 131 out of 961
+Done with Bay: -12.30, LP: -12.60
+Elapsed time: 303.664 minutes, iter: 132 out of 961
+Done with Bay: -12.20, LP: -12.60
+Elapsed time: 305.597 minutes, iter: 133 out of 961
+Done with Bay: -12.10, LP: -12.60
+Elapsed time: 307.281 minutes, iter: 134 out of 961
+Done with Bay: -12.00, LP: -12.60
+Elapsed time: 309.227 minutes, iter: 135 out of 961
+Done with Bay: -11.90, LP: -12.60
+Elapsed time: 310.565 minutes, iter: 136 out of 961
+Done with Bay: -11.80, LP: -12.60
+Elapsed time: 311.913 minutes, iter: 137 out of 961
+Done with Bay: -11.70, LP: -12.60
+Elapsed time: 313.264 minutes, iter: 138 out of 961
+Done with Bay: -11.60, LP: -12.60
+Elapsed time: 314.498 minutes, iter: 139 out of 961
+Done with Bay: -11.50, LP: -12.60
+Elapsed time: 315.636 minutes, iter: 140 out of 961
+Done with Bay: -11.40, LP: -12.60
+Elapsed time: 316.794 minutes, iter: 141 out of 961
+Done with Bay: -11.30, LP: -12.60
+Elapsed time: 317.992 minutes, iter: 142 out of 961
+Done with Bay: -11.20, LP: -12.60
+Elapsed time: 319.185 minutes, iter: 143 out of 961
+Done with Bay: -11.10, LP: -12.60
+Elapsed time: 320.300 minutes, iter: 144 out of 961
+Done with Bay: -11.00, LP: -12.60
+Elapsed time: 321.477 minutes, iter: 145 out of 961
+Done with Bay: -10.90, LP: -12.60
+Elapsed time: 322.562 minutes, iter: 146 out of 961
+Done with Bay: -10.80, LP: -12.60
+Elapsed time: 323.642 minutes, iter: 147 out of 961
+Done with Bay: -10.70, LP: -12.60
+Elapsed time: 324.739 minutes, iter: 148 out of 961
+Done with Bay: -10.60, LP: -12.60
+Elapsed time: 325.915 minutes, iter: 149 out of 961
+Done with Bay: -10.50, LP: -12.60
+Elapsed time: 327.000 minutes, iter: 150 out of 961
+Done with Bay: -10.40, LP: -12.60
+Elapsed time: 328.085 minutes, iter: 151 out of 961
+Done with Bay: -10.30, LP: -12.60
+Elapsed time: 329.171 minutes, iter: 152 out of 961
+Done with Bay: -10.20, LP: -12.60
+Elapsed time: 330.249 minutes, iter: 153 out of 961
+Done with Bay: -10.10, LP: -12.60
+Elapsed time: 331.325 minutes, iter: 154 out of 961
+Done with Bay: -10.00, LP: -12.60
+Elapsed time: 332.403 minutes, iter: 155 out of 961
+Done with Bay: -13.00, LP: -12.50
+Elapsed time: 334.271 minutes, iter: 156 out of 961
+Done with Bay: -12.90, LP: -12.50
+Elapsed time: 338.055 minutes, iter: 157 out of 961
+Done with Bay: -12.80, LP: -12.50
+Elapsed time: 339.552 minutes, iter: 158 out of 961
+Done with Bay: -12.70, LP: -12.50
+Elapsed time: 340.823 minutes, iter: 159 out of 961
+Done with Bay: -12.60, LP: -12.50
+Elapsed time: 344.252 minutes, iter: 160 out of 961
+Done with Bay: -12.50, LP: -12.50
+Elapsed time: 347.072 minutes, iter: 161 out of 961
+Done with Bay: -12.40, LP: -12.50
+Elapsed time: 350.618 minutes, iter: 162 out of 961
+Done with Bay: -12.30, LP: -12.50
+Elapsed time: 353.302 minutes, iter: 163 out of 961
+Done with Bay: -12.20, LP: -12.50
+Elapsed time: 355.352 minutes, iter: 164 out of 961
+Done with Bay: -12.10, LP: -12.50
+Elapsed time: 358.229 minutes, iter: 165 out of 961
+Done with Bay: -12.00, LP: -12.50
+Elapsed time: 361.204 minutes, iter: 166 out of 961
+Done with Bay: -11.90, LP: -12.50
+Elapsed time: 363.828 minutes, iter: 167 out of 961
+Done with Bay: -11.80, LP: -12.50
+Elapsed time: 366.683 minutes, iter: 168 out of 961
+Done with Bay: -11.70, LP: -12.50
+Elapsed time: 369.616 minutes, iter: 169 out of 961
+Done with Bay: -11.60, LP: -12.50
+Elapsed time: 372.288 minutes, iter: 170 out of 961
+Done with Bay: -11.50, LP: -12.50
+Elapsed time: 375.134 minutes, iter: 171 out of 961
+Done with Bay: -11.40, LP: -12.50
+Elapsed time: 377.580 minutes, iter: 172 out of 961
+Done with Bay: -11.30, LP: -12.50
+Elapsed time: 380.166 minutes, iter: 173 out of 961
+Done with Bay: -11.20, LP: -12.50
+Elapsed time: 382.758 minutes, iter: 174 out of 961
+Done with Bay: -11.10, LP: -12.50
+Elapsed time: 385.405 minutes, iter: 175 out of 961
+Done with Bay: -11.00, LP: -12.50
+Elapsed time: 388.398 minutes, iter: 176 out of 961
+Done with Bay: -10.90, LP: -12.50
+Elapsed time: 391.032 minutes, iter: 177 out of 961
+Done with Bay: -10.80, LP: -12.50
+Elapsed time: 393.789 minutes, iter: 178 out of 961
+Done with Bay: -10.70, LP: -12.50
+Elapsed time: 396.524 minutes, iter: 179 out of 961
+Done with Bay: -10.60, LP: -12.50
+Elapsed time: 399.137 minutes, iter: 180 out of 961
+Done with Bay: -10.50, LP: -12.50
+Elapsed time: 401.870 minutes, iter: 181 out of 961
+Done with Bay: -10.40, LP: -12.50
+Elapsed time: 404.215 minutes, iter: 182 out of 961
+Done with Bay: -10.30, LP: -12.50
+Elapsed time: 406.885 minutes, iter: 183 out of 961
+Done with Bay: -10.20, LP: -12.50
+Elapsed time: 409.372 minutes, iter: 184 out of 961
+Done with Bay: -10.10, LP: -12.50
+Elapsed time: 411.782 minutes, iter: 185 out of 961
+Done with Bay: -10.00, LP: -12.50
+Elapsed time: 414.129 minutes, iter: 186 out of 961
+Done with Bay: -13.00, LP: -12.40
+Elapsed time: 416.774 minutes, iter: 187 out of 961
+Done with Bay: -12.90, LP: -12.40
+Elapsed time: 420.913 minutes, iter: 188 out of 961
+Done with Bay: -12.80, LP: -12.40
+Elapsed time: 422.097 minutes, iter: 189 out of 961
+Done with Bay: -12.70, LP: -12.40
+Elapsed time: 423.664 minutes, iter: 190 out of 961
+Done with Bay: -12.60, LP: -12.40
+Elapsed time: 426.842 minutes, iter: 191 out of 961
+Done with Bay: -12.50, LP: -12.40
+Elapsed time: 429.797 minutes, iter: 192 out of 961
+Done with Bay: -12.40, LP: -12.40
+Elapsed time: 432.196 minutes, iter: 193 out of 961
+Done with Bay: -12.30, LP: -12.40
+Elapsed time: 434.847 minutes, iter: 194 out of 961
+Done with Bay: -12.20, LP: -12.40
+Elapsed time: 437.088 minutes, iter: 195 out of 961
+Done with Bay: -12.10, LP: -12.40
+Elapsed time: 440.035 minutes, iter: 196 out of 961
+Done with Bay: -12.00, LP: -12.40
+Elapsed time: 443.146 minutes, iter: 197 out of 961
+Done with Bay: -11.90, LP: -12.40
+Elapsed time: 445.696 minutes, iter: 198 out of 961
+Done with Bay: -11.80, LP: -12.40
+Elapsed time: 448.987 minutes, iter: 199 out of 961
+Done with Bay: -11.70, LP: -12.40
+Elapsed time: 451.854 minutes, iter: 200 out of 961
+Done with Bay: -11.60, LP: -12.40
+Elapsed time: 455.288 minutes, iter: 201 out of 961
+Done with Bay: -11.50, LP: -12.40
+Elapsed time: 458.262 minutes, iter: 202 out of 961
+Done with Bay: -11.40, LP: -12.40
+Elapsed time: 461.626 minutes, iter: 203 out of 961
+Done with Bay: -11.30, LP: -12.40
+Elapsed time: 464.383 minutes, iter: 204 out of 961
+Done with Bay: -11.20, LP: -12.40
+Elapsed time: 467.280 minutes, iter: 205 out of 961
+Done with Bay: -11.10, LP: -12.40
+Elapsed time: 470.212 minutes, iter: 206 out of 961
+Done with Bay: -11.00, LP: -12.40
+Elapsed time: 473.295 minutes, iter: 207 out of 961
+Done with Bay: -10.90, LP: -12.40
+Elapsed time: 476.118 minutes, iter: 208 out of 961
+Done with Bay: -10.80, LP: -12.40
+Elapsed time: 478.716 minutes, iter: 209 out of 961
+Done with Bay: -10.70, LP: -12.40
+Elapsed time: 481.113 minutes, iter: 210 out of 961
+Done with Bay: -10.60, LP: -12.40
+Elapsed time: 483.630 minutes, iter: 211 out of 961
+Done with Bay: -10.50, LP: -12.40
+Elapsed time: 486.446 minutes, iter: 212 out of 961
+Done with Bay: -10.40, LP: -12.40
+Elapsed time: 489.409 minutes, iter: 213 out of 961
+Done with Bay: -10.30, LP: -12.40
+Elapsed time: 492.570 minutes, iter: 214 out of 961
+Done with Bay: -10.20, LP: -12.40
+Elapsed time: 495.135 minutes, iter: 215 out of 961
+Done with Bay: -10.10, LP: -12.40
+Elapsed time: 497.839 minutes, iter: 216 out of 961
+Done with Bay: -10.00, LP: -12.40
+Elapsed time: 500.340 minutes, iter: 217 out of 961
+Done with Bay: -13.00, LP: -12.30
+Elapsed time: 502.906 minutes, iter: 218 out of 961
+Done with Bay: -12.90, LP: -12.30
+Elapsed time: 506.107 minutes, iter: 219 out of 961
+Done with Bay: -12.80, LP: -12.30
+Elapsed time: 507.547 minutes, iter: 220 out of 961
+Done with Bay: -12.70, LP: -12.30
+Elapsed time: 509.075 minutes, iter: 221 out of 961
+Done with Bay: -12.60, LP: -12.30
+Elapsed time: 511.841 minutes, iter: 222 out of 961
+Done with Bay: -12.50, LP: -12.30
+Elapsed time: 514.836 minutes, iter: 223 out of 961
+Done with Bay: -12.40, LP: -12.30
+Elapsed time: 517.238 minutes, iter: 224 out of 961
+Done with Bay: -12.30, LP: -12.30
+Elapsed time: 520.761 minutes, iter: 225 out of 961
+Done with Bay: -12.20, LP: -12.30
+Elapsed time: 523.419 minutes, iter: 226 out of 961
+Done with Bay: -12.10, LP: -12.30
+Elapsed time: 526.851 minutes, iter: 227 out of 961
+Done with Bay: -12.00, LP: -12.30
+Elapsed time: 531.772 minutes, iter: 228 out of 961
+Done with Bay: -11.90, LP: -12.30
+Elapsed time: 535.634 minutes, iter: 229 out of 961
+Done with Bay: -11.80, LP: -12.30
+Elapsed time: 539.301 minutes, iter: 230 out of 961
+Done with Bay: -11.70, LP: -12.30
+Elapsed time: 542.768 minutes, iter: 231 out of 961
+Done with Bay: -11.60, LP: -12.30
+Elapsed time: 545.572 minutes, iter: 232 out of 961
+Done with Bay: -11.50, LP: -12.30
+Elapsed time: 549.383 minutes, iter: 233 out of 961
+Done with Bay: -11.40, LP: -12.30
+Elapsed time: 552.083 minutes, iter: 234 out of 961
+Done with Bay: -11.30, LP: -12.30
+Elapsed time: 555.927 minutes, iter: 235 out of 961
+Done with Bay: -11.20, LP: -12.30
+Elapsed time: 558.897 minutes, iter: 236 out of 961
+Done with Bay: -11.10, LP: -12.30
+Elapsed time: 561.484 minutes, iter: 237 out of 961
+Done with Bay: -11.00, LP: -12.30
+Elapsed time: 564.420 minutes, iter: 238 out of 961
+Done with Bay: -10.90, LP: -12.30
+Elapsed time: 567.431 minutes, iter: 239 out of 961
+Done with Bay: -10.80, LP: -12.30
+Elapsed time: 570.791 minutes, iter: 240 out of 961
+Done with Bay: -10.70, LP: -12.30
+Elapsed time: 574.214 minutes, iter: 241 out of 961
+Done with Bay: -10.60, LP: -12.30
+Elapsed time: 577.611 minutes, iter: 242 out of 961
+Done with Bay: -10.50, LP: -12.30
+Elapsed time: 581.005 minutes, iter: 243 out of 961
+Done with Bay: -10.40, LP: -12.30
+Elapsed time: 583.944 minutes, iter: 244 out of 961
+Done with Bay: -10.30, LP: -12.30
+Elapsed time: 586.903 minutes, iter: 245 out of 961
+Done with Bay: -10.20, LP: -12.30
+Elapsed time: 590.303 minutes, iter: 246 out of 961
+Done with Bay: -10.10, LP: -12.30
+Elapsed time: 593.291 minutes, iter: 247 out of 961
+Done with Bay: -10.00, LP: -12.30
+Elapsed time: 596.326 minutes, iter: 248 out of 961
+Done with Bay: -13.00, LP: -12.20
+Elapsed time: 597.460 minutes, iter: 249 out of 961
+Done with Bay: -12.90, LP: -12.20
+Elapsed time: 599.932 minutes, iter: 250 out of 961
+Done with Bay: -12.80, LP: -12.20
+Elapsed time: 602.119 minutes, iter: 251 out of 961
+Done with Bay: -12.70, LP: -12.20
+Elapsed time: 605.121 minutes, iter: 252 out of 961
+Done with Bay: -12.60, LP: -12.20
+Elapsed time: 606.349 minutes, iter: 253 out of 961
+Done with Bay: -12.50, LP: -12.20
+Elapsed time: 607.570 minutes, iter: 254 out of 961
+Done with Bay: -12.40, LP: -12.20
+Elapsed time: 608.883 minutes, iter: 255 out of 961
+Done with Bay: -12.30, LP: -12.20
+Elapsed time: 610.019 minutes, iter: 256 out of 961
+Done with Bay: -12.20, LP: -12.20
+Elapsed time: 611.625 minutes, iter: 257 out of 961
+Done with Bay: -12.10, LP: -12.20
+Elapsed time: 613.803 minutes, iter: 258 out of 961
+Done with Bay: -12.00, LP: -12.20
+Elapsed time: 616.021 minutes, iter: 259 out of 961
+Done with Bay: -11.90, LP: -12.20
+Elapsed time: 617.152 minutes, iter: 260 out of 961
+Done with Bay: -11.80, LP: -12.20
+Elapsed time: 618.312 minutes, iter: 261 out of 961
+Done with Bay: -11.70, LP: -12.20
+Elapsed time: 619.478 minutes, iter: 262 out of 961
+Done with Bay: -11.60, LP: -12.20
+Elapsed time: 620.559 minutes, iter: 263 out of 961
+Done with Bay: -11.50, LP: -12.20
+Elapsed time: 621.693 minutes, iter: 264 out of 961
+Done with Bay: -11.40, LP: -12.20
+Elapsed time: 622.894 minutes, iter: 265 out of 961
+Done with Bay: -11.30, LP: -12.20
+Elapsed time: 624.052 minutes, iter: 266 out of 961
+Done with Bay: -11.20, LP: -12.20
+Elapsed time: 625.222 minutes, iter: 267 out of 961
+Done with Bay: -11.10, LP: -12.20
+Elapsed time: 626.308 minutes, iter: 268 out of 961
+Done with Bay: -11.00, LP: -12.20
+Elapsed time: 627.414 minutes, iter: 269 out of 961
+Done with Bay: -10.90, LP: -12.20
+Elapsed time: 628.521 minutes, iter: 270 out of 961
+Done with Bay: -10.80, LP: -12.20
+Elapsed time: 629.601 minutes, iter: 271 out of 961
+Done with Bay: -10.70, LP: -12.20
+Elapsed time: 630.706 minutes, iter: 272 out of 961
+Done with Bay: -10.60, LP: -12.20
+Elapsed time: 631.868 minutes, iter: 273 out of 961
+Done with Bay: -10.50, LP: -12.20
+Elapsed time: 632.944 minutes, iter: 274 out of 961
+Done with Bay: -10.40, LP: -12.20
+Elapsed time: 634.020 minutes, iter: 275 out of 961
+Done with Bay: -10.30, LP: -12.20
+Elapsed time: 635.127 minutes, iter: 276 out of 961
+Done with Bay: -10.20, LP: -12.20
+Elapsed time: 636.291 minutes, iter: 277 out of 961
+Done with Bay: -10.10, LP: -12.20
+Elapsed time: 637.370 minutes, iter: 278 out of 961
+Done with Bay: -10.00, LP: -12.20
+Elapsed time: 638.446 minutes, iter: 279 out of 961
+Done with Bay: -13.00, LP: -12.10
+Elapsed time: 640.985 minutes, iter: 280 out of 961
+Done with Bay: -12.90, LP: -12.10
+Elapsed time: 643.030 minutes, iter: 281 out of 961
+Done with Bay: -12.80, LP: -12.10
+Elapsed time: 647.132 minutes, iter: 282 out of 961
+Done with Bay: -12.70, LP: -12.10
+Elapsed time: 650.483 minutes, iter: 283 out of 961
+Done with Bay: -12.60, LP: -12.10
+Elapsed time: 653.022 minutes, iter: 284 out of 961
+Done with Bay: -12.50, LP: -12.10
+Elapsed time: 656.631 minutes, iter: 285 out of 961
+Done with Bay: -12.40, LP: -12.10
+Elapsed time: 658.820 minutes, iter: 286 out of 961
+Done with Bay: -12.30, LP: -12.10
+Elapsed time: 661.984 minutes, iter: 287 out of 961
+Done with Bay: -12.20, LP: -12.10
+Elapsed time: 665.552 minutes, iter: 288 out of 961
+Done with Bay: -12.10, LP: -12.10
+Elapsed time: 669.407 minutes, iter: 289 out of 961
+Done with Bay: -12.00, LP: -12.10
+Elapsed time: 671.483 minutes, iter: 290 out of 961
+Done with Bay: -11.90, LP: -12.10
+Elapsed time: 674.400 minutes, iter: 291 out of 961
+Done with Bay: -11.80, LP: -12.10
+Elapsed time: 676.847 minutes, iter: 292 out of 961
+Done with Bay: -11.70, LP: -12.10
+Elapsed time: 679.717 minutes, iter: 293 out of 961
+Done with Bay: -11.60, LP: -12.10
+Elapsed time: 682.150 minutes, iter: 294 out of 961
+Done with Bay: -11.50, LP: -12.10
+Elapsed time: 685.076 minutes, iter: 295 out of 961
+Done with Bay: -11.40, LP: -12.10
+Elapsed time: 687.753 minutes, iter: 296 out of 961
+Done with Bay: -11.30, LP: -12.10
+Elapsed time: 690.766 minutes, iter: 297 out of 961
+Done with Bay: -11.20, LP: -12.10
+Elapsed time: 693.694 minutes, iter: 298 out of 961
+Done with Bay: -11.10, LP: -12.10
+Elapsed time: 695.981 minutes, iter: 299 out of 961
+Done with Bay: -11.00, LP: -12.10
+Elapsed time: 698.656 minutes, iter: 300 out of 961
+Done with Bay: -10.90, LP: -12.10
+Elapsed time: 701.088 minutes, iter: 301 out of 961
+Done with Bay: -10.80, LP: -12.10
+Elapsed time: 703.880 minutes, iter: 302 out of 961
+Done with Bay: -10.70, LP: -12.10
+Elapsed time: 706.845 minutes, iter: 303 out of 961
+Done with Bay: -10.60, LP: -12.10
+Elapsed time: 709.594 minutes, iter: 304 out of 961
+Done with Bay: -10.50, LP: -12.10
+Elapsed time: 712.561 minutes, iter: 305 out of 961
+Done with Bay: -10.40, LP: -12.10
+Elapsed time: 715.237 minutes, iter: 306 out of 961
+Done with Bay: -10.30, LP: -12.10
+Elapsed time: 717.445 minutes, iter: 307 out of 961
+Done with Bay: -10.20, LP: -12.10
+Elapsed time: 720.519 minutes, iter: 308 out of 961
+Done with Bay: -10.10, LP: -12.10
+Elapsed time: 723.603 minutes, iter: 309 out of 961
+Done with Bay: -10.00, LP: -12.10
+Elapsed time: 726.332 minutes, iter: 310 out of 961
+Done with Bay: -13.00, LP: -12.00
+Elapsed time: 727.657 minutes, iter: 311 out of 961
+Done with Bay: -12.90, LP: -12.00
+Elapsed time: 730.081 minutes, iter: 312 out of 961
+Done with Bay: -12.80, LP: -12.00
+Elapsed time: 733.510 minutes, iter: 313 out of 961
+Done with Bay: -12.70, LP: -12.00
+Elapsed time: 735.837 minutes, iter: 314 out of 961
+Done with Bay: -12.60, LP: -12.00
+Elapsed time: 736.952 minutes, iter: 315 out of 961
+Done with Bay: -12.50, LP: -12.00
+Elapsed time: 738.088 minutes, iter: 316 out of 961
+Done with Bay: -12.40, LP: -12.00
+Elapsed time: 739.412 minutes, iter: 317 out of 961
+Done with Bay: -12.30, LP: -12.00
+Elapsed time: 740.556 minutes, iter: 318 out of 961
+Done with Bay: -12.20, LP: -12.00
+Elapsed time: 742.218 minutes, iter: 319 out of 961
+Done with Bay: -12.10, LP: -12.00
+Elapsed time: 744.309 minutes, iter: 320 out of 961
+Done with Bay: -12.00, LP: -12.00
+Elapsed time: 746.520 minutes, iter: 321 out of 961
+Done with Bay: -11.90, LP: -12.00
+Elapsed time: 747.714 minutes, iter: 322 out of 961
+Done with Bay: -11.80, LP: -12.00
+Elapsed time: 749.073 minutes, iter: 323 out of 961
+Done with Bay: -11.70, LP: -12.00
+Elapsed time: 750.348 minutes, iter: 324 out of 961
+Done with Bay: -11.60, LP: -12.00
+Elapsed time: 751.472 minutes, iter: 325 out of 961
+Done with Bay: -11.50, LP: -12.00
+Elapsed time: 752.688 minutes, iter: 326 out of 961
+Done with Bay: -11.40, LP: -12.00
+Elapsed time: 753.814 minutes, iter: 327 out of 961
+Done with Bay: -11.30, LP: -12.00
+Elapsed time: 755.086 minutes, iter: 328 out of 961
+Done with Bay: -11.20, LP: -12.00
+Elapsed time: 756.210 minutes, iter: 329 out of 961
+Done with Bay: -11.10, LP: -12.00
+Elapsed time: 757.303 minutes, iter: 330 out of 961
+Done with Bay: -11.00, LP: -12.00
+Elapsed time: 758.396 minutes, iter: 331 out of 961
+Done with Bay: -10.90, LP: -12.00
+Elapsed time: 759.486 minutes, iter: 332 out of 961
+Done with Bay: -10.80, LP: -12.00
+Elapsed time: 760.579 minutes, iter: 333 out of 961
+Done with Bay: -10.70, LP: -12.00
+Elapsed time: 761.689 minutes, iter: 334 out of 961
+Done with Bay: -10.60, LP: -12.00
+Elapsed time: 762.786 minutes, iter: 335 out of 961
+Done with Bay: -10.50, LP: -12.00
+Elapsed time: 763.976 minutes, iter: 336 out of 961
+Done with Bay: -10.40, LP: -12.00
+Elapsed time: 765.072 minutes, iter: 337 out of 961
+Done with Bay: -10.30, LP: -12.00
+Elapsed time: 766.173 minutes, iter: 338 out of 961
+Done with Bay: -10.20, LP: -12.00
+Elapsed time: 767.266 minutes, iter: 339 out of 961
+Done with Bay: -10.10, LP: -12.00
+Elapsed time: 768.376 minutes, iter: 340 out of 961
+Done with Bay: -10.00, LP: -12.00
+Elapsed time: 769.469 minutes, iter: 341 out of 961
+Done with Bay: -13.00, LP: -11.90
+Elapsed time: 770.712 minutes, iter: 342 out of 961
+Done with Bay: -12.90, LP: -11.90
+Elapsed time: 772.521 minutes, iter: 343 out of 961
+Done with Bay: -12.80, LP: -11.90
+Elapsed time: 776.255 minutes, iter: 344 out of 961
+Done with Bay: -12.70, LP: -11.90
+Elapsed time: 779.419 minutes, iter: 345 out of 961
+Done with Bay: -12.60, LP: -11.90
+Elapsed time: 782.022 minutes, iter: 346 out of 961
+Done with Bay: -12.50, LP: -11.90
+Elapsed time: 784.472 minutes, iter: 347 out of 961
+Done with Bay: -12.40, LP: -11.90
+Elapsed time: 787.072 minutes, iter: 348 out of 961
+Done with Bay: -12.30, LP: -11.90
+Elapsed time: 789.527 minutes, iter: 349 out of 961
+Done with Bay: -12.20, LP: -11.90
+Elapsed time: 792.412 minutes, iter: 350 out of 961
+Done with Bay: -12.10, LP: -11.90
+Elapsed time: 795.252 minutes, iter: 351 out of 961
+Done with Bay: -12.00, LP: -11.90
+Elapsed time: 796.852 minutes, iter: 352 out of 961
+Done with Bay: -11.90, LP: -11.90
+Elapsed time: 799.715 minutes, iter: 353 out of 961
+Done with Bay: -11.80, LP: -11.90
+Elapsed time: 803.094 minutes, iter: 354 out of 961
+Done with Bay: -11.70, LP: -11.90
+Elapsed time: 806.527 minutes, iter: 355 out of 961
+Done with Bay: -11.60, LP: -11.90
+Elapsed time: 808.604 minutes, iter: 356 out of 961
+Done with Bay: -11.50, LP: -11.90
+Elapsed time: 811.704 minutes, iter: 357 out of 961
+Done with Bay: -11.40, LP: -11.90
+Elapsed time: 814.198 minutes, iter: 358 out of 961
+Done with Bay: -11.30, LP: -11.90
+Elapsed time: 816.675 minutes, iter: 359 out of 961
+Done with Bay: -11.20, LP: -11.90
+Elapsed time: 819.101 minutes, iter: 360 out of 961
+Done with Bay: -11.10, LP: -11.90
+Elapsed time: 821.641 minutes, iter: 361 out of 961
+Done with Bay: -11.00, LP: -11.90
+Elapsed time: 824.014 minutes, iter: 362 out of 961
+Done with Bay: -10.90, LP: -11.90
+Elapsed time: 826.541 minutes, iter: 363 out of 961
+Done with Bay: -10.80, LP: -11.90
+Elapsed time: 828.771 minutes, iter: 364 out of 961
+Done with Bay: -10.70, LP: -11.90
+Elapsed time: 831.431 minutes, iter: 365 out of 961
+Done with Bay: -10.60, LP: -11.90
+Elapsed time: 834.179 minutes, iter: 366 out of 961
+Done with Bay: -10.50, LP: -11.90
+Elapsed time: 837.145 minutes, iter: 367 out of 961
+Done with Bay: -10.40, LP: -11.90
+Elapsed time: 839.370 minutes, iter: 368 out of 961
+Done with Bay: -10.30, LP: -11.90
+Elapsed time: 841.788 minutes, iter: 369 out of 961
+Done with Bay: -10.20, LP: -11.90
+Elapsed time: 844.209 minutes, iter: 370 out of 961
+Done with Bay: -10.10, LP: -11.90
+Elapsed time: 846.684 minutes, iter: 371 out of 961
+Done with Bay: -10.00, LP: -11.90
+Elapsed time: 849.152 minutes, iter: 372 out of 961
+Done with Bay: -13.00, LP: -11.80
+Elapsed time: 851.813 minutes, iter: 373 out of 961
+Done with Bay: -12.90, LP: -11.80
+Elapsed time: 854.987 minutes, iter: 374 out of 961
+Done with Bay: -12.80, LP: -11.80
+Elapsed time: 857.908 minutes, iter: 375 out of 961
+Done with Bay: -12.70, LP: -11.80
+Elapsed time: 861.289 minutes, iter: 376 out of 961
+Done with Bay: -12.60, LP: -11.80
+Elapsed time: 862.544 minutes, iter: 377 out of 961
+Done with Bay: -12.50, LP: -11.80
+Elapsed time: 863.927 minutes, iter: 378 out of 961
+Done with Bay: -12.40, LP: -11.80
+Elapsed time: 865.634 minutes, iter: 379 out of 961
+Done with Bay: -12.30, LP: -11.80
+Elapsed time: 867.294 minutes, iter: 380 out of 961
+Done with Bay: -12.20, LP: -11.80
+Elapsed time: 868.973 minutes, iter: 381 out of 961
+Done with Bay: -12.10, LP: -11.80
+Elapsed time: 870.567 minutes, iter: 382 out of 961
+Done with Bay: -12.00, LP: -11.80
+Elapsed time: 873.424 minutes, iter: 383 out of 961
+Done with Bay: -11.90, LP: -11.80
+Elapsed time: 875.086 minutes, iter: 384 out of 961
+Done with Bay: -11.80, LP: -11.80
+Elapsed time: 876.721 minutes, iter: 385 out of 961
+Done with Bay: -11.70, LP: -11.80
+Elapsed time: 878.987 minutes, iter: 386 out of 961
+Done with Bay: -11.60, LP: -11.80
+Elapsed time: 881.031 minutes, iter: 387 out of 961
+Done with Bay: -11.50, LP: -11.80
+Elapsed time: 882.508 minutes, iter: 388 out of 961
+Done with Bay: -11.40, LP: -11.80
+Elapsed time: 885.043 minutes, iter: 389 out of 961
+Done with Bay: -11.30, LP: -11.80
+Elapsed time: 886.991 minutes, iter: 390 out of 961
+Done with Bay: -11.20, LP: -11.80
+Elapsed time: 889.200 minutes, iter: 391 out of 961
+Done with Bay: -11.10, LP: -11.80
+Elapsed time: 891.808 minutes, iter: 392 out of 961
+Done with Bay: -11.00, LP: -11.80
+Elapsed time: 894.081 minutes, iter: 393 out of 961
+Done with Bay: -10.90, LP: -11.80
+Elapsed time: 896.032 minutes, iter: 394 out of 961
+Done with Bay: -10.80, LP: -11.80
+Elapsed time: 897.423 minutes, iter: 395 out of 961
+Done with Bay: -10.70, LP: -11.80
+Elapsed time: 899.533 minutes, iter: 396 out of 961
+Done with Bay: -10.60, LP: -11.80
+Elapsed time: 901.406 minutes, iter: 397 out of 961
+Done with Bay: -10.50, LP: -11.80
+Elapsed time: 903.617 minutes, iter: 398 out of 961
+Done with Bay: -10.40, LP: -11.80
+Elapsed time: 905.658 minutes, iter: 399 out of 961
+Done with Bay: -10.30, LP: -11.80
+Elapsed time: 907.514 minutes, iter: 400 out of 961
+Done with Bay: -10.20, LP: -11.80
+Elapsed time: 909.340 minutes, iter: 401 out of 961
+Done with Bay: -10.10, LP: -11.80
+Elapsed time: 911.165 minutes, iter: 402 out of 961
+Done with Bay: -10.00, LP: -11.80
+Elapsed time: 913.215 minutes, iter: 403 out of 961
+Done with Bay: -13.00, LP: -11.70
+Elapsed time: 914.529 minutes, iter: 404 out of 961
+Done with Bay: -12.90, LP: -11.70
+Elapsed time: 917.281 minutes, iter: 405 out of 961
+Done with Bay: -12.80, LP: -11.70
+Elapsed time: 920.302 minutes, iter: 406 out of 961
+Done with Bay: -12.70, LP: -11.70
+Elapsed time: 924.061 minutes, iter: 407 out of 961
+Done with Bay: -12.60, LP: -11.70
+Elapsed time: 925.086 minutes, iter: 408 out of 961
+Done with Bay: -12.50, LP: -11.70
+Elapsed time: 926.227 minutes, iter: 409 out of 961
+Done with Bay: -12.40, LP: -11.70
+Elapsed time: 927.348 minutes, iter: 410 out of 961
+Done with Bay: -12.30, LP: -11.70
+Elapsed time: 928.639 minutes, iter: 411 out of 961
+Done with Bay: -12.20, LP: -11.70
+Elapsed time: 930.208 minutes, iter: 412 out of 961
+Done with Bay: -12.10, LP: -11.70
+Elapsed time: 932.465 minutes, iter: 413 out of 961
+Done with Bay: -12.00, LP: -11.70
+Elapsed time: 934.883 minutes, iter: 414 out of 961
+Done with Bay: -11.90, LP: -11.70
+Elapsed time: 936.083 minutes, iter: 415 out of 961
+Done with Bay: -11.80, LP: -11.70
+Elapsed time: 937.256 minutes, iter: 416 out of 961
+Done with Bay: -11.70, LP: -11.70
+Elapsed time: 938.389 minutes, iter: 417 out of 961
+Done with Bay: -11.60, LP: -11.70
+Elapsed time: 939.474 minutes, iter: 418 out of 961
+Done with Bay: -11.50, LP: -11.70
+Elapsed time: 940.560 minutes, iter: 419 out of 961
+Done with Bay: -11.40, LP: -11.70
+Elapsed time: 941.720 minutes, iter: 420 out of 961
+Done with Bay: -11.30, LP: -11.70
+Elapsed time: 942.956 minutes, iter: 421 out of 961
+Done with Bay: -11.20, LP: -11.70
+Elapsed time: 944.039 minutes, iter: 422 out of 961
+Done with Bay: -11.10, LP: -11.70
+Elapsed time: 945.154 minutes, iter: 423 out of 961
+Done with Bay: -11.00, LP: -11.70
+Elapsed time: 946.280 minutes, iter: 424 out of 961
+Done with Bay: -10.90, LP: -11.70
+Elapsed time: 947.365 minutes, iter: 425 out of 961
+Done with Bay: -10.80, LP: -11.70
+Elapsed time: 948.448 minutes, iter: 426 out of 961
+Done with Bay: -10.70, LP: -11.70
+Elapsed time: 949.528 minutes, iter: 427 out of 961
+Done with Bay: -10.60, LP: -11.70
+Elapsed time: 950.609 minutes, iter: 428 out of 961
+Done with Bay: -10.50, LP: -11.70
+Elapsed time: 951.761 minutes, iter: 429 out of 961
+Done with Bay: -10.40, LP: -11.70
+Elapsed time: 952.842 minutes, iter: 430 out of 961
+Done with Bay: -10.30, LP: -11.70
+Elapsed time: 953.951 minutes, iter: 431 out of 961
+Done with Bay: -10.20, LP: -11.70
+Elapsed time: 955.044 minutes, iter: 432 out of 961
+Done with Bay: -10.10, LP: -11.70
+Elapsed time: 956.124 minutes, iter: 433 out of 961
+Done with Bay: -10.00, LP: -11.70
+Elapsed time: 957.211 minutes, iter: 434 out of 961
+Done with Bay: -13.00, LP: -11.60
+Elapsed time: 958.321 minutes, iter: 435 out of 961
+Done with Bay: -12.90, LP: -11.60
+Elapsed time: 960.731 minutes, iter: 436 out of 961
+Done with Bay: -12.80, LP: -11.60
+Elapsed time: 964.213 minutes, iter: 437 out of 961
+Done with Bay: -12.70, LP: -11.60
+Elapsed time: 967.962 minutes, iter: 438 out of 961
+Done with Bay: -12.60, LP: -11.60
+Elapsed time: 969.271 minutes, iter: 439 out of 961
+Done with Bay: -12.50, LP: -11.60
+Elapsed time: 970.407 minutes, iter: 440 out of 961
+Done with Bay: -12.40, LP: -11.60
+Elapsed time: 971.544 minutes, iter: 441 out of 961
+Done with Bay: -12.30, LP: -11.60
+Elapsed time: 972.656 minutes, iter: 442 out of 961
+Done with Bay: -12.20, LP: -11.60
+Elapsed time: 974.644 minutes, iter: 443 out of 961
+Done with Bay: -12.10, LP: -11.60
+Elapsed time: 976.421 minutes, iter: 444 out of 961
+Done with Bay: -12.00, LP: -11.60
+Elapsed time: 978.355 minutes, iter: 445 out of 961
+Done with Bay: -11.90, LP: -11.60
+Elapsed time: 979.631 minutes, iter: 446 out of 961
+Done with Bay: -11.80, LP: -11.60
+Elapsed time: 980.952 minutes, iter: 447 out of 961
+Done with Bay: -11.70, LP: -11.60
+Elapsed time: 982.067 minutes, iter: 448 out of 961
+Done with Bay: -11.60, LP: -11.60
+Elapsed time: 983.178 minutes, iter: 449 out of 961
+Done with Bay: -11.50, LP: -11.60
+Elapsed time: 984.259 minutes, iter: 450 out of 961
+Done with Bay: -11.40, LP: -11.60
+Elapsed time: 985.654 minutes, iter: 451 out of 961
+Done with Bay: -11.30, LP: -11.60
+Elapsed time: 987.051 minutes, iter: 452 out of 961
+Done with Bay: -11.20, LP: -11.60
+Elapsed time: 988.134 minutes, iter: 453 out of 961
+Done with Bay: -11.10, LP: -11.60
+Elapsed time: 989.218 minutes, iter: 454 out of 961
+Done with Bay: -11.00, LP: -11.60
+Elapsed time: 990.458 minutes, iter: 455 out of 961
+Done with Bay: -10.90, LP: -11.60
+Elapsed time: 991.542 minutes, iter: 456 out of 961
+Done with Bay: -10.80, LP: -11.60
+Elapsed time: 992.629 minutes, iter: 457 out of 961
+Done with Bay: -10.70, LP: -11.60
+Elapsed time: 993.709 minutes, iter: 458 out of 961
+Done with Bay: -10.60, LP: -11.60
+Elapsed time: 994.936 minutes, iter: 459 out of 961
+Done with Bay: -10.50, LP: -11.60
+Elapsed time: 996.029 minutes, iter: 460 out of 961
+Done with Bay: -10.40, LP: -11.60
+Elapsed time: 997.112 minutes, iter: 461 out of 961
+Done with Bay: -10.30, LP: -11.60
+Elapsed time: 998.193 minutes, iter: 462 out of 961
+Done with Bay: -10.20, LP: -11.60
+Elapsed time: 999.351 minutes, iter: 463 out of 961
+Done with Bay: -10.10, LP: -11.60
+Elapsed time: 1000.461 minutes, iter: 464 out of 961
+Done with Bay: -10.00, LP: -11.60
+Elapsed time: 1001.544 minutes, iter: 465 out of 961
+Done with Bay: -13.00, LP: -11.50
+Elapsed time: 1004.543 minutes, iter: 466 out of 961
+Done with Bay: -12.90, LP: -11.50
+Elapsed time: 1007.538 minutes, iter: 467 out of 961
+Done with Bay: -12.80, LP: -11.50
+Elapsed time: 1011.388 minutes, iter: 468 out of 961
+Done with Bay: -12.70, LP: -11.50
+Elapsed time: 1015.023 minutes, iter: 469 out of 961
+Done with Bay: -12.60, LP: -11.50
+Elapsed time: 1016.485 minutes, iter: 470 out of 961
+Done with Bay: -12.50, LP: -11.50
+Elapsed time: 1017.774 minutes, iter: 471 out of 961
+Done with Bay: -12.40, LP: -11.50
+Elapsed time: 1019.682 minutes, iter: 472 out of 961
+Done with Bay: -12.30, LP: -11.50
+Elapsed time: 1021.131 minutes, iter: 473 out of 961
+Done with Bay: -12.20, LP: -11.50
+Elapsed time: 1024.743 minutes, iter: 474 out of 961
+Done with Bay: -12.10, LP: -11.50
+Elapsed time: 1027.945 minutes, iter: 475 out of 961
+Done with Bay: -12.00, LP: -11.50
+Elapsed time: 1029.244 minutes, iter: 476 out of 961
+Done with Bay: -11.90, LP: -11.50
+Elapsed time: 1031.315 minutes, iter: 477 out of 961
+Done with Bay: -11.80, LP: -11.50
+Elapsed time: 1033.397 minutes, iter: 478 out of 961
+Done with Bay: -11.70, LP: -11.50
+Elapsed time: 1036.003 minutes, iter: 479 out of 961
+Done with Bay: -11.60, LP: -11.50
+Elapsed time: 1038.113 minutes, iter: 480 out of 961
+Done with Bay: -11.50, LP: -11.50
+Elapsed time: 1039.587 minutes, iter: 481 out of 961
+Done with Bay: -11.40, LP: -11.50
+Elapsed time: 1041.847 minutes, iter: 482 out of 961
+Done with Bay: -11.30, LP: -11.50
+Elapsed time: 1044.367 minutes, iter: 483 out of 961
+Done with Bay: -11.20, LP: -11.50
+Elapsed time: 1046.312 minutes, iter: 484 out of 961
+Done with Bay: -11.10, LP: -11.50
+Elapsed time: 1048.355 minutes, iter: 485 out of 961
+Done with Bay: -11.00, LP: -11.50
+Elapsed time: 1050.657 minutes, iter: 486 out of 961
+Done with Bay: -10.90, LP: -11.50
+Elapsed time: 1052.986 minutes, iter: 487 out of 961
+Done with Bay: -10.80, LP: -11.50
+Elapsed time: 1054.912 minutes, iter: 488 out of 961
+Done with Bay: -10.70, LP: -11.50
+Elapsed time: 1057.311 minutes, iter: 489 out of 961
+Done with Bay: -10.60, LP: -11.50
+Elapsed time: 1059.562 minutes, iter: 490 out of 961
+Done with Bay: -10.50, LP: -11.50
+Elapsed time: 1062.060 minutes, iter: 491 out of 961
+Done with Bay: -10.40, LP: -11.50
+Elapsed time: 1065.036 minutes, iter: 492 out of 961
+Done with Bay: -10.30, LP: -11.50
+Elapsed time: 1067.919 minutes, iter: 493 out of 961
+Done with Bay: -10.20, LP: -11.50
+Elapsed time: 1070.229 minutes, iter: 494 out of 961
+Done with Bay: -10.10, LP: -11.50
+Elapsed time: 1072.848 minutes, iter: 495 out of 961
+Done with Bay: -10.00, LP: -11.50
+Elapsed time: 1075.230 minutes, iter: 496 out of 961
+Done with Bay: -13.00, LP: -11.40
+Elapsed time: 1076.370 minutes, iter: 497 out of 961
+Done with Bay: -12.90, LP: -11.40
+Elapsed time: 1078.918 minutes, iter: 498 out of 961
+Done with Bay: -12.80, LP: -11.40
+Elapsed time: 1082.684 minutes, iter: 499 out of 961
+Done with Bay: -12.70, LP: -11.40
+Elapsed time: 1086.868 minutes, iter: 500 out of 961
+Done with Bay: -12.60, LP: -11.40
+Elapsed time: 1088.187 minutes, iter: 501 out of 961
+Done with Bay: -12.50, LP: -11.40
+Elapsed time: 1089.411 minutes, iter: 502 out of 961
+Done with Bay: -12.40, LP: -11.40
+Elapsed time: 1090.698 minutes, iter: 503 out of 961
+Done with Bay: -12.30, LP: -11.40
+Elapsed time: 1092.177 minutes, iter: 504 out of 961
+Done with Bay: -12.20, LP: -11.40
+Elapsed time: 1094.108 minutes, iter: 505 out of 961
+Done with Bay: -12.10, LP: -11.40
+Elapsed time: 1096.359 minutes, iter: 506 out of 961
+Done with Bay: -12.00, LP: -11.40
+Elapsed time: 1100.474 minutes, iter: 507 out of 961
+Done with Bay: -11.90, LP: -11.40
+Elapsed time: 1102.162 minutes, iter: 508 out of 961
+Done with Bay: -11.80, LP: -11.40
+Elapsed time: 1103.863 minutes, iter: 509 out of 961
+Done with Bay: -11.70, LP: -11.40
+Elapsed time: 1105.176 minutes, iter: 510 out of 961
+Done with Bay: -11.60, LP: -11.40
+Elapsed time: 1106.488 minutes, iter: 511 out of 961
+Done with Bay: -11.50, LP: -11.40
+Elapsed time: 1108.139 minutes, iter: 512 out of 961
+Done with Bay: -11.40, LP: -11.40
+Elapsed time: 1109.451 minutes, iter: 513 out of 961
+Done with Bay: -11.30, LP: -11.40
+Elapsed time: 1110.608 minutes, iter: 514 out of 961
+Done with Bay: -11.20, LP: -11.40
+Elapsed time: 1112.117 minutes, iter: 515 out of 961
+Done with Bay: -11.10, LP: -11.40
+Elapsed time: 1113.522 minutes, iter: 516 out of 961
+Done with Bay: -11.00, LP: -11.40
+Elapsed time: 1114.912 minutes, iter: 517 out of 961
+Done with Bay: -10.90, LP: -11.40
+Elapsed time: 1116.339 minutes, iter: 518 out of 961
+Done with Bay: -10.80, LP: -11.40
+Elapsed time: 1118.121 minutes, iter: 519 out of 961
+Done with Bay: -10.70, LP: -11.40
+Elapsed time: 1120.228 minutes, iter: 520 out of 961
+Done with Bay: -10.60, LP: -11.40
+Elapsed time: 1122.895 minutes, iter: 521 out of 961
+Done with Bay: -10.50, LP: -11.40
+Elapsed time: 1125.362 minutes, iter: 522 out of 961
+Done with Bay: -10.40, LP: -11.40
+Elapsed time: 1127.410 minutes, iter: 523 out of 961
+Done with Bay: -10.30, LP: -11.40
+Elapsed time: 1129.539 minutes, iter: 524 out of 961
+Done with Bay: -10.20, LP: -11.40
+Elapsed time: 1132.207 minutes, iter: 525 out of 961
+Done with Bay: -10.10, LP: -11.40
+Elapsed time: 1134.697 minutes, iter: 526 out of 961
+Done with Bay: -10.00, LP: -11.40
+Elapsed time: 1137.377 minutes, iter: 527 out of 961
+Done with Bay: -13.00, LP: -11.30
+Elapsed time: 1138.435 minutes, iter: 528 out of 961
+Done with Bay: -12.90, LP: -11.30
+Elapsed time: 1141.506 minutes, iter: 529 out of 961
+Done with Bay: -12.80, LP: -11.30
+Elapsed time: 1144.934 minutes, iter: 530 out of 961
+Done with Bay: -12.70, LP: -11.30
+Elapsed time: 1148.248 minutes, iter: 531 out of 961
+Done with Bay: -12.60, LP: -11.30
+Elapsed time: 1149.360 minutes, iter: 532 out of 961
+Done with Bay: -12.50, LP: -11.30
+Elapsed time: 1150.585 minutes, iter: 533 out of 961
+Done with Bay: -12.40, LP: -11.30
+Elapsed time: 1151.898 minutes, iter: 534 out of 961
+Done with Bay: -12.30, LP: -11.30
+Elapsed time: 1153.065 minutes, iter: 535 out of 961
+Done with Bay: -12.20, LP: -11.30
+Elapsed time: 1155.191 minutes, iter: 536 out of 961
+Done with Bay: -12.10, LP: -11.30
+Elapsed time: 1157.668 minutes, iter: 537 out of 961
+Done with Bay: -12.00, LP: -11.30
+Elapsed time: 1160.103 minutes, iter: 538 out of 961
+Done with Bay: -11.90, LP: -11.30
+Elapsed time: 1161.279 minutes, iter: 539 out of 961
+Done with Bay: -11.80, LP: -11.30
+Elapsed time: 1162.356 minutes, iter: 540 out of 961
+Done with Bay: -11.70, LP: -11.30
+Elapsed time: 1163.434 minutes, iter: 541 out of 961
+Done with Bay: -11.60, LP: -11.30
+Elapsed time: 1164.548 minutes, iter: 542 out of 961
+Done with Bay: -11.50, LP: -11.30
+Elapsed time: 1165.653 minutes, iter: 543 out of 961
+Done with Bay: -11.40, LP: -11.30
+Elapsed time: 1166.918 minutes, iter: 544 out of 961
+Done with Bay: -11.30, LP: -11.30
+Elapsed time: 1168.109 minutes, iter: 545 out of 961
+Done with Bay: -11.20, LP: -11.30
+Elapsed time: 1169.214 minutes, iter: 546 out of 961
+Done with Bay: -11.10, LP: -11.30
+Elapsed time: 1170.291 minutes, iter: 547 out of 961
+Done with Bay: -11.00, LP: -11.30
+Elapsed time: 1171.366 minutes, iter: 548 out of 961
+Done with Bay: -10.90, LP: -11.30
+Elapsed time: 1172.441 minutes, iter: 549 out of 961
+Done with Bay: -10.80, LP: -11.30
+Elapsed time: 1173.522 minutes, iter: 550 out of 961
+Done with Bay: -10.70, LP: -11.30
+Elapsed time: 1174.597 minutes, iter: 551 out of 961
+Done with Bay: -10.60, LP: -11.30
+Elapsed time: 1175.674 minutes, iter: 552 out of 961
+Done with Bay: -10.50, LP: -11.30
+Elapsed time: 1176.910 minutes, iter: 553 out of 961
+Done with Bay: -10.40, LP: -11.30
+Elapsed time: 1178.001 minutes, iter: 554 out of 961
+Done with Bay: -10.30, LP: -11.30
+Elapsed time: 1179.079 minutes, iter: 555 out of 961
+Done with Bay: -10.20, LP: -11.30
+Elapsed time: 1180.227 minutes, iter: 556 out of 961
+Done with Bay: -10.10, LP: -11.30
+Elapsed time: 1181.304 minutes, iter: 557 out of 961
+Done with Bay: -10.00, LP: -11.30
+Elapsed time: 1182.392 minutes, iter: 558 out of 961
+Done with Bay: -13.00, LP: -11.20
+Elapsed time: 1183.700 minutes, iter: 559 out of 961
+Done with Bay: -12.90, LP: -11.20
+Elapsed time: 1185.977 minutes, iter: 560 out of 961
+Done with Bay: -12.80, LP: -11.20
+Elapsed time: 1188.885 minutes, iter: 561 out of 961
+Done with Bay: -12.70, LP: -11.20
+Elapsed time: 1192.030 minutes, iter: 562 out of 961
+Done with Bay: -12.60, LP: -11.20
+Elapsed time: 1193.259 minutes, iter: 563 out of 961
+Done with Bay: -12.50, LP: -11.20
+Elapsed time: 1194.591 minutes, iter: 564 out of 961
+Done with Bay: -12.40, LP: -11.20
+Elapsed time: 1195.813 minutes, iter: 565 out of 961
+Done with Bay: -12.30, LP: -11.20
+Elapsed time: 1197.154 minutes, iter: 566 out of 961
+Done with Bay: -12.20, LP: -11.20
+Elapsed time: 1200.066 minutes, iter: 567 out of 961
+Done with Bay: -12.10, LP: -11.20
+Elapsed time: 1202.946 minutes, iter: 568 out of 961
+Done with Bay: -12.00, LP: -11.20
+Elapsed time: 1205.843 minutes, iter: 569 out of 961
+Done with Bay: -11.90, LP: -11.20
+Elapsed time: 1206.979 minutes, iter: 570 out of 961
+Done with Bay: -11.80, LP: -11.20
+Elapsed time: 1208.058 minutes, iter: 571 out of 961
+Done with Bay: -11.70, LP: -11.20
+Elapsed time: 1209.137 minutes, iter: 572 out of 961
+Done with Bay: -11.60, LP: -11.20
+Elapsed time: 1210.361 minutes, iter: 573 out of 961
+Done with Bay: -11.50, LP: -11.20
+Elapsed time: 1211.456 minutes, iter: 574 out of 961
+Done with Bay: -11.40, LP: -11.20
+Elapsed time: 1212.733 minutes, iter: 575 out of 961
+Done with Bay: -11.30, LP: -11.20
+Elapsed time: 1213.993 minutes, iter: 576 out of 961
+Done with Bay: -11.20, LP: -11.20
+Elapsed time: 1215.072 minutes, iter: 577 out of 961
+Done with Bay: -11.10, LP: -11.20
+Elapsed time: 1216.151 minutes, iter: 578 out of 961
+Done with Bay: -11.00, LP: -11.20
+Elapsed time: 1217.386 minutes, iter: 579 out of 961
+Done with Bay: -10.90, LP: -11.20
+Elapsed time: 1218.473 minutes, iter: 580 out of 961
+Done with Bay: -10.80, LP: -11.20
+Elapsed time: 1219.554 minutes, iter: 581 out of 961
+Done with Bay: -10.70, LP: -11.20
+Elapsed time: 1220.643 minutes, iter: 582 out of 961
+Done with Bay: -10.60, LP: -11.20
+Elapsed time: 1221.721 minutes, iter: 583 out of 961
+Done with Bay: -10.50, LP: -11.20
+Elapsed time: 1222.967 minutes, iter: 584 out of 961
+Done with Bay: -10.40, LP: -11.20
+Elapsed time: 1224.045 minutes, iter: 585 out of 961
+Done with Bay: -10.30, LP: -11.20
+Elapsed time: 1225.129 minutes, iter: 586 out of 961
+Done with Bay: -10.20, LP: -11.20
+Elapsed time: 1226.283 minutes, iter: 587 out of 961
+Done with Bay: -10.10, LP: -11.20
+Elapsed time: 1227.376 minutes, iter: 588 out of 961
+Done with Bay: -10.00, LP: -11.20
+Elapsed time: 1228.465 minutes, iter: 589 out of 961
+Done with Bay: -13.00, LP: -11.10
+Elapsed time: 1229.776 minutes, iter: 590 out of 961
+Done with Bay: -12.90, LP: -11.10
+Elapsed time: 1232.432 minutes, iter: 591 out of 961
+Done with Bay: -12.80, LP: -11.10
+Elapsed time: 1236.385 minutes, iter: 592 out of 961
+Done with Bay: -12.70, LP: -11.10
+Elapsed time: 1240.013 minutes, iter: 593 out of 961
+Done with Bay: -12.60, LP: -11.10
+Elapsed time: 1241.948 minutes, iter: 594 out of 961
+Done with Bay: -12.50, LP: -11.10
+Elapsed time: 1243.840 minutes, iter: 595 out of 961
+Done with Bay: -12.40, LP: -11.10
+Elapsed time: 1245.902 minutes, iter: 596 out of 961
+Done with Bay: -12.30, LP: -11.10
+Elapsed time: 1247.859 minutes, iter: 597 out of 961
+Done with Bay: -12.20, LP: -11.10
+Elapsed time: 1251.246 minutes, iter: 598 out of 961
+Done with Bay: -12.10, LP: -11.10
+Elapsed time: 1253.914 minutes, iter: 599 out of 961
+Done with Bay: -12.00, LP: -11.10
+Elapsed time: 1256.368 minutes, iter: 600 out of 961
+Done with Bay: -11.90, LP: -11.10
+Elapsed time: 1258.796 minutes, iter: 601 out of 961
+Done with Bay: -11.80, LP: -11.10
+Elapsed time: 1261.291 minutes, iter: 602 out of 961
+Done with Bay: -11.70, LP: -11.10
+Elapsed time: 1263.360 minutes, iter: 603 out of 961
+Done with Bay: -11.60, LP: -11.10
+Elapsed time: 1265.768 minutes, iter: 604 out of 961
+Done with Bay: -11.50, LP: -11.10
+Elapsed time: 1268.326 minutes, iter: 605 out of 961
+Done with Bay: -11.40, LP: -11.10
+Elapsed time: 1271.212 minutes, iter: 606 out of 961
+Done with Bay: -11.30, LP: -11.10
+Elapsed time: 1274.743 minutes, iter: 607 out of 961
+Done with Bay: -11.20, LP: -11.10
+Elapsed time: 1277.672 minutes, iter: 608 out of 961
+Done with Bay: -11.10, LP: -11.10
+Elapsed time: 1279.813 minutes, iter: 609 out of 961
+Done with Bay: -11.00, LP: -11.10
+Elapsed time: 1281.965 minutes, iter: 610 out of 961
+Done with Bay: -10.90, LP: -11.10
+Elapsed time: 1284.117 minutes, iter: 611 out of 961
+Done with Bay: -10.80, LP: -11.10
+Elapsed time: 1286.859 minutes, iter: 612 out of 961
+Done with Bay: -10.70, LP: -11.10
+Elapsed time: 1288.421 minutes, iter: 613 out of 961
+Done with Bay: -10.60, LP: -11.10
+Elapsed time: 1289.889 minutes, iter: 614 out of 961
+Done with Bay: -10.50, LP: -11.10
+Elapsed time: 1291.505 minutes, iter: 615 out of 961
+Done with Bay: -10.40, LP: -11.10
+Elapsed time: 1293.207 minutes, iter: 616 out of 961
+Done with Bay: -10.30, LP: -11.10
+Elapsed time: 1294.987 minutes, iter: 617 out of 961
+Done with Bay: -10.20, LP: -11.10
+Elapsed time: 1296.686 minutes, iter: 618 out of 961
+Done with Bay: -10.10, LP: -11.10
+Elapsed time: 1298.374 minutes, iter: 619 out of 961
+Done with Bay: -10.00, LP: -11.10
+Elapsed time: 1299.975 minutes, iter: 620 out of 961
+Done with Bay: -13.00, LP: -11.00
+Elapsed time: 1301.204 minutes, iter: 621 out of 961
+Done with Bay: -12.90, LP: -11.00
+Elapsed time: 1304.571 minutes, iter: 622 out of 961
+Done with Bay: -12.80, LP: -11.00
+Elapsed time: 1307.163 minutes, iter: 623 out of 961
+Done with Bay: -12.70, LP: -11.00
+Elapsed time: 1309.895 minutes, iter: 624 out of 961
+Done with Bay: -12.60, LP: -11.00
+Elapsed time: 1312.008 minutes, iter: 625 out of 961
+Done with Bay: -12.50, LP: -11.00
+Elapsed time: 1314.456 minutes, iter: 626 out of 961
+Done with Bay: -12.40, LP: -11.00
+Elapsed time: 1316.610 minutes, iter: 627 out of 961
+Done with Bay: -12.30, LP: -11.00
+Elapsed time: 1318.597 minutes, iter: 628 out of 961
+Done with Bay: -12.20, LP: -11.00
+Elapsed time: 1321.276 minutes, iter: 629 out of 961
+Done with Bay: -12.10, LP: -11.00
+Elapsed time: 1323.904 minutes, iter: 630 out of 961
+Done with Bay: -12.00, LP: -11.00
+Elapsed time: 1327.467 minutes, iter: 631 out of 961
+Done with Bay: -11.90, LP: -11.00
+Elapsed time: 1329.527 minutes, iter: 632 out of 961
+Done with Bay: -11.80, LP: -11.00
+Elapsed time: 1331.816 minutes, iter: 633 out of 961
+Done with Bay: -11.70, LP: -11.00
+Elapsed time: 1333.152 minutes, iter: 634 out of 961
+Done with Bay: -11.60, LP: -11.00
+Elapsed time: 1334.404 minutes, iter: 635 out of 961
+Done with Bay: -11.50, LP: -11.00
+Elapsed time: 1336.714 minutes, iter: 636 out of 961
+Done with Bay: -11.40, LP: -11.00
+Elapsed time: 1339.359 minutes, iter: 637 out of 961
+Done with Bay: -11.30, LP: -11.00
+Elapsed time: 1341.488 minutes, iter: 638 out of 961
+Done with Bay: -11.20, LP: -11.00
+Elapsed time: 1343.621 minutes, iter: 639 out of 961
+Done with Bay: -11.10, LP: -11.00
+Elapsed time: 1345.784 minutes, iter: 640 out of 961
+Done with Bay: -11.00, LP: -11.00
+Elapsed time: 1347.940 minutes, iter: 641 out of 961
+Done with Bay: -10.90, LP: -11.00
+Elapsed time: 1349.765 minutes, iter: 642 out of 961
+Done with Bay: -10.80, LP: -11.00
+Elapsed time: 1351.945 minutes, iter: 643 out of 961
+Done with Bay: -10.70, LP: -11.00
+Elapsed time: 1353.418 minutes, iter: 644 out of 961
+Done with Bay: -10.60, LP: -11.00
+Elapsed time: 1354.811 minutes, iter: 645 out of 961
+Done with Bay: -10.50, LP: -11.00
+Elapsed time: 1355.970 minutes, iter: 646 out of 961
+Done with Bay: -10.40, LP: -11.00
+Elapsed time: 1357.365 minutes, iter: 647 out of 961
+Done with Bay: -10.30, LP: -11.00
+Elapsed time: 1358.747 minutes, iter: 648 out of 961
+Done with Bay: -10.20, LP: -11.00
+Elapsed time: 1360.091 minutes, iter: 649 out of 961
+Done with Bay: -10.10, LP: -11.00
+Elapsed time: 1361.354 minutes, iter: 650 out of 961
+Done with Bay: -10.00, LP: -11.00
+Elapsed time: 1362.581 minutes, iter: 651 out of 961
+Done with Bay: -13.00, LP: -10.90
+Elapsed time: 1363.691 minutes, iter: 652 out of 961
+Done with Bay: -12.90, LP: -10.90
+Elapsed time: 1366.038 minutes, iter: 653 out of 961
+Done with Bay: -12.80, LP: -10.90
+Elapsed time: 1369.699 minutes, iter: 654 out of 961
+Done with Bay: -12.70, LP: -10.90
+Elapsed time: 1373.614 minutes, iter: 655 out of 961
+Done with Bay: -12.60, LP: -10.90
+Elapsed time: 1374.751 minutes, iter: 656 out of 961
+Done with Bay: -12.50, LP: -10.90
+Elapsed time: 1376.066 minutes, iter: 657 out of 961
+Done with Bay: -12.40, LP: -10.90
+Elapsed time: 1377.453 minutes, iter: 658 out of 961
+Done with Bay: -12.30, LP: -10.90
+Elapsed time: 1378.649 minutes, iter: 659 out of 961
+Done with Bay: -12.20, LP: -10.90
+Elapsed time: 1380.962 minutes, iter: 660 out of 961
+Done with Bay: -12.10, LP: -10.90
+Elapsed time: 1382.722 minutes, iter: 661 out of 961
+Done with Bay: -12.00, LP: -10.90
+Elapsed time: 1385.804 minutes, iter: 662 out of 961
+Done with Bay: -11.90, LP: -10.90
+Elapsed time: 1387.117 minutes, iter: 663 out of 961
+Done with Bay: -11.80, LP: -10.90
+Elapsed time: 1388.436 minutes, iter: 664 out of 961
+Done with Bay: -11.70, LP: -10.90
+Elapsed time: 1389.693 minutes, iter: 665 out of 961
+Done with Bay: -11.60, LP: -10.90
+Elapsed time: 1390.863 minutes, iter: 666 out of 961
+Done with Bay: -11.50, LP: -10.90
+Elapsed time: 1391.947 minutes, iter: 667 out of 961
+Done with Bay: -11.40, LP: -10.90
+Elapsed time: 1393.360 minutes, iter: 668 out of 961
+Done with Bay: -11.30, LP: -10.90
+Elapsed time: 1394.750 minutes, iter: 669 out of 961
+Done with Bay: -11.20, LP: -10.90
+Elapsed time: 1395.836 minutes, iter: 670 out of 961
+Done with Bay: -11.10, LP: -10.90
+Elapsed time: 1397.053 minutes, iter: 671 out of 961
+Done with Bay: -11.00, LP: -10.90
+Elapsed time: 1398.223 minutes, iter: 672 out of 961
+Done with Bay: -10.90, LP: -10.90
+Elapsed time: 1399.318 minutes, iter: 673 out of 961
+Done with Bay: -10.80, LP: -10.90
+Elapsed time: 1400.402 minutes, iter: 674 out of 961
+Done with Bay: -10.70, LP: -10.90
+Elapsed time: 1401.489 minutes, iter: 675 out of 961
+Done with Bay: -10.60, LP: -10.90
+Elapsed time: 1402.572 minutes, iter: 676 out of 961
+Done with Bay: -10.50, LP: -10.90
+Elapsed time: 1403.663 minutes, iter: 677 out of 961
+Done with Bay: -10.40, LP: -10.90
+Elapsed time: 1404.753 minutes, iter: 678 out of 961
+Done with Bay: -10.30, LP: -10.90
+Elapsed time: 1405.914 minutes, iter: 679 out of 961
+Done with Bay: -10.20, LP: -10.90
+Elapsed time: 1406.999 minutes, iter: 680 out of 961
+Done with Bay: -10.10, LP: -10.90
+Elapsed time: 1408.081 minutes, iter: 681 out of 961
+Done with Bay: -10.00, LP: -10.90
+Elapsed time: 1409.161 minutes, iter: 682 out of 961
+Done with Bay: -13.00, LP: -10.80
+Elapsed time: 1410.490 minutes, iter: 683 out of 961
+Done with Bay: -12.90, LP: -10.80
+Elapsed time: 1413.161 minutes, iter: 684 out of 961
+Done with Bay: -12.80, LP: -10.80
+Elapsed time: 1417.048 minutes, iter: 685 out of 961
+Done with Bay: -12.70, LP: -10.80
+Elapsed time: 1420.802 minutes, iter: 686 out of 961
+Done with Bay: -12.60, LP: -10.80
+Elapsed time: 1421.909 minutes, iter: 687 out of 961
+Done with Bay: -12.50, LP: -10.80
+Elapsed time: 1423.132 minutes, iter: 688 out of 961
+Done with Bay: -12.40, LP: -10.80
+Elapsed time: 1424.353 minutes, iter: 689 out of 961
+Done with Bay: -12.30, LP: -10.80
+Elapsed time: 1425.549 minutes, iter: 690 out of 961
+Done with Bay: -12.20, LP: -10.80
+Elapsed time: 1427.291 minutes, iter: 691 out of 961
+Done with Bay: -12.10, LP: -10.80
+Elapsed time: 1428.674 minutes, iter: 692 out of 961
+Done with Bay: -12.00, LP: -10.80
+Elapsed time: 1430.288 minutes, iter: 693 out of 961
+Done with Bay: -11.90, LP: -10.80
+Elapsed time: 1431.459 minutes, iter: 694 out of 961
+Done with Bay: -11.80, LP: -10.80
+Elapsed time: 1432.857 minutes, iter: 695 out of 961
+Done with Bay: -11.70, LP: -10.80
+Elapsed time: 1434.024 minutes, iter: 696 out of 961
+Done with Bay: -11.60, LP: -10.80
+Elapsed time: 1435.161 minutes, iter: 697 out of 961
+Done with Bay: -11.50, LP: -10.80
+Elapsed time: 1436.304 minutes, iter: 698 out of 961
+Done with Bay: -11.40, LP: -10.80
+Elapsed time: 1437.755 minutes, iter: 699 out of 961
+Done with Bay: -11.30, LP: -10.80
+Elapsed time: 1439.184 minutes, iter: 700 out of 961
+Done with Bay: -11.20, LP: -10.80
+Elapsed time: 1440.383 minutes, iter: 701 out of 961
+Done with Bay: -11.10, LP: -10.80
+Elapsed time: 1441.490 minutes, iter: 702 out of 961
+Done with Bay: -11.00, LP: -10.80
+Elapsed time: 1442.652 minutes, iter: 703 out of 961
+Done with Bay: -10.90, LP: -10.80
+Elapsed time: 1443.774 minutes, iter: 704 out of 961
+Done with Bay: -10.80, LP: -10.80
+Elapsed time: 1444.853 minutes, iter: 705 out of 961
+Done with Bay: -10.70, LP: -10.80
+Elapsed time: 1445.935 minutes, iter: 706 out of 961
+Done with Bay: -10.60, LP: -10.80
+Elapsed time: 1447.176 minutes, iter: 707 out of 961
+Done with Bay: -10.50, LP: -10.80
+Elapsed time: 1448.494 minutes, iter: 708 out of 961
+Done with Bay: -10.40, LP: -10.80
+Elapsed time: 1449.573 minutes, iter: 709 out of 961
+Done with Bay: -10.30, LP: -10.80
+Elapsed time: 1450.731 minutes, iter: 710 out of 961
+Done with Bay: -10.20, LP: -10.80
+Elapsed time: 1451.812 minutes, iter: 711 out of 961
+Done with Bay: -10.10, LP: -10.80
+Elapsed time: 1452.891 minutes, iter: 712 out of 961
+Done with Bay: -10.00, LP: -10.80
+Elapsed time: 1453.979 minutes, iter: 713 out of 961
+Done with Bay: -13.00, LP: -10.70
+Elapsed time: 1455.261 minutes, iter: 714 out of 961
+Done with Bay: -12.90, LP: -10.70
+Elapsed time: 1457.827 minutes, iter: 715 out of 961
+Done with Bay: -12.80, LP: -10.70
+Elapsed time: 1461.545 minutes, iter: 716 out of 961
+Done with Bay: -12.70, LP: -10.70
+Elapsed time: 1464.849 minutes, iter: 717 out of 961
+Done with Bay: -12.60, LP: -10.70
+Elapsed time: 1466.044 minutes, iter: 718 out of 961
+Done with Bay: -12.50, LP: -10.70
+Elapsed time: 1467.302 minutes, iter: 719 out of 961
+Done with Bay: -12.40, LP: -10.70
+Elapsed time: 1468.496 minutes, iter: 720 out of 961
+Done with Bay: -12.30, LP: -10.70
+Elapsed time: 1469.676 minutes, iter: 721 out of 961
+Done with Bay: -12.20, LP: -10.70
+Elapsed time: 1472.096 minutes, iter: 722 out of 961
+Done with Bay: -12.10, LP: -10.70
+Elapsed time: 1473.703 minutes, iter: 723 out of 961
+Done with Bay: -12.00, LP: -10.70
+Elapsed time: 1475.266 minutes, iter: 724 out of 961
+Done with Bay: -11.90, LP: -10.70
+Elapsed time: 1476.447 minutes, iter: 725 out of 961
+Done with Bay: -11.80, LP: -10.70
+Elapsed time: 1477.677 minutes, iter: 726 out of 961
+Done with Bay: -11.70, LP: -10.70
+Elapsed time: 1478.878 minutes, iter: 727 out of 961
+Done with Bay: -11.60, LP: -10.70
+Elapsed time: 1480.090 minutes, iter: 728 out of 961
+Done with Bay: -11.50, LP: -10.70
+Elapsed time: 1481.379 minutes, iter: 729 out of 961
+Done with Bay: -11.40, LP: -10.70
+Elapsed time: 1483.006 minutes, iter: 730 out of 961
+Done with Bay: -11.30, LP: -10.70
+Elapsed time: 1484.487 minutes, iter: 731 out of 961
+Done with Bay: -11.20, LP: -10.70
+Elapsed time: 1485.685 minutes, iter: 732 out of 961
+Done with Bay: -11.10, LP: -10.70
+Elapsed time: 1486.885 minutes, iter: 733 out of 961
+Done with Bay: -11.00, LP: -10.70
+Elapsed time: 1488.233 minutes, iter: 734 out of 961
+Done with Bay: -10.90, LP: -10.70
+Elapsed time: 1489.317 minutes, iter: 735 out of 961
+Done with Bay: -10.80, LP: -10.70
+Elapsed time: 1490.401 minutes, iter: 736 out of 961
+Done with Bay: -10.70, LP: -10.70
+Elapsed time: 1491.479 minutes, iter: 737 out of 961
+Done with Bay: -10.60, LP: -10.70
+Elapsed time: 1492.816 minutes, iter: 738 out of 961
+Done with Bay: -10.50, LP: -10.70
+Elapsed time: 1494.140 minutes, iter: 739 out of 961
+Done with Bay: -10.40, LP: -10.70
+Elapsed time: 1495.220 minutes, iter: 740 out of 961
+Done with Bay: -10.30, LP: -10.70
+Elapsed time: 1496.389 minutes, iter: 741 out of 961
+Done with Bay: -10.20, LP: -10.70
+Elapsed time: 1497.471 minutes, iter: 742 out of 961
+Done with Bay: -10.10, LP: -10.70
+Elapsed time: 1498.553 minutes, iter: 743 out of 961
+Done with Bay: -10.00, LP: -10.70
+Elapsed time: 1499.636 minutes, iter: 744 out of 961
+Done with Bay: -13.00, LP: -10.60
+Elapsed time: 1500.860 minutes, iter: 745 out of 961
+Done with Bay: -12.90, LP: -10.60
+Elapsed time: 1503.375 minutes, iter: 746 out of 961
+Done with Bay: -12.80, LP: -10.60
+Elapsed time: 1506.689 minutes, iter: 747 out of 961
+Done with Bay: -12.70, LP: -10.60
+Elapsed time: 1508.432 minutes, iter: 748 out of 961
+Done with Bay: -12.60, LP: -10.60
+Elapsed time: 1509.648 minutes, iter: 749 out of 961
+Done with Bay: -12.50, LP: -10.60
+Elapsed time: 1510.851 minutes, iter: 750 out of 961
+Done with Bay: -12.40, LP: -10.60
+Elapsed time: 1512.111 minutes, iter: 751 out of 961
+Done with Bay: -12.30, LP: -10.60
+Elapsed time: 1513.355 minutes, iter: 752 out of 961
+Done with Bay: -12.20, LP: -10.60
+Elapsed time: 1515.082 minutes, iter: 753 out of 961
+Done with Bay: -12.10, LP: -10.60
+Elapsed time: 1516.637 minutes, iter: 754 out of 961
+Done with Bay: -12.00, LP: -10.60
+Elapsed time: 1518.205 minutes, iter: 755 out of 961
+Done with Bay: -11.90, LP: -10.60
+Elapsed time: 1519.375 minutes, iter: 756 out of 961
+Done with Bay: -11.80, LP: -10.60
+Elapsed time: 1520.573 minutes, iter: 757 out of 961
+Done with Bay: -11.70, LP: -10.60
+Elapsed time: 1521.835 minutes, iter: 758 out of 961
+Done with Bay: -11.60, LP: -10.60
+Elapsed time: 1523.036 minutes, iter: 759 out of 961
+Done with Bay: -11.50, LP: -10.60
+Elapsed time: 1524.236 minutes, iter: 760 out of 961
+Done with Bay: -11.40, LP: -10.60
+Elapsed time: 1525.586 minutes, iter: 761 out of 961
+Done with Bay: -11.30, LP: -10.60
+Elapsed time: 1527.078 minutes, iter: 762 out of 961
+Done with Bay: -11.20, LP: -10.60
+Elapsed time: 1528.190 minutes, iter: 763 out of 961
+Done with Bay: -11.10, LP: -10.60
+Elapsed time: 1529.330 minutes, iter: 764 out of 961
+Done with Bay: -11.00, LP: -10.60
+Elapsed time: 1530.660 minutes, iter: 765 out of 961
+Done with Bay: -10.90, LP: -10.60
+Elapsed time: 1531.769 minutes, iter: 766 out of 961
+Done with Bay: -10.80, LP: -10.60
+Elapsed time: 1532.848 minutes, iter: 767 out of 961
+Done with Bay: -10.70, LP: -10.60
+Elapsed time: 1533.954 minutes, iter: 768 out of 961
+Done with Bay: -10.60, LP: -10.60
+Elapsed time: 1535.338 minutes, iter: 769 out of 961
+Done with Bay: -10.50, LP: -10.60
+Elapsed time: 1536.659 minutes, iter: 770 out of 961
+Done with Bay: -10.40, LP: -10.60
+Elapsed time: 1537.739 minutes, iter: 771 out of 961
+Done with Bay: -10.30, LP: -10.60
+Elapsed time: 1538.896 minutes, iter: 772 out of 961
+Done with Bay: -10.20, LP: -10.60
+Elapsed time: 1540.066 minutes, iter: 773 out of 961
+Done with Bay: -10.10, LP: -10.60
+Elapsed time: 1541.153 minutes, iter: 774 out of 961
+Done with Bay: -10.00, LP: -10.60
+Elapsed time: 1542.257 minutes, iter: 775 out of 961
+Done with Bay: -13.00, LP: -10.50
+Elapsed time: 1543.542 minutes, iter: 776 out of 961
+Done with Bay: -12.90, LP: -10.50
+Elapsed time: 1546.500 minutes, iter: 777 out of 961
+Done with Bay: -12.80, LP: -10.50
+Elapsed time: 1549.883 minutes, iter: 778 out of 961
+Done with Bay: -12.70, LP: -10.50
+Elapsed time: 1551.627 minutes, iter: 779 out of 961
+Done with Bay: -12.60, LP: -10.50
+Elapsed time: 1552.821 minutes, iter: 780 out of 961
+Done with Bay: -12.50, LP: -10.50
+Elapsed time: 1554.018 minutes, iter: 781 out of 961
+Done with Bay: -12.40, LP: -10.50
+Elapsed time: 1555.218 minutes, iter: 782 out of 961
+Done with Bay: -12.30, LP: -10.50
+Elapsed time: 1556.478 minutes, iter: 783 out of 961
+Done with Bay: -12.20, LP: -10.50
+Elapsed time: 1558.210 minutes, iter: 784 out of 961
+Done with Bay: -12.10, LP: -10.50
+Elapsed time: 1559.877 minutes, iter: 785 out of 961
+Done with Bay: -12.00, LP: -10.50
+Elapsed time: 1561.513 minutes, iter: 786 out of 961
+Done with Bay: -11.90, LP: -10.50
+Elapsed time: 1562.655 minutes, iter: 787 out of 961
+Done with Bay: -11.80, LP: -10.50
+Elapsed time: 1563.917 minutes, iter: 788 out of 961
+Done with Bay: -11.70, LP: -10.50
+Elapsed time: 1565.364 minutes, iter: 789 out of 961
+Done with Bay: -11.60, LP: -10.50
+Elapsed time: 1566.745 minutes, iter: 790 out of 961
+Done with Bay: -11.50, LP: -10.50
+Elapsed time: 1568.159 minutes, iter: 791 out of 961
+Done with Bay: -11.40, LP: -10.50
+Elapsed time: 1569.852 minutes, iter: 792 out of 961
+Done with Bay: -11.30, LP: -10.50
+Elapsed time: 1571.463 minutes, iter: 793 out of 961
+Done with Bay: -11.20, LP: -10.50
+Elapsed time: 1572.791 minutes, iter: 794 out of 961
+Done with Bay: -11.10, LP: -10.50
+Elapsed time: 1574.304 minutes, iter: 795 out of 961
+Done with Bay: -11.00, LP: -10.50
+Elapsed time: 1575.624 minutes, iter: 796 out of 961
+Done with Bay: -10.90, LP: -10.50
+Elapsed time: 1576.882 minutes, iter: 797 out of 961
+Done with Bay: -10.80, LP: -10.50
+Elapsed time: 1578.346 minutes, iter: 798 out of 961
+Done with Bay: -10.70, LP: -10.50
+Elapsed time: 1579.510 minutes, iter: 799 out of 961
+Done with Bay: -10.60, LP: -10.50
+Elapsed time: 1580.746 minutes, iter: 800 out of 961
+Done with Bay: -10.50, LP: -10.50
+Elapsed time: 1582.064 minutes, iter: 801 out of 961
+Done with Bay: -10.40, LP: -10.50
+Elapsed time: 1583.506 minutes, iter: 802 out of 961
+Done with Bay: -10.30, LP: -10.50
+Elapsed time: 1585.000 minutes, iter: 803 out of 961
+Done with Bay: -10.20, LP: -10.50
+Elapsed time: 1586.157 minutes, iter: 804 out of 961
+Done with Bay: -10.10, LP: -10.50
+Elapsed time: 1587.469 minutes, iter: 805 out of 961
+Done with Bay: -10.00, LP: -10.50
+Elapsed time: 1588.939 minutes, iter: 806 out of 961
+Done with Bay: -13.00, LP: -10.40
+Elapsed time: 1590.161 minutes, iter: 807 out of 961
+Done with Bay: -12.90, LP: -10.40
+Elapsed time: 1593.285 minutes, iter: 808 out of 961
+Done with Bay: -12.80, LP: -10.40
+Elapsed time: 1595.019 minutes, iter: 809 out of 961
+Done with Bay: -12.70, LP: -10.40
+Elapsed time: 1596.755 minutes, iter: 810 out of 961
+Done with Bay: -12.60, LP: -10.40
+Elapsed time: 1597.952 minutes, iter: 811 out of 961
+Done with Bay: -12.50, LP: -10.40
+Elapsed time: 1599.148 minutes, iter: 812 out of 961
+Done with Bay: -12.40, LP: -10.40
+Elapsed time: 1600.345 minutes, iter: 813 out of 961
+Done with Bay: -12.30, LP: -10.40
+Elapsed time: 1601.542 minutes, iter: 814 out of 961
+Done with Bay: -12.20, LP: -10.40
+Elapsed time: 1603.144 minutes, iter: 815 out of 961
+Done with Bay: -12.10, LP: -10.40
+Elapsed time: 1604.609 minutes, iter: 816 out of 961
+Done with Bay: -12.00, LP: -10.40
+Elapsed time: 1606.219 minutes, iter: 817 out of 961
+Done with Bay: -11.90, LP: -10.40
+Elapsed time: 1607.571 minutes, iter: 818 out of 961
+Done with Bay: -11.80, LP: -10.40
+Elapsed time: 1608.896 minutes, iter: 819 out of 961
+Done with Bay: -11.70, LP: -10.40
+Elapsed time: 1610.104 minutes, iter: 820 out of 961
+Done with Bay: -11.60, LP: -10.40
+Elapsed time: 1611.312 minutes, iter: 821 out of 961
+Done with Bay: -11.50, LP: -10.40
+Elapsed time: 1612.454 minutes, iter: 822 out of 961
+Done with Bay: -11.40, LP: -10.40
+Elapsed time: 1613.675 minutes, iter: 823 out of 961
+Done with Bay: -11.30, LP: -10.40
+Elapsed time: 1614.978 minutes, iter: 824 out of 961
+Done with Bay: -11.20, LP: -10.40
+Elapsed time: 1616.541 minutes, iter: 825 out of 961
+Done with Bay: -11.10, LP: -10.40
+Elapsed time: 1617.758 minutes, iter: 826 out of 961
+Done with Bay: -11.00, LP: -10.40
+Elapsed time: 1619.197 minutes, iter: 827 out of 961
+Done with Bay: -10.90, LP: -10.40
+Elapsed time: 1620.579 minutes, iter: 828 out of 961
+Done with Bay: -10.80, LP: -10.40
+Elapsed time: 1621.825 minutes, iter: 829 out of 961
+Done with Bay: -10.70, LP: -10.40
+Elapsed time: 1623.325 minutes, iter: 830 out of 961
+Done with Bay: -10.60, LP: -10.40
+Elapsed time: 1624.952 minutes, iter: 831 out of 961
+Done with Bay: -10.50, LP: -10.40
+Elapsed time: 1626.129 minutes, iter: 832 out of 961
+Done with Bay: -10.40, LP: -10.40
+Elapsed time: 1627.599 minutes, iter: 833 out of 961
+Done with Bay: -10.30, LP: -10.40
+Elapsed time: 1628.855 minutes, iter: 834 out of 961
+Done with Bay: -10.20, LP: -10.40
+Elapsed time: 1630.409 minutes, iter: 835 out of 961
+Done with Bay: -10.10, LP: -10.40
+Elapsed time: 1631.799 minutes, iter: 836 out of 961
+Done with Bay: -10.00, LP: -10.40
+Elapsed time: 1633.266 minutes, iter: 837 out of 961
+Done with Bay: -13.00, LP: -10.30
+Elapsed time: 1634.325 minutes, iter: 838 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.90, LP: -10.30
+Elapsed time: 1635.155 minutes, iter: 839 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.80, LP: -10.30
+Elapsed time: 1636.039 minutes, iter: 840 out of 961
+Done with Bay: -12.70, LP: -10.30
+Elapsed time: 1637.771 minutes, iter: 841 out of 961
+Done with Bay: -12.60, LP: -10.30
+Elapsed time: 1638.969 minutes, iter: 842 out of 961
+Done with Bay: -12.50, LP: -10.30
+Elapsed time: 1640.169 minutes, iter: 843 out of 961
+Done with Bay: -12.40, LP: -10.30
+Elapsed time: 1641.366 minutes, iter: 844 out of 961
+Done with Bay: -12.30, LP: -10.30
+Elapsed time: 1642.571 minutes, iter: 845 out of 961
+Done with Bay: -12.20, LP: -10.30
+Elapsed time: 1644.251 minutes, iter: 846 out of 961
+Done with Bay: -12.10, LP: -10.30
+Elapsed time: 1645.904 minutes, iter: 847 out of 961
+Done with Bay: -12.00, LP: -10.30
+Elapsed time: 1647.662 minutes, iter: 848 out of 961
+Done with Bay: -11.90, LP: -10.30
+Elapsed time: 1648.856 minutes, iter: 849 out of 961
+Done with Bay: -11.80, LP: -10.30
+Elapsed time: 1649.996 minutes, iter: 850 out of 961
+Done with Bay: -11.70, LP: -10.30
+Elapsed time: 1651.133 minutes, iter: 851 out of 961
+Done with Bay: -11.60, LP: -10.30
+Elapsed time: 1652.268 minutes, iter: 852 out of 961
+Done with Bay: -11.50, LP: -10.30
+Elapsed time: 1653.493 minutes, iter: 853 out of 961
+Done with Bay: -11.40, LP: -10.30
+Elapsed time: 1654.846 minutes, iter: 854 out of 961
+Done with Bay: -11.30, LP: -10.30
+Elapsed time: 1656.376 minutes, iter: 855 out of 961
+Done with Bay: -11.20, LP: -10.30
+Elapsed time: 1657.610 minutes, iter: 856 out of 961
+Done with Bay: -11.10, LP: -10.30
+Elapsed time: 1658.824 minutes, iter: 857 out of 961
+Done with Bay: -11.00, LP: -10.30
+Elapsed time: 1660.185 minutes, iter: 858 out of 961
+Done with Bay: -10.90, LP: -10.30
+Elapsed time: 1661.354 minutes, iter: 859 out of 961
+Done with Bay: -10.80, LP: -10.30
+Elapsed time: 1662.491 minutes, iter: 860 out of 961
+Done with Bay: -10.70, LP: -10.30
+Elapsed time: 1663.574 minutes, iter: 861 out of 961
+Done with Bay: -10.60, LP: -10.30
+Elapsed time: 1664.885 minutes, iter: 862 out of 961
+Done with Bay: -10.50, LP: -10.30
+Elapsed time: 1666.201 minutes, iter: 863 out of 961
+Done with Bay: -10.40, LP: -10.30
+Elapsed time: 1667.278 minutes, iter: 864 out of 961
+Done with Bay: -10.30, LP: -10.30
+Elapsed time: 1668.435 minutes, iter: 865 out of 961
+Done with Bay: -10.20, LP: -10.30
+Elapsed time: 1669.678 minutes, iter: 866 out of 961
+Done with Bay: -10.10, LP: -10.30
+Elapsed time: 1670.765 minutes, iter: 867 out of 961
+Done with Bay: -10.00, LP: -10.30
+Elapsed time: 1671.851 minutes, iter: 868 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP: -10.20
+Elapsed time: 1672.200 minutes, iter: 869 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.90, LP: -10.20
+Elapsed time: 1673.022 minutes, iter: 870 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.80, LP: -10.20
+Elapsed time: 1673.905 minutes, iter: 871 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.70, LP: -10.20
+Elapsed time: 1674.803 minutes, iter: 872 out of 961
+Done with Bay: -12.60, LP: -10.20
+Elapsed time: 1675.999 minutes, iter: 873 out of 961
+Done with Bay: -12.50, LP: -10.20
+Elapsed time: 1677.202 minutes, iter: 874 out of 961
+Done with Bay: -12.40, LP: -10.20
+Elapsed time: 1678.403 minutes, iter: 875 out of 961
+Done with Bay: -12.30, LP: -10.20
+Elapsed time: 1679.602 minutes, iter: 876 out of 961
+Done with Bay: -12.20, LP: -10.20
+Elapsed time: 1681.305 minutes, iter: 877 out of 961
+Done with Bay: -12.10, LP: -10.20
+Elapsed time: 1682.906 minutes, iter: 878 out of 961
+Done with Bay: -12.00, LP: -10.20
+Elapsed time: 1684.638 minutes, iter: 879 out of 961
+Done with Bay: -11.90, LP: -10.20
+Elapsed time: 1685.902 minutes, iter: 880 out of 961
+Done with Bay: -11.80, LP: -10.20
+Elapsed time: 1687.170 minutes, iter: 881 out of 961
+Done with Bay: -11.70, LP: -10.20
+Elapsed time: 1688.517 minutes, iter: 882 out of 961
+Done with Bay: -11.60, LP: -10.20
+Elapsed time: 1689.865 minutes, iter: 883 out of 961
+Done with Bay: -11.50, LP: -10.20
+Elapsed time: 1691.220 minutes, iter: 884 out of 961
+Done with Bay: -11.40, LP: -10.20
+Elapsed time: 1692.658 minutes, iter: 885 out of 961
+Done with Bay: -11.30, LP: -10.20
+Elapsed time: 1694.228 minutes, iter: 886 out of 961
+Done with Bay: -11.20, LP: -10.20
+Elapsed time: 1695.373 minutes, iter: 887 out of 961
+Done with Bay: -11.10, LP: -10.20
+Elapsed time: 1696.643 minutes, iter: 888 out of 961
+Done with Bay: -11.00, LP: -10.20
+Elapsed time: 1698.064 minutes, iter: 889 out of 961
+Done with Bay: -10.90, LP: -10.20
+Elapsed time: 1699.293 minutes, iter: 890 out of 961
+Done with Bay: -10.80, LP: -10.20
+Elapsed time: 1700.458 minutes, iter: 891 out of 961
+Done with Bay: -10.70, LP: -10.20
+Elapsed time: 1701.781 minutes, iter: 892 out of 961
+Done with Bay: -10.60, LP: -10.20
+Elapsed time: 1702.938 minutes, iter: 893 out of 961
+Done with Bay: -10.50, LP: -10.20
+Elapsed time: 1704.403 minutes, iter: 894 out of 961
+Done with Bay: -10.40, LP: -10.20
+Elapsed time: 1705.798 minutes, iter: 895 out of 961
+Done with Bay: -10.30, LP: -10.20
+Elapsed time: 1707.193 minutes, iter: 896 out of 961
+Done with Bay: -10.20, LP: -10.20
+Elapsed time: 1708.440 minutes, iter: 897 out of 961
+Done with Bay: -10.10, LP: -10.20
+Elapsed time: 1709.837 minutes, iter: 898 out of 961
+Done with Bay: -10.00, LP: -10.20
+Elapsed time: 1711.153 minutes, iter: 899 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP: -10.10
+Elapsed time: 1711.502 minutes, iter: 900 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.90, LP: -10.10
+Elapsed time: 1712.308 minutes, iter: 901 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.80, LP: -10.10
+Elapsed time: 1713.188 minutes, iter: 902 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.70, LP: -10.10
+Elapsed time: 1714.080 minutes, iter: 903 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.60, LP: -10.10
+Elapsed time: 1714.430 minutes, iter: 904 out of 961
+Done with Bay: -12.50, LP: -10.10
+Elapsed time: 1715.630 minutes, iter: 905 out of 961
+Done with Bay: -12.40, LP: -10.10
+Elapsed time: 1716.829 minutes, iter: 906 out of 961
+Done with Bay: -12.30, LP: -10.10
+Elapsed time: 1718.028 minutes, iter: 907 out of 961
+Done with Bay: -12.20, LP: -10.10
+Elapsed time: 1719.702 minutes, iter: 908 out of 961
+Done with Bay: -12.10, LP: -10.10
+Elapsed time: 1721.300 minutes, iter: 909 out of 961
+Done with Bay: -12.00, LP: -10.10
+Elapsed time: 1722.973 minutes, iter: 910 out of 961
+Done with Bay: -11.90, LP: -10.10
+Elapsed time: 1724.236 minutes, iter: 911 out of 961
+Done with Bay: -11.80, LP: -10.10
+Elapsed time: 1725.507 minutes, iter: 912 out of 961
+Done with Bay: -11.70, LP: -10.10
+Elapsed time: 1726.700 minutes, iter: 913 out of 961
+Done with Bay: -11.60, LP: -10.10
+Elapsed time: 1727.844 minutes, iter: 914 out of 961
+Done with Bay: -11.50, LP: -10.10
+Elapsed time: 1728.979 minutes, iter: 915 out of 961
+Done with Bay: -11.40, LP: -10.10
+Elapsed time: 1730.476 minutes, iter: 916 out of 961
+Done with Bay: -11.30, LP: -10.10
+Elapsed time: 1732.124 minutes, iter: 917 out of 961
+Done with Bay: -11.20, LP: -10.10
+Elapsed time: 1733.295 minutes, iter: 918 out of 961
+Done with Bay: -11.10, LP: -10.10
+Elapsed time: 1734.435 minutes, iter: 919 out of 961
+Done with Bay: -11.00, LP: -10.10
+Elapsed time: 1736.017 minutes, iter: 920 out of 961
+Done with Bay: -10.90, LP: -10.10
+Elapsed time: 1737.250 minutes, iter: 921 out of 961
+Done with Bay: -10.80, LP: -10.10
+Elapsed time: 1738.451 minutes, iter: 922 out of 961
+Done with Bay: -10.70, LP: -10.10
+Elapsed time: 1739.620 minutes, iter: 923 out of 961
+Done with Bay: -10.60, LP: -10.10
+Elapsed time: 1740.995 minutes, iter: 924 out of 961
+Done with Bay: -10.50, LP: -10.10
+Elapsed time: 1742.238 minutes, iter: 925 out of 961
+Done with Bay: -10.40, LP: -10.10
+Elapsed time: 1743.319 minutes, iter: 926 out of 961
+Done with Bay: -10.30, LP: -10.10
+Elapsed time: 1744.486 minutes, iter: 927 out of 961
+Done with Bay: -10.20, LP: -10.10
+Elapsed time: 1745.725 minutes, iter: 928 out of 961
+Done with Bay: -10.10, LP: -10.10
+Elapsed time: 1746.808 minutes, iter: 929 out of 961
+Done with Bay: -10.00, LP: -10.10
+Elapsed time: 1747.888 minutes, iter: 930 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -13.00, LP: -10.00
+Elapsed time: 1748.238 minutes, iter: 931 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.90, LP: -10.00
+Elapsed time: 1749.056 minutes, iter: 932 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.80, LP: -10.00
+Elapsed time: 1749.936 minutes, iter: 933 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.70, LP: -10.00
+Elapsed time: 1750.817 minutes, iter: 934 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.60, LP: -10.00
+Elapsed time: 1751.173 minutes, iter: 935 out of 961
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.327534e-18. 
+There was an error! MATLAB:nearlySingularMatrix
+Done with Bay: -12.50, LP: -10.00
+Elapsed time: 1751.523 minutes, iter: 936 out of 961
+Done with Bay: -12.40, LP: -10.00
+Elapsed time: 1752.726 minutes, iter: 937 out of 961
+Done with Bay: -12.30, LP: -10.00
+Elapsed time: 1753.927 minutes, iter: 938 out of 961
+Done with Bay: -12.20, LP: -10.00
+Elapsed time: 1755.612 minutes, iter: 939 out of 961
+Done with Bay: -12.10, LP: -10.00
+Elapsed time: 1757.209 minutes, iter: 940 out of 961
+Done with Bay: -12.00, LP: -10.00
+Elapsed time: 1758.889 minutes, iter: 941 out of 961
+Done with Bay: -11.90, LP: -10.00
+Elapsed time: 1760.094 minutes, iter: 942 out of 961
+Done with Bay: -11.80, LP: -10.00
+Elapsed time: 1761.356 minutes, iter: 943 out of 961
+Done with Bay: -11.70, LP: -10.00
+Elapsed time: 1762.613 minutes, iter: 944 out of 961
+Done with Bay: -11.60, LP: -10.00
+Elapsed time: 1763.816 minutes, iter: 945 out of 961
+Done with Bay: -11.50, LP: -10.00
+Elapsed time: 1764.999 minutes, iter: 946 out of 961
+Done with Bay: -11.40, LP: -10.00
+Elapsed time: 1766.285 minutes, iter: 947 out of 961
+Done with Bay: -11.30, LP: -10.00
+Elapsed time: 1767.570 minutes, iter: 948 out of 961
+Done with Bay: -11.20, LP: -10.00
+Elapsed time: 1768.795 minutes, iter: 949 out of 961
+Done with Bay: -11.10, LP: -10.00
+Elapsed time: 1770.293 minutes, iter: 950 out of 961
+Done with Bay: -11.00, LP: -10.00
+Elapsed time: 1771.589 minutes, iter: 951 out of 961
+Done with Bay: -10.90, LP: -10.00
+Elapsed time: 1772.939 minutes, iter: 952 out of 961
+Done with Bay: -10.80, LP: -10.00
+Elapsed time: 1774.592 minutes, iter: 953 out of 961
+Done with Bay: -10.70, LP: -10.00
+Elapsed time: 1775.935 minutes, iter: 954 out of 961
+Done with Bay: -10.60, LP: -10.00
+Elapsed time: 1777.564 minutes, iter: 955 out of 961
+Done with Bay: -10.50, LP: -10.00
+Elapsed time: 1778.865 minutes, iter: 956 out of 961
+Done with Bay: -10.40, LP: -10.00
+Elapsed time: 1780.097 minutes, iter: 957 out of 961
+Done with Bay: -10.30, LP: -10.00
+Elapsed time: 1781.254 minutes, iter: 958 out of 961
+Done with Bay: -10.20, LP: -10.00
+Elapsed time: 1782.646 minutes, iter: 959 out of 961
+Done with Bay: -10.10, LP: -10.00
+Elapsed time: 1784.033 minutes, iter: 960 out of 961
+Done with Bay: -10.00, LP: -10.00
+Elapsed time: 1785.268 minutes, iter: 961 out of 961
+Total time: 1785.27 minutes
+>> 

@@ -1,4 +1,4 @@
-n=0.66667 logSig Bay and LP -10:0.24:-0.25
+n=0.66667 logSig Bay and LP -10:0.25:-0.25
 There was an error! MATLAB:nearlySingularMatrix
 Done with Bay:  -8.75, LP:  -9.25
 Elapsed time:  6.523 minutes, iter: 126 out of 1600
