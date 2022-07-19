@@ -2,12 +2,12 @@ addpath(genpath('/Users/felipearon/Dropbox/Documents/Codes/colorpalettes'))
 addpath(genpath('/Users/felipearon/Dropbox/Documents/Codes/utils'))
 addpath(genpath('/Users/felipearon/Dropbox/Documents/GitHub/TopoBEMInversion'))
 
-filename_weight='WeightingResults1.mat';
-sig_bay_weights=[-6.3 -6.4 -6.5]; sig_loma_weights=[-6.1 -6.4 -6.8];
-% filename_weight='WeightingResults_n0_66667_backup2.mat';
-% sig_bay_weights=[-5.2 -5.3 -5.4]; sig_loma_weights=[-5.0 -5.3 -5.7];
-% filename_weight='WeightingResults_n2_5.mat';
+% filename_weight='WeightingResults1.mat';
 % sig_bay_weights=[-6.3 -6.4 -6.5]; sig_loma_weights=[-6.1 -6.4 -6.8];
+% filename_weight='WeightingResults_n0_66667.mat';
+% sig_bay_weights=[-5.2 -5.3 -5.4]; sig_loma_weights=[-5.0 -5.3 -5.7];
+filename_weight='WeightingResults_n2_5.mat';
+sig_bay_weights=[-11.5 -11.6 -11.7]; sig_loma_weights=[-10.8 -10.9 -11.0];
 
 load(filename_weight);
 
@@ -29,20 +29,27 @@ v_n_weights=interp2(log_w_bay,log_w_lp,v_n.*-1e3,sig_bay_weights,sig_loma_weight
 log_k_weights=interp2(log_w_bay,log_w_lp,k,sig_bay_weights,sig_loma_weights,'nearest');
 
 
+% figs lims
+% x_lim=[min(log_w_bay)-.05 max(log_w_bay)+.05];
+% y_lim=[min(log_w_lp)-.05 max(log_w_lp)+.05];
+x_lim=[-12.3-.05 -10.9+.05];    %use this for n=2.5 only
+y_lim=[-11.6-.05 -10.2+.05];    %use this for n=2.5 only
+
 %%
 figure
 imagesc(log_w_bay,log_w_lp,chi_sq_outletsfree,'AlphaData',(~isnan(chi_sq_outletsfree))),
 axis equal, axis xy, set(gca,'Ydir','normal')
 % CT=cbrewer('seq', 'PuBuGn', 100); colormap(CT); colorbar
 CT=cbrewer('div', 'Spectral', 100); colormap(CT); colorbar
+caxis([7.7 33.9]) %use this for n=2.5 only
 label('log \sigma Bay [mm/yr]','log \sigma Loma Prieta [mm/yr]',14)
 hold on
 plot(sig_bay_weights(1),sig_loma_weights(1),'ok','LineWidth',2,'MarkerFaceColor','y','MarkerSize',12)
 plot(sig_bay_weights(2),sig_loma_weights(2),'dk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',12)
 plot(sig_bay_weights(3),sig_loma_weights(3),'pk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',20)
 hold off
-xlim([min(log_w_bay)-.05 max(log_w_bay)+.05])
-ylim([min(log_w_lp)-.05 max(log_w_lp)+.05])
+xlim(x_lim)
+ylim(y_lim)
 title('Reduced Chi-Squared Values Elevation Points')
 font(14)
 set(gcf,'Position',[10, 10, 600, 600])
@@ -52,15 +59,15 @@ imagesc(log_w_bay,log_w_lp,abs(bay_resid.*1e3),'AlphaData',(~isnan(bay_resid))),
 axis equal, axis xy, set(gca,'Ydir','normal')
 % CT=cbrewer('seq', 'YlOrBr', 100); colormap(CT); colorbar
 CT=cbrewer('div', 'BrBG', 100); colormap(CT); colorbar
-% caxis([0 0.5])
+caxis([0 0.13]) %use this for n=2.5 only
 label('log \sigma Bay [mm/yr]','log \sigma Loma Prieta [mm/yr]',14)
 hold on
 plot(sig_bay_weights(1),sig_loma_weights(1),'ok','LineWidth',2,'MarkerFaceColor','y','MarkerSize',12)
 plot(sig_bay_weights(2),sig_loma_weights(2),'dk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',12)
 plot(sig_bay_weights(3),sig_loma_weights(3),'pk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',20)
 hold off
-xlim([min(log_w_bay)-.05 max(log_w_bay)+.05])
-ylim([min(log_w_lp)-.05 max(log_w_lp)+.05])
+xlim(x_lim)
+ylim(y_lim)
 title('Bay Residuals [mm/yr]')
 font(14)
 set(gcf,'Position',[10, 10, 600, 600])
@@ -70,15 +77,15 @@ imagesc(log_w_bay,log_w_lp,abs(lp_resid.*1e3),'AlphaData',(~isnan(bay_resid))),
 axis equal, axis xy, set(gca,'Ydir','normal')
 CT=cbrewer('seq', 'YlGn', 100); colormap(CT); colorbar
 % CT=cbrewer('div', 'RdYlBu', 100); colormap(CT); colorbar
-% caxis([0 0.5])
+
 label('log \sigma Bay [mm/yr]','log \sigma Loma Prieta [mm/yr]',14)
 hold on
 plot(sig_bay_weights(1),sig_loma_weights(1),'ok','LineWidth',2,'MarkerFaceColor','y','MarkerSize',12)
 plot(sig_bay_weights(2),sig_loma_weights(2),'dk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',12)
 plot(sig_bay_weights(3),sig_loma_weights(3),'pk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',20)
 hold off
-xlim([min(log_w_bay)-.05 max(log_w_bay)+.05])
-ylim([min(log_w_lp)-.05 max(log_w_lp)+.05])
+xlim(x_lim)
+ylim(y_lim)
 title('Loma Prieta Residuals [mm/yr]')
 font(14)
 set(gcf,'Position',[10, 10, 600, 600])
@@ -87,14 +94,15 @@ figure
 imagesc(log_w_bay,log_w_lp,v_s.*1e3,'AlphaData',(~isnan(v_s))),
 axis equal, axis xy, set(gca,'Ydir','normal')
 CT=cbrewer('seq', 'Reds', 100); colormap(CT); colorbar
+caxis([0 70]) %use this for n=2.5 only
 label('log \sigma Bay [mm/yr]','log \sigma Loma Prieta [mm/yr]',14)
 hold on
 plot(sig_bay_weights(1),sig_loma_weights(1),'ok','LineWidth',2,'MarkerFaceColor','y','MarkerSize',12)
 plot(sig_bay_weights(2),sig_loma_weights(2),'dk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',12)
 plot(sig_bay_weights(3),sig_loma_weights(3),'pk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',20)
 hold off
-xlim([min(log_w_bay)-.05 max(log_w_bay)+.05])
-ylim([min(log_w_lp)-.05 max(log_w_lp)+.05])
+xlim(x_lim)
+ylim(y_lim)
 title('Shear Plate Motion [mm/yr]')
 font(14)
 set(gcf,'Position',[10, 10, 600, 600])
@@ -102,7 +110,8 @@ set(gcf,'Position',[10, 10, 600, 600])
 figure
 imagesc(log_w_bay,log_w_lp,v_n.*-1e3,'AlphaData',(~isnan(v_n))),
 axis equal, axis xy, set(gca,'Ydir','normal')
-caxis([-max(abs(v_n(:).*1e3)) max(abs(v_n(:).*1e3))])
+% caxis([-max(abs(v_n(:).*1e3)) max(abs(v_n(:).*1e3))])
+caxis([-1.2 1.2]) %use this for n=2.5 only
 CT=cbrewer('div', 'RdYlBu', 100); colormap(CT); colorbar
 label('log \sigma Bay [mm/yr]','log \sigma Loma Prieta [mm/yr]',14)
 hold on
@@ -110,8 +119,8 @@ plot(sig_bay_weights(1),sig_loma_weights(1),'ok','LineWidth',2,'MarkerFaceColor'
 plot(sig_bay_weights(2),sig_loma_weights(2),'dk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',12)
 plot(sig_bay_weights(3),sig_loma_weights(3),'pk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',20)
 hold off
-xlim([min(log_w_bay)-.05 max(log_w_bay)+.05])
-ylim([min(log_w_lp)-.05 max(log_w_lp)+.05])
+xlim(x_lim)
+ylim(y_lim)
 title('Normal Plate Motion [mm/yr]')
 font(14)
 set(gcf,'Position',[10, 10, 600, 600])
@@ -128,8 +137,10 @@ plot(sig_bay_weights(1),sig_loma_weights(1),'ok','LineWidth',2,'MarkerFaceColor'
 plot(sig_bay_weights(2),sig_loma_weights(2),'dk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',12)
 plot(sig_bay_weights(3),sig_loma_weights(3),'pk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',20)
 hold off
-xlim([min(log_w_bay)-.05 max(log_w_bay)+.05])
-ylim([min(log_w_lp)-.05 max(log_w_lp)+.05])
+xlim(x_lim)
+ylim(y_lim)
+% xlim([-12.0-.05 -10.4+.05]) %use this for n=2.5 only
+% ylim([-12.5-.05 -11.1+.05]) %use this for n=2.5 only
 title('Log10(Erodibility) [m^{0.2}/yr]')
 font(14)
 set(gcf,'Position',[10, 10, 600, 600])
@@ -139,6 +150,7 @@ figure
 surf(log_w_bay,log_w_lp,chi_sq_outletsfree), shading flat
 axis xy
 CT=cbrewer('div', 'Spectral', 100); colormap(CT); colorbar
+% caxis([7.7 33.9]) %use this for n=2.5 only
 % label('log \sigma Loma Prieta [mm/yr]','log \sigma Loma Prieta [mm/yr]',14)
 xlabel('log \sigma Bay [mm/yr]')
 ylabel('log \sigma Loma Prieta [mm/yr]')
@@ -148,8 +160,8 @@ plot3(sig_bay_weights(1),sig_loma_weights(1),chi_sq_outletsfree_weights(1)+.2,'o
 plot3(sig_bay_weights(2),sig_loma_weights(2),chi_sq_outletsfree_weights(2)+.2,'dk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',12)
 plot3(sig_bay_weights(3),sig_loma_weights(3),chi_sq_outletsfree_weights(3)+.2,'pk','LineWidth',2,'MarkerFaceColor','y','MarkerSize',20)
 hold off
-xlim([min(log_w_bay)-.01 max(log_w_bay)+.01])
-ylim([min(log_w_lp)-.01 max(log_w_lp)+.01])
+xlim(x_lim)
+ylim(y_lim)
 title('Reduced Chi-Squared Values Elevation Points')
 font(14)
 set(gcf,'Position',[10, 10, 1100, 600])
